@@ -1,0 +1,156 @@
+actions:
+- utter_unit_8:_what_can_you_do?_happy_kids_hk1
+- utter_unit_3:_how_many_eyes_happy_kids_hk1
+- utter_unit_1:_who's_in_your_family_happy_kids_hk1
+- utter_unit_5:_what_can_you_find_outside_happy_kids_hk1
+- utter_ket_qua_đau_ra_happy_kids_hk1
+- utter_ky_nang_đoc_va_viet_happy_kids_hk1
+- utter_unit_9:_what_snack_do_you_like?_happy_kids_hk1
+- utter_unit_2:_what's_this?_happy_kids_hk1
+- utter_unit_starter:_hello._do_you_want_to_play?_happy_kids_hk1
+- utter_lo_trinh_hoc_tap_happy_kids_hk1
+- utter_unit_7:_what_pets_do_you_like?_happy_kids_hk1
+- utter_khung_chuong_trinh_hoc_happy_kids_hk1
+- utter_unit_4:_what_do_you_ride?_happy_kids_hk1
+- utter_ky_nang_nghe_happy_kids_hk1
+- utter_unit_6:_what's_in_the_toy_box?_happy_kids_hk1
+intents:
+- unit_4_what_do_you_ride_happy_kids_hk1
+- ket_qua_dau_ra_happy_kids_hk1
+- ky_nang_nghe_happy_kids_hk1
+- unit_7_what_pets_do_you_like_happy_kids_hk1
+- unit_6_what's_in_the_toy_box_happy_kids_hk1
+- unit_9_what_snack_do_you_like_happy_kids_hk1
+- unit_3_how_many_eyes_happy_kids_hk1
+- unit_5_what_can_you_find_outside_happy_kids_hk1
+- unit_1_who's_in_your_family_happy_kids_hk1
+- unit_starter_hello_do_you_want_to_play_happy_kids_hk1
+- ky_nang_doc_va_viet_happy_kids_hk1
+- khung_chuong_trinh_hoc_happy_kids_hk1
+- unit_2_what's_this_happy_kids_hk1
+- unit_8_what_can_you_do_happy_kids_hk1
+- lo_trinh_hoc_tap_happy_kids_hk1
+responses:
+  utter_ket_qua_đau_ra_happy_kids_hk1:
+  - text: Pre Starter
+  utter_khung_chuong_trinh_hoc_happy_kids_hk1:
+  - text: Sẽ có 10 unit chính và sau mỗi unit sẽ có review và test cho mỗi bài. Bạn
+      có thể hỏi chi tiết hơn về các unit
+  utter_ky_nang_nghe_happy_kids_hk1:
+  - text: "Học viên có thể nghe và hiểu các câu giao tiếp đơn giản về các chủ đề quen\
+      \ thuộc như: gia đình, học tập, đồ ăn, động vật,… Có thể nhận biết cảm xúc của\
+      \ người nói để hiểu được đại ý của \ncâu\n\t\nKỹ năng nói \nCon có thể nói chuyện\
+      \ và giao tiếp với giáo viên bản ngữ và các bạn bằng tiếng anh để trao đổi về\
+      \ các chủ đề quen thuộc ở dạng câu đơn giản. Có khả chỉ ra, miêu tả và nhận\
+      \ xét về đồ vật và sự việc. Học viên có khả năng phát âm chuân hầu hết các từ\
+      \ thuộc nhiều chủ đề với mức độ chính xác cao, đôi lúc gặp khó khăn nhận biết\
+      \ các từ đồng âm"
+  utter_ky_nang_đoc_va_viet_happy_kids_hk1:
+  - text: "Học viên có thể dễ dàng nhận biết mặt chữ hoặc cụm từ quen thuộc giới hạn\
+      \ ở 1 đến 2 âm tiết. Học viên có thể kết nối hình ảnh và phát âm của chữ và\
+      \ từ nếu chỉ được nhìn thấy chữ viết\n\t\nTừ vựng và ngữ pháp\nHọc viên có thể\
+      \ nhớ và sử dụng kết hợp từ vựng và ngữ pháp chuẩn trong tiếp với độ chính xác\
+      \ 80% trong tất cả tình huống giao tiếp (lưu ý: trong các tình huống giao tiếp\
+      \ hội thoại học viên có thể mắc lỗi nhỏ trong phát âm và các mẫu câu 3 tính\
+      \ chất)"
+  utter_lo_trinh_hoc_tap_happy_kids_hk1:
+  - text: hướng tới học sinh đủ điều kiện tham gia học chứng chỉ Starter tiêu chuẩn
+      Cambridge
+  utter_unit_1:_who's_in_your_family_happy_kids_hk1:
+  - text: "Unit 1: Who's in your family happy kids hk1\nTừ vựng: \"Con nắm được từ\
+      \ vựng thuộc các chủ đề:\n- Danh từ chỉ người: brother, sister, mom, dad, friend,\
+      \ baby\n- Đồ vật và con vật: hat, mittens, coat, shoes, bear\"\t\t\t\t\nNgữ\
+      \ pháp:\"Con có thể sử dụng các mẫu câu sau:\n- Who's he/she?\n- He's/ She's\
+      \ my (dad)\n- Put on your (coat)\n- This is a (bear). It's a (baby)\"\t\t\t\t\
+      \t\nNgữ âm: Con biết phát âm các chữ cái a,b,c và các từ chứa âm của chữ cái\
+      \ đó như: apple, bus, cat\t\t\t\nMục tiêu:\"Con học cách giao tiếp với bạn bè\
+      \ để nhờ giúp đỡ hoặc cảm ơn sau khi được giúp đỡ\nCon sử dụng được Tiếng Anh\
+      \ đê chỉ ra đồ vật hoặc người thân xung quanh\""
+  utter_unit_2:_what's_this?_happy_kids_hk1:
+  - text: "Unit 2: What's this?\nTừ vựng: \"Con nắm được từ vựng thuộc các chủ đề:\n\
+      - Đồ dùng học tập: book, bag, pencil, crayon\n- Đồ vật quen thuộc và con vật:\
+      \ doll, ball, boat, teddy bear, doors, bees\n- Tính từ : old, new\"\t\nNgữ pháp:\
+      \ \"Con có thể giao tiếp bằng các câu sau:\n- What's this?\n- It's a (crayon)\n\
+      - Find the (boat)\n- It's old\\/new\n- This is my (cat)\"\t\nNgữ âm: Con biết\
+      \ phát âm các chữ cái d,e,f và các từ chứa âm của chữ cái đó như: dog, elephant,\
+      \ fish\t\t\t\nMục tiêu: \"Con học cách giao tiếp để chia sẻ đồ chơi hoặc đồ\
+      \ dùng học tập với bạn\nCon sử dụng Tiếng Anh đê chỉ ra đồ vật quen thuộc và\
+      \ nhận xét xem chúng mới hay cũ\""
+  utter_unit_3:_how_many_eyes_happy_kids_hk1:
+  - text: "Unit 3: How many eyes\nTừ vựng: \"Con nắm được từ vựng thuộc các chủ đề:\n\
+      - Bộ phận trên cơ thể: eyes, ears, nose, mouth, head, tummy, hands, feet, arms,\
+      \ legs\n- Tính từ và đồ vật quen thuộc: dives, hard, soft, feather, stone\"\t\
+      \nNgữ pháp: \"Con có thể giao tiếp bằng các câu sau:\n- How many (eyes)?\n-\
+      \ I have 2 (eyes)\n- I have 1 (nose)\n- It's (hard)\n- Clap your hands\"\t\n\
+      Ngữ âm: Con biết phát âm các chữ cái g, h, i và các từ chứa âm của chữ cái đó\
+      \ như: goat, hat, insect\t\t\t\nMục tiêu: \"Con học cách hỏi và trả lời về số\
+      \ lượng\nCon có thể nhận xét về độ cứng của đồ vật\nCon có thể khuyên nhủ và\
+      \ giao tiếp với bạn về việc giữ vệ sinh cá nhân\""
+  utter_unit_4:_what_do_you_ride?_happy_kids_hk1:
+  - text: "Unit 4: What do you ride?\nTừ vựng: \"Con nắm được từ vựng thuộc các chủ\
+      \ đề:\n- Phương tiện giao thông: car, bus, bike, train, plane, balloon, wheels\n\
+      - màu sắc: pink, purple\n- tính từ chỉ tốc độ và kích cỡ: fast, slow, big, small\n\
+      - danh từ chỉ đồ vật và thứ hạng: picture, the winner\"\t\nNgữ pháp: \"Con có\
+      \ thể giao tiếp bằng các câu sau:\n- Do you have a (bus)?\n- Yes\\/No\n- What\
+      \ color is it?\n- It's green\n- Let's try a (plane) and a (train)\n- The (train)\
+      \ is the winner\"\t\nNgữ âm: Con biết phát âm các chữ cái j, k, l và các từ\
+      \ chứa âm của chữ cái đó như: justice, kite, leg\t\t\t\nMục tiêu: \"Con học\
+      \ cách giao tiếp khi chơi với các bạn\nCon biết hỏi và miêu tả màu sắc của đồ\
+      \ vật\nCon biết cách yêu cầu, nhắc nhở người khác và xin lỗi khi bị nhắc nhở\""
+  utter_unit_5:_what_can_you_find_outside_happy_kids_hk1:
+  - text: "Unit 5: What can you find outside\nTừ vựng: \"Con nắm được từ vựng thuộc\
+      \ các chủ đề:\n- Sự vật ngoài thiên nhiên: hill, flower, tree, lake, slide,\
+      \ swing, seed, pot, water, sticks\n- giới từ chỉ vị trí: in, on\"\t\nNgữ pháp:\
+      \ \"Con có thể giao tiếp bằng các câu sau:\n- I see a (lake). I'm big\\/small\n\
+      - Is it big\\/small?\n- Yes\\/No\n- It's (small\\/pink)\n- It's in \\/on (the\
+      \ table)\"\t\nNgữ âm: Con biết phát âm các chữ cái m, n, o và các từ chứa âm\
+      \ của chữ cái đó như: pencil, quilt, rabbit\t\t\t\nMục tiêu: \"Con học cách\
+      \ chỉ ra sự vật ngoài thiên nhiên và nhận xét về màu sắc và kích cỡ của chúng\n\
+      Con có thể chỉ ra được vị trí của vật\nCon biết cách giao tiếp để chơi an toàn\""
+  utter_unit_6:_what's_in_the_toy_box?_happy_kids_hk1:
+  - text: "Unit 6: What's in the toy box?\nTừ vựng: \"Con nắm được từ vựng thuộc các\
+      \ chủ đề:\n- Đồ dùng trong nhà: table, chair, computer, toy box, plates, scissors,\
+      \ stick, glue, mat\n- hình khối và đồ vật: circle, triangle, star, pattern,\
+      \ shapes, limes, color\"\t\nNgữ pháp: \"Con có thể giao tiếp bằng các câu sau:\n\
+      - Where's the (computer)?\n- It's on\\/in the (table\\/toy box)\n- Look at my\
+      \ (toy box)\"\t\nNgữ âm: Con biết phát âm các chữ cái p, q, r và các từ chứa\
+      \ âm của chữ cái đó như: pencil, quilt, rabbit\t\t\t\nMục tiêu: \"Con biết cách\
+      \ hỏi và miêu tả vị trí đồ vật\nCon biết cách yêu cầu và ra lệnh ai đó làm một\
+      \ việc gì đó\""
+  utter_unit_7:_what_pets_do_you_like?_happy_kids_hk1:
+  - text: "Unit 7: What pets do you like?\t\nTừ vựng: \"Con nắm được từ vựng thuộc\
+      \ các chủ đề:\n- Các từ chỉ con vật: cat, bird, rabbit, turtle, mouse, pet\n\
+      - tính từ miêu tả, đồ vật và động từ: cute, love, feed, brush, toy, play with,\
+      \ pen, favourite\"\t\nNgữ pháp: \"Con có thể giao tiếp bằng các câu sau:\n-\
+      \ I like (birds)\n- 1 rabbit. 2 rabbits\n- My favourite pet is a (cat)\n- I\
+      \ (feed) my (pet)\"\t\nNgữ âm: Con biết phát âm các chữ cái s, t, u và các từ\
+      \ chứa âm của chữ cái đó như: sun, tablle, umbrella\t\t\t\nMục tiêu: \"Con học\
+      \ cách sư dụng tiếng anh để khuyên người khác khi giao tiếp với động vật\nCon\
+      \ có thể nói về con vật yêu thích của mình\""
+  utter_unit_8:_what_can_you_do?_happy_kids_hk1:
+  - text: "Unit 8: What can you do?\t\nTừ vựng: \"Con nắm được từ vựng thuộc các chủ\
+      \ đề:\n- Động từ chỉ hoạt động và trò chơi: roll a hoop, bounce a balloon, blow\
+      \ bubbles, stack cups, throw, hop, count, fly, jump, crawl, swim\"\t\nNgữ pháp:\
+      \ \"Con có thể giao tiếp bằng các câu sau:\n- I can\\/can't (blow bubbles)\n\
+      - Can you (count)? Yes\\/No\n- (A mouse) can \\/ can't (swim)\"\t\nNgữ âm: Con\
+      \ biết phát âm các chữ cái v,w,x và các từ chứa âm của chữ cái đó như: van,\
+      \ wheel, fox\t\t\t\nMục tiêu: \"Con biết cách nhận xét và khen người khác\n\
+      Con biết cách miêu tả về khả năng bản thân và người khác\""
+  utter_unit_9:_what_snack_do_you_like?_happy_kids_hk1:
+  - text: "Unit 9: What snack do you like?\nTừ vựng: \"Con nắm được từ vựng thuộc\
+      \ các chủ đề:\n- Hoa quả và đồ ăn: apple, grape, strawberry, banana, snacks,\
+      \ pizza, cheese, pancakes, cookies, honey, carrots, tomatoes, cucumbers, sandwich,\
+      \ picnic\"\t\nNgữ pháp: \"Con có thể giao tiếp bằng các câu sau:\n- Do you like\
+      \ (apples)?\n- I don't like (pizza)\n- What's your favourite snack?\n- My favourite\
+      \ is (cheese)\"\t\nNgữ âm: Con biết phát âm các chữ cái y,z và các từ chứa âm\
+      \ của chữ cái đó như: yogurt, zoo\nCon biết phát âm các từ CVC bag, hop, ten,\
+      \ cup\t\t\t\nMục tiêu: \"Con biết cách hỏi xin và yêu cầu một cách lịch sự\n\
+      Con biết hỏi và trả lời về đồ ăn yêu thích\""
+  utter_unit_starter:_hello._do_you_want_to_play?_happy_kids_hk1:
+  - text: "Unit Starter: Hello. Do you want to play? happy kids hk1\nTừ vựng: \"Con\
+      \ nắm được từ vựng thuộc các chủ đề:\n- Tên nhân vật: May, Sam, Bird, Benny,\
+      \ Prickly, Fifi\n- Danh từ chỉ người: teacher, boy, girl\n- Chào hỏi: welcome,\
+      \ hello, goodbye\n- Màu sắc và đồ vật: blue, red, yellow, ball\n\"\nNgữ pháp:\"\
+      Con co thể sử dụng các mẫu câu sau:\n- What's your name?\n-I'm (May)\n- Yes,\
+      \ No\"\t\t\t\nNgữ âm: Con được giới thiệu về các chữ cái và tên gọi của chúng\n\
+      Mục tiêu:Con học được cách chào và hỏi thăm bằng Tiếng Anh"

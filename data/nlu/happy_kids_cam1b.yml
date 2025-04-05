@@ -1,0 +1,78 @@
+nlu:
+- intent: ket_qua_đau_ra_happy_kids_cam1b
+  examples: |
+    - "Kết quả đầu ra là gì của khóa Happy Kids Cam 1b?"
+    - "Cho em biết kết quả đầu ra trong khóa học Happy Kids Cam 1b là gì?"
+    - "Kết quả đầu ra của Happy Kids Cam 1b là gì vậy?"
+
+- intent: ky_nang_nghe_happy_kids_cam1b
+  examples: |
+    - "Kỹ năng nghe nói về những gì trong khóa học Happy Kids Cam 1b?"
+    - "Con cần phải làm gì để cải thiện kỹ năng nghe trong khóa học Happy Kids Cam 1b?"
+    - "Có những phương pháp nào để rèn luyện kỹ năng nghe trong khóa học Happy Kids Cam 1b?"
+
+- intent: ky_nang_noi_happy_kids_cam1b
+  examples: |
+    - "Cần làm gì để phát triển kỹ năng nói của con trong khóa học Happy Kids Cam 1b?"
+    - "Kỹ năng nói ở trình độ nào là đủ tốt trong khóa học Happy Kids Cam 1b?"
+    - "Con cần luyện tập như thế nào để trở thành một người nói giỏi trong khóa học Happy Kids Cam 1b?"
+
+- intent: ky_nang_viet_happy_kids_cam1b
+  examples: |
+    - "Có những cách nào để cải thiện kỹ năng viết của con trong khóa học Happy Kids Cam 1b?"
+    - "Làm thế nào để con có thể viết một thư bằng Tiếng Anh trong khóa học Happy Kids Cam 1b?"
+    - "Con cần luyện viết những gì để cải thiện kỹ năng viết của mình trong khóa học Happy Kids Cam 1b?"
+
+- intent: ky_nang_đoc_happy_kids_cam1b
+  examples: |
+    - "Làm thế nào để con có thể đọc hiểu tốt hơn trong khóa học Happy Kids Cam 1b?"
+    - "Cần phải đọc những gì để cải thiện kỹ năng đọc của con trong khóa học Happy Kids Cam 1b?"
+    - "Con có thể làm gì để nâng cao khả năng đọc hiểu của mình trong khóa học Happy Kids Cam 1b?"
+
+- intent: unit_uni_4_lola_the_explore_happy_kids_cam1b
+  examples: |
+    - "Nội dung của Unit 4 trong khóa học Happy Kids Cam 1b là gì?"
+    - "Uni 4 đề cập đến những chủ đề nào trong khóa học Happy Kids Cam 1b?"
+    - "Unit về Lola the Explore nói về điều gì trong khóa học Happy Kids Cam 1b?"
+
+- intent: unit_uni_5_the_ugly_duckling_happy_kids_cam1b
+  examples: |
+    - "Unit 5 của khóa học Happy Kids Cam 1b nói về chủ đề gì?"
+    - "Nội dung của Unit Uni 5 trong Happy Kids Cam 1b là gì?"
+    - "Uni về The Ugly Duckling nói về điều gì trong khóa học Happy Kids Cam 1b?"
+
+- intent: unit_uni_6_the_very_lazy_ladybird_happy_kids_cam1b
+  examples: |
+    - "The Very Lazy Ladybird được thảo luận trong unit nào của khóa học Happy Kids Cam 1b?"
+    - "Uni 6 nói về Ladybird lười biếng trong khóa học Happy Kids Cam 1b đúng không?"
+    - "Unit về The Very Lazy Ladybird nói về gì trong khóa học Happy Kids Cam 1b?"
+
+- intent: unit:_unit_6:_lola_the_giant_happy_kids_cam1b
+  examples: |
+    - "Tôi muốn biết về nội dung của Unit 6: Lola the Giant trong Happy Kids Cam 1b."
+    - "Có thể cho tôi biết những gì được giảng dạy trong Unit 6: Lola the Giant của Happy Kids Cam 1b không?"
+
+- intent: unit:_unit_7:_monty_the_photographer_happy_kids_cam1b
+  examples: |
+    - "Tôi muốn biết về nội dung của Unit 7: Monty the Photographer trong Happy Kids Cam 1b."
+    - "Có thể cho tôi biết những gì được giảng dạy trong Unit 7: Monty the Photographer của Happy Kids Cam 1b không?"
+
+- intent: unit:_unit_8:_lola_the_animal_helper_happy_kids_cam1b
+  examples: |
+    - "Tôi muốn biết về nội dung của Unit 8: Lola the Animal Helper trong Happy Kids Cam 1b."
+    - "Có thể cho tôi biết những gì được giảng dạy trong Unit 8: Lola the Animal Helper của Happy Kids Cam 1b không?"
+
+- intent: unit:_unit_9:_monty_the_cook_happy_kids_cam1b
+  examples: |
+    - "Tôi muốn biết về nội dung của Unit 9: Monty the Cook trong Happy Kids Cam 1b."
+    - "Có thể cho tôi biết những gì được giảng dạy trong Unit 9: Monty the Cook của Happy Kids Cam 1b không?"
+
+- intent: unit:_unit_starter:_a_new_school_year_happy_kids_cam1b
+  examples: |
+    - "Tôi muốn biết về nội dung của Unit Starter: A New School Year trong Happy Kids Cam 1b."
+    - "Có thể cho tôi biết những gì được giảng dạy trong Unit Starter: A New School Year của Happy Kids Cam 1b không?"
+
+- intent: lo_trinh_hoc_tap_happy_kids_cam1b
+  examples: |
+    - "Có thể bạn cho tôi biết về lộ trình học tập trong khóa học Happy Kids Cam 1b được không?"
+    - "Tôi muốn biết về cấu trúc và lộ trình học tập của Happy Kids Cam 1b."

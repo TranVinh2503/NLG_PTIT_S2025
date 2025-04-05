@@ -1,0 +1,62 @@
+version: "3.1"
+
+stories:
+- story: Greet and enroll course
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: enroll_course
+  - action: utter_ask_enroll
+
+- story: Ask about course schedule
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_schedule
+  - action: utter_ask_schedule
+
+- story: Ask about course materials
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_materials
+  - action: utter_ask_materials
+
+- story: Ask about course fee
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_fee
+  - action: utter_ask_fee
+
+- story: Ask about course location
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_location
+  - action: utter_ask_location
+
+- story: Ask about course teacher
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_teacher
+  - action: utter_ask_teacher
+
+- story: Inform about course interest
+  steps:
+  - intent: inform_course
+  - action: utter_ask_enroll
+
+- story: Goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- story: Ask contact information
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: ask_contact
+  - action: utter_ask_contact
+

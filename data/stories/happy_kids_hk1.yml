@@ -1,0 +1,75 @@
+stories:
+- story: ket_qua_dau_ra_happy_kids_hk1
+  steps:
+  - intent: ket_qua_dau_ra_happy_kids_hk1
+  - action: utter_ket_qua_đau_ra_happy_kids_hk1
+
+- story: khung_chuong_trinh_hoc_happy_kids_hk1
+  steps:
+  - intent: khung_chuong_trinh_hoc_happy_kids_hk1
+  - action: utter_khung_chuong_trinh_hoc_happy_kids_hk1
+
+- story: ky_nang_nghe_happy_kids_hk1
+  steps:
+  - intent: ky_nang_nghe_happy_kids_hk1
+  - action: utter_ky_nang_nghe_happy_kids_hk1
+
+- story: ky_nang_doc_va_viet_happy_kids_hk1
+  steps:
+  - intent: ky_nang_doc_va_viet_happy_kids_hk1
+  - action: utter_ky_nang_đoc_va_viet_happy_kids_hk1
+
+- story: lo_trinh_hoc_tap_happy_kids_hk1
+  steps:
+  - intent: lo_trinh_hoc_tap_happy_kids_hk1
+  - action: utter_lo_trinh_hoc_tap_happy_kids_hk1
+
+- story: unit_1_who's_in_your_family_happy_kids_hk1
+  steps:
+  - intent: unit_1_who's_in_your_family_happy_kids_hk1
+  - action: utter_unit_1:_who's_in_your_family_happy_kids_hk1
+
+- story: unit_2_what's_this_happy_kids_hk1
+  steps:
+  - intent: unit_2_what's_this_happy_kids_hk1
+  - action: utter_unit_2:_what's_this?_happy_kids_hk1
+
+- story: unit_3_how_many_eyes_happy_kids_hk1
+  steps:
+  - intent: unit_3_how_many_eyes_happy_kids_hk1
+  - action: utter_unit_3:_how_many_eyes_happy_kids_hk1
+
+- story: unit_4_what_do_you_ride_happy_kids_hk1
+  steps:
+  - intent: unit_4_what_do_you_ride_happy_kids_hk1
+  - action: utter_unit_4:_what_do_you_ride?_happy_kids_hk1
+
+- story: unit_5_what_can_you_find_outside_happy_kids_hk1
+  steps:
+  - intent: unit_5_what_can_you_find_outside_happy_kids_hk1
+  - action: utter_unit_5:_what_can_you_find_outside_happy_kids_hk1
+
+- story: unit_6_what's_in_the_toy_box_happy_kids_hk1
+  steps:
+  - intent: unit_6_what's_in_the_toy_box_happy_kids_hk1
+  - action: utter_unit_6:_what's_in_the_toy_box?_happy_kids_hk1
+
+- story: unit_7_what_pets_do_you_like_happy_kids_hk1
+  steps:
+  - intent: unit_7_what_pets_do_you_like_happy_kids_hk1
+  - action: utter_unit_7:_what_pets_do_you_like?_happy_kids_hk1
+
+- story: unit_8_what_can_you_do_happy_kids_hk1
+  steps:
+  - intent: unit_8_what_can_you_do_happy_kids_hk1
+  - action: utter_unit_8:_what_can_you_do?_happy_kids_hk1
+
+- story: unit_9_what_snack_do_you_like_happy_kids_hk1
+  steps:
+  - intent: unit_9_what_snack_do_you_like_happy_kids_hk1
+  - action: utter_unit_9:_what_snack_do_you_like?_happy_kids_hk1
+
+- story: unit_starter_hello_do_you_want_to_play_happy_kids_hk1
+  steps:
+  - intent: unit_starter_hello_do_you_want_to_play_happy_kids_hk1
+  - action: utter_unit_starter:_hello._do_you_want_to_play?_happy_kids_hk1

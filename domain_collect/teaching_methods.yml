@@ -1,0 +1,29 @@
+intents:
+- TPR
+- play_based_learning
+- co_teaching
+- inquiry_based_learning
+- thematic_based_learning
+
+actions:
+- action_tpr_info
+- action_play_based_learning_info
+- action_co_teaching_info
+- action_inquiry_based_learning_info
+- action_thematic_based_learning_info
+
+responses:
+  utter_action_tpr_info:
+    - text: "Phương pháp TPR: Total Physical Response là phương pháp phối hợp ngôn ngữ với các hoạt động thể chất. ..."
+
+  utter_action_play_based_learning_info:
+    - text: "Phương pháp Play-based learning: Học tập thông qua vui chơi là phương pháp đặt ra với mục tiêu nhấn mạnh vai trò chủ động của trẻ. ..."
+
+  utter_action_co_teaching_info:
+    - text: "Phương pháp Co-teaching: Phối hợp giảng dạy giữa GVNN và GVVN là phương pháp nhấn mạnh việc phối hợp chặt chẽ giữa Giáo viên nước ngoài và Giáo viên chuyên ngữ Việt Nam. ..."
+
+  utter_action_inquiry_based_learning_info:
+    - text: "Phương pháp Inquiry-based learning: Học tập truy vấn là phương pháp học tập cho phép trẻ tự làm chủ việc học thông qua việc đặt câu hỏi, lập luận, khám phá vấn đề. ..."
+
+  utter_action_thematic_based_learning_info:
+    - text: "Phương pháp Thematic-based learning: Tích hợp liên môn là phương pháp sử dụng sự liên kết về chủ đề đối với nhiều môn học. ..."

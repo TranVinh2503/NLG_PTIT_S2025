@@ -1,0 +1,33 @@
+version: "3.1"
+
+stories:
+- story: Phương Pháp dạy
+  steps:
+  - intent: method_teaching
+  - action: utter_method_teaching
+- story: Phương pháp TPR
+  steps:
+  - intent: tpr_method
+  - action: utter_action_tpr_info
+
+- story: Phương pháp Play-based learning
+  steps:
+  - intent: play_based_learning
+  - action: utter_action_play_based_learning_info
+
+- story: Phương pháp Co-teaching
+  steps:
+  - intent: co_teaching_method
+  - action: utter_action_co_teaching_info
+
+- story: Phương pháp Inquiry-based learning
+  steps:
+  - intent: inquiry_based_learning
+  - action: utter_action_inquiry_based_learning_info
+
+- story: Phương pháp Thematic-based learning
+  steps:
+  - intent: thematic_based_learning
+  - action: utter_action_thematic_based_learning_info
+
+

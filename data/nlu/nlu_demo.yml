@@ -1,0 +1,63 @@
+version: "3.1"
+nlu:
+- intent: greet
+  examples: |
+    - Xin chào
+    - Hello
+    - Hi
+    - Chào bạn
+
+- intent: goodbye
+  examples: |
+    - Tạm biệt
+    - Goodbye
+    - Hẹn gặp lại
+
+- intent: inform_course
+  examples: |
+    - Tôi muốn học khóa tiếng Anh cơ bản
+    - Học khóa giao tiếp tiếng Anh
+    - Tìm hiểu khóa học IELTS
+
+- intent: enroll_course
+  examples: |
+    - Tôi muốn đăng ký khóa học tiếng Anh
+    - Đăng ký học khóa IELTS
+    - Ghi danh vào khóa luyện thi TOEFL
+
+- intent: ask_schedule
+  examples: |
+    - Lịch học của khóa tiếng Anh giao tiếp
+    - Khi nào là buổi học của khóa IELTS?
+    - Học vào thứ mấy?
+
+- intent: ask_materials
+  examples: |
+    - Cần sách vở cho khóa học tiếng Anh
+    - Tài liệu học cho khóa IELTS
+    - Phải mang gì đến lớp?
+
+- intent: ask_teacher
+  examples: |
+    - Ai là giáo viên của khóa tiếng Anh cơ bản?
+    - Giáo viên dạy khóa IELTS là ai?
+    - Thầy cô giáo của khóa luyện TOEFL
+
+- intent: ask_fee
+  examples: |
+    - Học phí của khóa tiếng Anh giao tiếp là bao nhiêu?
+    - Giá khóa IELTS là bao nhiêu tiền?
+    - Tính phí học khóa luyện TOEFL
+
+- intent: ask_location
+  examples: |
+    - Trung tâm Enspire ở đâu?
+    - Nơi học tiếng Anh gần nhất là ở đâu?
+    - Cơ sở của Enspire ở đâu?
+
+- intent: ask_contact
+  examples: |
+    - Liên hệ với Enspire qua số điện thoại nào?
+    - Số điện thoại của trung tâm là gì?
+    - Cách liên lạc với Enspire
+

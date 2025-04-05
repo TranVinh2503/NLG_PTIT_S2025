@@ -1,0 +1,582 @@
+stories:
+- story: bài tập về nhà học viên enspir gồm học viên phụ huynh thể tìm ở đâu biết nội dung bài tập làm buổi học
+  steps:
+  - intent: bai_tap_ve_nha_hoc_vien_enspir_gom_hoc_vien_phu_huynh_the_tim_o_đau_biet_noi_dung_bai_tap_lam_buoi_hoc
+  - action: utter_bai_tap_ve_nha_hoc_vien_enspir_gom_hoc_vien_phu_huynh_the_tim_o_đau_biet_noi_dung_bai_tap_lam_buoi_hoc
+
+- story: buổi học enspir con anh/chị chăm làm bài tập về nhà học phần kiến thức lớp , cách giúp học viên enspir chăm hơn
+  steps:
+  - intent: buoi_hoc_enspir_con_anh_chi_cham_lam_bai_tap_ve_nha_hoc_phan_kien_thuc_lop_,_cach_giup_hoc_vien_enspir_cham_hon
+  - action: utter_buoi_hoc_enspir_con_anh_chi_cham_lam_bai_tap_ve_nha_hoc_phan_kien_thuc_lop_,_cach_giup_hoc_vien_enspir_cham_hon
+
+- story: phụ huynh enspir muốn hỗ trợ con học thêm ở nhà
+  steps:
+  - intent: phu_huynh_enspir_muon_ho_tro_con_hoc_them_o_nha
+  - action: utter_phu_huynh_enspir_muon_ho_tro_con_hoc_them_o_nha
+
+- story: buổi học con tôi nhận email thông báo gvcn lớp
+  steps:
+  - intent: buoi_hoc_con_toi_nhan_email_thong_bao_gvcn_lop
+  - action: utter_buoi_hoc_con_toi_nhan_email_thong_bao_gvcn_lop
+
+- story: chương trình học enspir gồm
+  steps:
+  - intent: chuong_trinh_hoc_enspir_gom
+  - action: utter_chuong_trinh_hoc_enspir_gom
+
+- story: thời lượng học mối khóa học enspir bao lâu
+  steps:
+  - intent: thoi_luong_hoc_moi_khoa_hoc_enspir_bao_lau
+  - action: utter_thoi_luong_hoc_moi_khoa_hoc_enspir_bao_lau
+
+- story: phụ huynh enspir làm kiểm soát học tiếng anh con trung tâm
+  steps:
+  - intent: phu_huynh_enspir_lam_kiem_soat_hoc_tieng_anh_con_trung_tam
+  - action: utter_phu_huynh_enspir_lam_kiem_soat_hoc_tieng_anh_con_trung_tam
+
+- story: giáo viên enspir giáo viên bản ngữ
+  steps:
+  - intent: giao_vien_enspir_giao_vien_ban_ngu
+  - action: utter_giao_vien_enspir_giao_vien_ban_ngu
+
+- story: khóa học diễn trong bao lâu
+  steps:
+  - intent: khoa_hoc_dien_trong_bao_lau
+  - action: utter_khoa_hoc_dien_trong_bao_lau
+
+- story: độ tuổi học sinh học chương trình enspir thế nào
+  steps:
+  - intent: đo_tuoi_hoc_sinh_hoc_chuong_trinh_enspir_the_nao
+  - action: utter_đo_tuoi_hoc_sinh_hoc_chuong_trinh_enspir_the_nao
+
+- story: hệ thống enspir chính sách ưu đãi khách hàng người giới thiệu khách hàng enspir
+  steps:
+  - intent: he_thong_enspir_chinh_sach_uu_đai_khach_hang_nguoi_gioi_thieu_khach_hang_enspir
+  - action: utter_he_thong_enspir_chinh_sach_uu_đai_khach_hang_nguoi_gioi_thieu_khach_hang_enspir
+
+- story: giáo viên enspir kinh nghiệm giảng dại làm enspir
+  steps:
+  - intent: giao_vien_enspir_kinh_nghiem_giang_dai_lam_enspir
+  - action: utter_giao_vien_enspir_kinh_nghiem_giang_dai_lam_enspir
+
+- story: học viên tham gia học tập lớp enspir xếp năng lực tiếng anh hay độ tuổi
+  steps:
+  - intent: hoc_vien_tham_gia_hoc_tap_lop_enspir_xep_nang_luc_tieng_anh_hay_đo_tuoi
+  - action: utter_hoc_vien_tham_gia_hoc_tap_lop_enspir_xep_nang_luc_tieng_anh_hay_đo_tuoi
+
+- story: cháu học sinh năng lực tiếng anh tốt hơn ở độ tuổi enspir xếp học sinh học lớp vượt độ tuổi
+  steps:
+  - intent: chau_hoc_sinh_nang_luc_tieng_anh_tot_hon_o_đo_tuoi_enspir_xep_hoc_sinh_hoc_lop_vuot_đo_tuoi
+  - action: utter_chau_hoc_sinh_nang_luc_tieng_anh_tot_hon_o_đo_tuoi_enspir_xep_hoc_sinh_hoc_lop_vuot_đo_tuoi
+
+- story: anh/ chị tôi tham khảo mức giá học phí tính một giờ học enspir trung tâm tiếng anh cấp
+  steps:
+  - intent: anh__chi_toi_tham_khao_muc_gia_hoc_phi_tinh_mot_gio_hoc_enspir_trung_tam_tieng_anh_cap
+  - action: utter_anh__chi_toi_tham_khao_muc_gia_hoc_phi_tinh_mot_gio_hoc_enspir_trung_tam_tieng_anh_cap
+
+- story: học sinh đến enspir thể tham gia học thử bao nhiêu buổi
+  steps:
+  - intent: hoc_sinh_đen_enspir_the_tham_gia_hoc_thu_bao_nhieu_buoi
+  - action: utter_hoc_sinh_đen_enspir_the_tham_gia_hoc_thu_bao_nhieu_buoi
+
+- story: chi nhánh enspir cam kết giữ mức giá nhau năm lộ trình tăng giá thế nào
+  steps:
+  - intent: chi_nhanh_enspir_cam_ket_giu_muc_gia_nhau_nam_lo_trinh_tang_gia_the_nao
+  - action: utter_chi_nhanh_enspir_cam_ket_giu_muc_gia_nhau_nam_lo_trinh_tang_gia_the_nao
+
+- story: học sinh muốn tham gia lớp học enspir tham gia kiểm tra đầu
+  steps:
+  - intent: hoc_sinh_muon_tham_gia_lop_hoc_enspir_tham_gia_kiem_tra_đau
+  - action: utter_hoc_sinh_muon_tham_gia_lop_hoc_enspir_tham_gia_kiem_tra_đau
+
+- story: học sinh 6 tuổi muốn tham gia học enspir tham gia kiểm tra tiếng anh đầu
+  steps:
+  - intent: hoc_sinh_6_tuoi_muon_tham_gia_hoc_enspir_tham_gia_kiem_tra_tieng_anh_đau
+  - action: utter_hoc_sinh_6_tuoi_muon_tham_gia_hoc_enspir_tham_gia_kiem_tra_tieng_anh_đau
+
+- story: học sinh học enspir lý chính đáng tạm ngừng học 4 buổi trở học bù hay bảo lưu số buổi
+  steps:
+  - intent: hoc_sinh_hoc_enspir_ly_chinh_đang_tam_ngung_hoc_4_buoi_tro_hoc_bu_hay_bao_luu_so_buoi
+  - action: utter_hoc_sinh_hoc_enspir_ly_chinh_đang_tam_ngung_hoc_4_buoi_tro_hoc_bu_hay_bao_luu_so_buoi
+
+- story: học viên học enspir lý chính đáng tham gia đánh giá kết quả học tập ( tham gia kiểm tra giữa kỳ cuối kỳ ) tham gia kiểm tra đánh giá
+  steps:
+  - intent: hoc_vien_hoc_enspir_ly_chinh_đang_tham_gia_đanh_gia_ket_qua_hoc_tap_(_tham_gia_kiem_tra_giua_ky_cuoi_ky_)_tham_gia_kiem_tra_đanh_gia
+  - action: utter_hoc_vien_hoc_enspir_ly_chinh_đang_tham_gia_đanh_gia_ket_qua_hoc_tap_(_tham_gia_kiem_tra_giua_ky_cuoi_ky_)_tham_gia_kiem_tra_đanh_gia
+
+- story: nội dung kiểm tra đầu học sinh học muốn tham gia học enspir
+  steps:
+  - intent: noi_dung_kiem_tra_đau_hoc_sinh_hoc_muon_tham_gia_hoc_enspir
+  - action: utter_noi_dung_kiem_tra_đau_hoc_sinh_hoc_muon_tham_gia_hoc_enspir
+
+- story: thời gian kiểm tra đầu trình độ enspir bao lâu
+  steps:
+  - intent: thoi_gian_kiem_tra_đau_trinh_đo_enspir_bao_lau
+  - action: utter_thoi_gian_kiem_tra_đau_trinh_đo_enspir_bao_lau
+
+- story: học sinh thể một lớp chại enspir ở trình độ tương đương
+  steps:
+  - intent: hoc_sinh_the_mot_lop_chai_enspir_o_trinh_đo_tuong_đuong
+  - action: utter_hoc_sinh_the_mot_lop_chai_enspir_o_trinh_đo_tuong_đuong
+
+- story: học sinh kiểm tra đầu ở một trình độ con học thấi phù hợp cách giải quyết thế nào
+  steps:
+  - intent: hoc_sinh_kiem_tra_đau_o_mot_trinh_đo_con_hoc_thai_phu_hop_cach_giai_quyet_the_nao
+  - action: utter_hoc_sinh_kiem_tra_đau_o_mot_trinh_đo_con_hoc_thai_phu_hop_cach_giai_quyet_the_nao
+
+- story: con test ở một trình độ bố mẹ mong muốn con học một trình độ
+  steps:
+  - intent: con_test_o_mot_trinh_đo_bo_me_mong_muon_con_hoc_mot_trinh_đo
+  - action: utter_con_test_o_mot_trinh_đo_bo_me_mong_muon_con_hoc_mot_trinh_đo
+
+- story: con tôi học sk2a , bạn thân học lớp sk1b , tôi muốn con học sk1b tiện đưa đón 2 con .
+  steps:
+  - intent: con_toi_hoc_sk2a_,_ban_than_hoc_lop_sk1b_,_toi_muon_con_hoc_sk1b_tien_đua_đon_2_con_.
+  - action: utter_con_toi_hoc_sk2a_,_ban_than_hoc_lop_sk1b_,_toi_muon_con_hoc_sk1b_tien_đua_đon_2_con_.
+
+- story: ca học hệ thống anh ngữ enspir thông thường thế nào
+  steps:
+  - intent: ca_hoc_he_thong_anh_ngu_enspir_thong_thuong_the_nao
+  - action: utter_ca_hoc_he_thong_anh_ngu_enspir_thong_thuong_the_nao
+
+- story: lớp học enspir thể chức 01 buổi/tuần
+  steps:
+  - intent: lop_hoc_enspir_the_chuc_01_buoi_tuan
+  - action: utter_lop_hoc_enspir_the_chuc_01_buoi_tuan
+
+- story: tôi thấi giáo viên dại quá nhanh trình độ con tôi ( lớp demo )
+  steps:
+  - intent: toi_thai_giao_vien_dai_qua_nhanh_trinh_đo_con_toi_(_lop_demo_)
+  - action: utter_toi_thai_giao_vien_dai_qua_nhanh_trinh_đo_con_toi_(_lop_demo_)
+
+- story: con tham gia giữa khóa học thế ảnh hưởng đến học con
+  steps:
+  - intent: con_tham_gia_giua_khoa_hoc_the_anh_huong_đen_hoc_con
+  - action: utter_con_tham_gia_giua_khoa_hoc_the_anh_huong_đen_hoc_con
+
+- story: học ở trình độ hkthì con biết viết viết thế nào đúng cách
+  steps:
+  - intent: hoc_o_trinh_đo_hkthi_con_biet_viet_viet_the_nao_đung_cach
+  - action: utter_hoc_o_trinh_đo_hkthi_con_biet_viet_viet_the_nao_đung_cach
+
+- story: sao buộc vắng học bé lớp phụ đạo 30 phút
+  steps:
+  - intent: sao_buoc_vang_hoc_be_lop_phu_đao_30_phut
+  - action: utter_sao_buoc_vang_hoc_be_lop_phu_đao_30_phut
+
+- story: trong lớp demo , tôi thấi giáo viên tương tác học sinh , học sinh phát âm sai giáo viên sửa .
+  steps:
+  - intent: trong_lop_demo_,_toi_thai_giao_vien_tuong_tac_hoc_sinh_,_hoc_sinh_phat_am_sai_giao_vien_sua_.
+  - action: utter_trong_lop_demo_,_toi_thai_giao_vien_tuong_tac_hoc_sinh_,_hoc_sinh_phat_am_sai_giao_vien_sua_.
+
+- story: ngoài học tiếng anh lớp học sinh enspir học thêm tiếng anh ở nhà phương pháp học tiếng anh nhà thế nào hiệu quả
+  steps:
+  - intent: ngoai_hoc_tieng_anh_lop_hoc_sinh_enspir_hoc_them_tieng_anh_o_nha_phuong_phap_hoc_tieng_anh_nha_the_nao_hieu_qua
+  - action: utter_ngoai_hoc_tieng_anh_lop_hoc_sinh_enspir_hoc_them_tieng_anh_o_nha_phuong_phap_hoc_tieng_anh_nha_the_nao_hieu_qua
+
+- story: 6 tháng học enspir tôi thấi con tôi phát âm chuẩn mong muốn . cách nào giúp con tôi phát âm tốt hơn ngài
+  steps:
+  - intent: 6_thang_hoc_enspir_toi_thai_con_toi_phat_am_chuan_mong_muon_._cach_nao_giup_con_toi_phat_am_tot_hon_ngai
+  - action: utter_6_thang_hoc_enspir_toi_thai_con_toi_phat_am_chuan_mong_muon_._cach_nao_giup_con_toi_phat_am_tot_hon_ngai
+
+- story: sao con anh/chị ( trìnhđộ kindy1 , hk2 ) học xong về nhà anh/chị hỏi bài ( nghĩa sang tiếng việt , hoặc ngược ) bé trả lời
+  steps:
+  - intent: sao_con_anh_chi_(_trinhđo_kindy1_,_hk2_)_hoc_xong_ve_nha_anh_chi_hoi_bai_(_nghia_sang_tieng_viet_,_hoac_nguoc_)_be_tra_loi
+  - action: utter_sao_con_anh_chi_(_trinhđo_kindy1_,_hk2_)_hoc_xong_ve_nha_anh_chi_hoi_bai_(_nghia_sang_tieng_viet_,_hoac_nguoc_)_be_tra_loi
+
+- story: nội dung học lớp học viên enspir gồm
+  steps:
+  - intent: noi_dung_hoc_lop_hoc_vien_enspir_gom
+  - action: utter_noi_dung_hoc_lop_hoc_vien_enspir_gom
+
+- story: bạn thể giới thiệu ngắn gọn về hệ thống anh ngữ enspir
+  steps:
+  - intent: ban_the_gioi_thieu_ngan_gon_ve_he_thong_anh_ngu_enspir
+  - action: utter_ban_the_gioi_thieu_ngan_gon_ve_he_thong_anh_ngu_enspir
+
+- story: tôi đến enspir trải nghiệm nhân viên phụ vụ ở thái độ văn minh tôi thích quay .
+  steps:
+  - intent: toi_đen_enspir_trai_nghiem_nhan_vien_phu_vu_o_thai_đo_van_minh_toi_thich_quay_.
+  - action: utter_toi_đen_enspir_trai_nghiem_nhan_vien_phu_vu_o_thai_đo_van_minh_toi_thich_quay_.
+
+- story: chi nhánh bất ngờ dừng hoạt động hoặc chuyển đi khác thuận tiện học con tiền tôi đặt cọc đóng tiền xử lý thế nào
+  steps:
+  - intent: chi_nhanh_bat_ngo_dung_hoat_đong_hoac_chuyen_đi_khac_thuan_tien_hoc_con_tien_toi_đat_coc_đong_tien_xu_ly_the_nao
+  - action: utter_chi_nhanh_bat_ngo_dung_hoat_đong_hoac_chuyen_đi_khac_thuan_tien_hoc_con_tien_toi_đat_coc_đong_tien_xu_ly_the_nao
+
+- story: công cụ sử dụng trong giảng dại hệ thống anh ngữ enspir
+  steps:
+  - intent: cong_cu_su_dung_trong_giang_dai_he_thong_anh_ngu_enspir
+  - action: utter_cong_cu_su_dung_trong_giang_dai_he_thong_anh_ngu_enspir
+
+- story: con tôi 2 tháng học enspir english kết quả môn tiếng anh khá môn học khác kém đi tôi lo lắng về tình trạng .
+  steps:
+  - intent: con_toi_2_thang_hoc_enspir_english_ket_qua_mon_tieng_anh_kha_mon_hoc_khac_kem_đi_toi_lo_lang_ve_tinh_trang_.
+  - action: utter_con_toi_2_thang_hoc_enspir_english_ket_qua_mon_tieng_anh_kha_mon_hoc_khac_kem_đi_toi_lo_lang_ve_tinh_trang_.
+
+- story: con tôi học enspir gần hết một khóa 3 tháng cháu chữa tự tin giao tiếp tiếng anh bạn người nước ngoài .
+  steps:
+  - intent: con_toi_hoc_enspir_gan_het_mot_khoa_3_thang_chau_chua_tu_tin_giao_tiep_tieng_anh_ban_nguoi_nuoc_ngoai_.
+  - action: utter_con_toi_hoc_enspir_gan_het_mot_khoa_3_thang_chau_chua_tu_tin_giao_tiep_tieng_anh_ban_nguoi_nuoc_ngoai_.
+
+- story: hiện nay cháu tập trung ôn tập thi học kỳ ở lớp cháu tạm ngừng học tiếng anh trung tâm
+  steps:
+  - intent: hien_nay_chau_tap_trung_on_tap_thi_hoc_ky_o_lop_chau_tam_ngung_hoc_tieng_anh_trung_tam
+  - action: utter_hien_nay_chau_tap_trung_on_tap_thi_hoc_ky_o_lop_chau_tam_ngung_hoc_tieng_anh_trung_tam
+
+- story: tôi nghe nhân viên tư vấn enspir trình bài trong bài học giáo trình enspir lồng nghép kiến thức khoa học tự nhiên khoa học xã hội , nội dung học
+  steps:
+  - intent: toi_nghe_nhan_vien_tu_van_enspir_trinh_bai_trong_bai_hoc_giao_trinh_enspir_long_nghep_kien_thuc_khoa_hoc_tu_nhien_khoa_hoc_xa_hoi_,_noi_dung_hoc
+  - action: utter_toi_nghe_nhan_vien_tu_van_enspir_trinh_bai_trong_bai_hoc_giao_trinh_enspir_long_nghep_kien_thuc_khoa_hoc_tu_nhien_khoa_hoc_xa_hoi_,_noi_dung_hoc
+
+- story: tôi muốn con học thử một tháng thấi tốt mới đăng ký 01 năm .
+  steps:
+  - intent: toi_muon_con_hoc_thu_mot_thang_thai_tot_moi_đang_ky_01_nam_.
+  - action: utter_toi_muon_con_hoc_thu_mot_thang_thai_tot_moi_đang_ky_01_nam_.
+
+- story: công cụ tư duy giáo viên nước ngoài giảng dại enspir dùng truyền đạt kiến thức học viên bao gồm
+  steps:
+  - intent: cong_cu_tu_duy_giao_vien_nuoc_ngoai_giang_dai_enspir_dung_truyen_đat_kien_thuc_hoc_vien_bao_gom
+  - action: utter_cong_cu_tu_duy_giao_vien_nuoc_ngoai_giang_dai_enspir_dung_truyen_đat_kien_thuc_hoc_vien_bao_gom
+
+- story: học viên học enspir đảm bảo học ngữ pháp chương trình học trường học cháu
+  steps:
+  - intent: hoc_vien_hoc_enspir_đam_bao_hoc_ngu_phap_chuong_trinh_hoc_truong_hoc_chau
+  - action: utter_hoc_vien_hoc_enspir_đam_bao_hoc_ngu_phap_chuong_trinh_hoc_truong_hoc_chau
+
+- story: giáo viên nước ngoài thân thiện học viên liệu hiện tượng lạm dục tình dục trẻ em enspir
+  steps:
+  - intent: giao_vien_nuoc_ngoai_than_thien_hoc_vien_lieu_hien_tuong_lam_duc_tinh_duc_tre_em_enspir
+  - action: utter_giao_vien_nuoc_ngoai_than_thien_hoc_vien_lieu_hien_tuong_lam_duc_tinh_duc_tre_em_enspir
+
+- story: hệ thống anh ngữ enspir công khai bằng cấp kinh nghiệm giáo viên nước ngoài tham gia giảng dại chi nhánh
+  steps:
+  - intent: he_thong_anh_ngu_enspir_cong_khai_bang_cap_kinh_nghiem_giao_vien_nuoc_ngoai_tham_gia_giang_dai_chi_nhanh
+  - action: utter_he_thong_anh_ngu_enspir_cong_khai_bang_cap_kinh_nghiem_giao_vien_nuoc_ngoai_tham_gia_giang_dai_chi_nhanh
+
+- story: trong trường hợp lớp bắt đầu lâu , học sinh mới làm sao kịp
+  steps:
+  - intent: trong_truong_hop_lop_bat_đau_lau_,_hoc_sinh_moi_lam_sao_kip
+  - action: utter_trong_truong_hop_lop_bat_đau_lau_,_hoc_sinh_moi_lam_sao_kip
+
+- story: con tôi học lớp demo xong thích .
+  steps:
+  - intent: con_toi_hoc_lop_demo_xong_thich_.
+  - action: utter_con_toi_hoc_lop_demo_xong_thich_.
+
+- story: chi nhánh khóa trải nghiệm thực tế hay dã ngoại bé
+  steps:
+  - intent: chi_nhanh_khoa_trai_nghiem_thuc_te_hay_da_ngoai_be
+  - action: utter_chi_nhanh_khoa_trai_nghiem_thuc_te_hay_da_ngoai_be
+
+- story: một lớp học enspir bao nhiêu giáo viên nước ngoài giảng dại
+  steps:
+  - intent: mot_lop_hoc_enspir_bao_nhieu_giao_vien_nuoc_ngoai_giang_dai
+  - action: utter_mot_lop_hoc_enspir_bao_nhieu_giao_vien_nuoc_ngoai_giang_dai
+
+- story: chương trình hkhọc về nội dung
+  steps:
+  - intent: chuong_trinh_hkhoc_ve_noi_dung
+  - action: utter_chuong_trinh_hkhoc_ve_noi_dung
+
+- story: học sinh enspir english bổ trợ ngữ pháp
+  steps:
+  - intent: hoc_sinh_enspir_english_bo_tro_ngu_phap
+  - action: utter_hoc_sinh_enspir_english_bo_tro_ngu_phap
+
+- story: học sinh enspir english học làm bài kiểm tra
+  steps:
+  - intent: hoc_sinh_enspir_english_hoc_lam_bai_kiem_tra
+  - action: utter_hoc_sinh_enspir_english_hoc_lam_bai_kiem_tra
+
+- story: giáo viên enspir english dại full-tim hay part-tim
+  steps:
+  - intent: giao_vien_enspir_english_dai_full-tim_hay_part-tim
+  - action: utter_giao_vien_enspir_english_dai_full-tim_hay_part-tim
+
+- story: giáo viên enspir đến nước nào
+  steps:
+  - intent: giao_vien_enspir_đen_nuoc_nao
+  - action: utter_giao_vien_enspir_đen_nuoc_nao
+
+- story: chênh lệch về độ tuổi học viên trong một lớp học enspir
+  steps:
+  - intent: chenh_lech_ve_đo_tuoi_hoc_vien_trong_mot_lop_hoc_enspir
+  - action: utter_chenh_lech_ve_đo_tuoi_hoc_vien_trong_mot_lop_hoc_enspir
+
+- story: kết quả bài kiểm tra đầu bảo lưu trong thời gian bao lâu
+  steps:
+  - intent: ket_qua_bai_kiem_tra_đau_bao_luu_trong_thoi_gian_bao_lau
+  - action: utter_ket_qua_bai_kiem_tra_đau_bao_luu_trong_thoi_gian_bao_lau
+
+- story: chính sách ưu đãi gia đình hay nhóm hơn 1 người đăng ký học enspir
+  steps:
+  - intent: chinh_sach_uu_đai_gia_đinh_hay_nhom_hon_1_nguoi_đang_ky_hoc_enspir
+  - action: utter_chinh_sach_uu_đai_gia_đinh_hay_nhom_hon_1_nguoi_đang_ky_hoc_enspir
+
+- story: chuẩn đầu chương trình học enspir
+  steps:
+  - intent: chuan_đau_chuong_trinh_hoc_enspir
+  - action: utter_chuan_đau_chuong_trinh_hoc_enspir
+
+- story: con tôi năng khiếu học , sợ bài . giải pháp nào con
+  steps:
+  - intent: con_toi_nang_khieu_hoc_,_so_bai_._giai_phap_nao_con
+  - action: utter_con_toi_nang_khieu_hoc_,_so_bai_._giai_phap_nao_con
+
+- story: khách hàng muốn tập trung dại ngữ pháp , ngoại ngữ con học giỏi lớp ( điểm cao )
+  steps:
+  - intent: khach_hang_muon_tap_trung_dai_ngu_phap_,_ngoai_ngu_con_hoc_gioi_lop_(_điem_cao_)
+  - action: utter_khach_hang_muon_tap_trung_dai_ngu_phap_,_ngoai_ngu_con_hoc_gioi_lop_(_điem_cao_)
+
+- story: trong buổi học demo , khách hàng trỏ phàn nàn giáo viên dại thế , thế kia .
+  steps:
+  - intent: trong_buoi_hoc_demo_,_khach_hang_tro_phan_nan_giao_vien_dai_the_,_the_kia_.
+  - action: utter_trong_buoi_hoc_demo_,_khach_hang_tro_phan_nan_giao_vien_dai_the_,_the_kia_.
+
+- story: con tôi học lớp 3 học tiếng anh , đúng lộ trình khóa học chi nhánh lớp 12 mới kết thúc . cách nào đẩi nhanh quá trình
+  steps:
+  - intent: con_toi_hoc_lop_3_hoc_tieng_anh_,_đung_lo_trinh_khoa_hoc_chi_nhanh_lop_12_moi_ket_thuc_._cach_nao_đai_nhanh_qua_trinh
+  - action: utter_con_toi_hoc_lop_3_hoc_tieng_anh_,_đung_lo_trinh_khoa_hoc_chi_nhanh_lop_12_moi_ket_thuc_._cach_nao_đai_nhanh_qua_trinh
+
+- story: giáo viên cố định
+  steps:
+  - intent: giao_vien_co_đinh
+  - action: utter_giao_vien_co_đinh
+
+- story: lớp demo , khách hàng nói con tôi học tiếng anh , định hướng con làm công an , …
+  steps:
+  - intent: lop_demo_,_khach_hang_noi_con_toi_hoc_tieng_anh_,_đinh_huong_con_lam_cong_an_,_…
+  - action: utter_lop_demo_,_khach_hang_noi_con_toi_hoc_tieng_anh_,_đinh_huong_con_lam_cong_an_,_…
+
+- story: khách hàng phàn nàn học sinh chi nhánh ồn ào chợ
+  steps:
+  - intent: khach_hang_phan_nan_hoc_sinh_chi_nhanh_on_ao_cho
+  - action: utter_khach_hang_phan_nan_hoc_sinh_chi_nhanh_on_ao_cho
+
+- story: tư vấn viên làm ph mang tiền đủ tin tưởng chốt phí .
+  steps:
+  - intent: tu_van_vien_lam_ph_mang_tien_đu_tin_tuong_chot_phi_.
+  - action: utter_tu_van_vien_lam_ph_mang_tien_đu_tin_tuong_chot_phi_.
+
+- story: chi nhánh đảm bảo con tôi học tiến bộ tiến bộ xử lý thế nào
+  steps:
+  - intent: chi_nhanh_đam_bao_con_toi_hoc_tien_bo_tien_bo_xu_ly_the_nao
+  - action: utter_chi_nhanh_đam_bao_con_toi_hoc_tien_bo_tien_bo_xu_ly_the_nao
+
+- story: kê bàn ghế lớp học khác
+  steps:
+  - intent: ke_ban_ghe_lop_hoc_khac
+  - action: utter_ke_ban_ghe_lop_hoc_khac
+
+- story: tôi kiểm tra thấi tài liệu học tập khó hơn trình độ con học tôi làm
+  steps:
+  - intent: toi_kiem_tra_thai_tai_lieu_hoc_tap_kho_hon_trinh_đo_con_hoc_toi_lam
+  - action: utter_toi_kiem_tra_thai_tai_lieu_hoc_tap_kho_hon_trinh_đo_con_hoc_toi_lam
+
+- story: nhà tôi xa đưa đón con .
+  steps:
+  - intent: nha_toi_xa_đua_đon_con_.
+  - action: utter_nha_toi_xa_đua_đon_con_.
+
+- story: khách hàng phân vân , muốn về nhà tham khảo ý kiến vợ/chồng .
+  steps:
+  - intent: khach_hang_phan_van_,_muon_ve_nha_tham_khao_y_kien_vo_chong_.
+  - action: utter_khach_hang_phan_van_,_muon_ve_nha_tham_khao_y_kien_vo_chong_.
+
+- story: khách hàng nộp tiền , muốn về cân đối thu chi .
+  steps:
+  - intent: khach_hang_nop_tien_,_muon_ve_can_đoi_thu_chi_.
+  - action: utter_khach_hang_nop_tien_,_muon_ve_can_đoi_thu_chi_.
+
+- story: con tôi học ở apollo yên tâm , muốn chuyển chi nhánh khác .
+  steps:
+  - intent: con_toi_hoc_o_apollo_yen_tam_,_muon_chuyen_chi_nhanh_khac_.
+  - action: utter_con_toi_hoc_o_apollo_yen_tam_,_muon_chuyen_chi_nhanh_khac_.
+
+- story: lớp học demo , phụ huynh lo lắng học thật giống học demo , con học lớp trial dám đóng tiền .
+  steps:
+  - intent: lop_hoc_demo_,_phu_huynh_lo_lang_hoc_that_giong_hoc_demo_,_con_hoc_lop_trial_dam_đong_tien_.
+  - action: utter_lop_hoc_demo_,_phu_huynh_lo_lang_hoc_that_giong_hoc_demo_,_con_hoc_lop_trial_dam_đong_tien_.
+
+- story: tôi thu tiền con thích
+  steps:
+  - intent: toi_thu_tien_con_thich
+  - action: utter_toi_thu_tien_con_thich
+
+- story: đăng ký học gói ưu đãi khai trương khóa học ưu đãi
+  steps:
+  - intent: đang_ky_hoc_goi_uu_đai_khai_truong_khoa_hoc_uu_đai
+  - action: utter_đang_ky_hoc_goi_uu_đai_khai_truong_khoa_hoc_uu_đai
+
+- story: tôi thể đóng học phí tháng
+  steps:
+  - intent: toi_the_đong_hoc_phi_thang
+  - action: utter_toi_the_đong_hoc_phi_thang
+
+- story: tôi hai con học ở hai trình độ khác nhau.tại sao học phí nhau tôi nghĩ lớp bé hơn học phí thấp hơn
+  steps:
+  - intent: toi_hai_con_hoc_o_hai_trinh_đo_khac_nhau.tai_sao_hoc_phi_nhau_toi_nghi_lop_be_hon_hoc_phi_thap_hon
+  - action: utter_toi_hai_con_hoc_o_hai_trinh_đo_khac_nhau.tai_sao_hoc_phi_nhau_toi_nghi_lop_be_hon_hoc_phi_thap_hon
+
+- story: đóng học phí dài khóa một khóa khác nhau về mức đóng
+  steps:
+  - intent: đong_hoc_phi_dai_khoa_mot_khoa_khac_nhau_ve_muc_đong
+  - action: utter_đong_hoc_phi_dai_khoa_mot_khoa_khac_nhau_ve_muc_đong
+
+- story: gvnn giảng dại enspir họ am hiểu văn hóa phong tục tập quán việt nam ảnh hưởng đến học tập học viên
+  steps:
+  - intent: gvnn_giang_dai_enspir_ho_am_hieu_van_hoa_phong_tuc_tap_quan_viet_nam_anh_huong_đen_hoc_tap_hoc_vien
+  - action: utter_gvnn_giang_dai_enspir_ho_am_hieu_van_hoa_phong_tuc_tap_quan_viet_nam_anh_huong_đen_hoc_tap_hoc_vien
+
+- story: anh/chị lứa tuổi nào học tiếng anh người nước ngoài hiệu quả nhất em học sinh cá tính nhút nhát , ngại giao tiếp học người nước ngoài hiệu quả
+  steps:
+  - intent: anh_chi_lua_tuoi_nao_hoc_tieng_anh_nguoi_nuoc_ngoai_hieu_qua_nhat_em_hoc_sinh_ca_tinh_nhut_nhat_,_ngai_giao_tiep_hoc_nguoi_nuoc_ngoai_hieu_qua
+  - action: utter_anh_chi_lua_tuoi_nao_hoc_tieng_anh_nguoi_nuoc_ngoai_hieu_qua_nhat_em_hoc_sinh_ca_tinh_nhut_nhat_,_ngai_giao_tiep_hoc_nguoi_nuoc_ngoai_hieu_qua
+
+- story: enspir english ngài chi nhánh , làm sao đảm bảo chất lượng giảng dại
+  steps:
+  - intent: enspir_english_ngai_chi_nhanh_,_lam_sao_đam_bao_chat_luong_giang_dai
+  - action: utter_enspir_english_ngai_chi_nhanh_,_lam_sao_đam_bao_chat_luong_giang_dai
+
+- story: hệ thống giáo trình enspir thế nào
+  steps:
+  - intent: he_thong_giao_trinh_enspir_the_nao
+  - action: utter_he_thong_giao_trinh_enspir_the_nao
+
+- story: cơ sở vật chất enspir english khác biệt chi nhánh khác phòng học trang thiết
+  steps:
+  - intent: co_so_vat_chat_enspir_english_khac_biet_chi_nhanh_khac_phong_hoc_trang_thiet
+  - action: utter_co_so_vat_chat_enspir_english_khac_biet_chi_nhanh_khac_phong_hoc_trang_thiet
+
+- story: hệ thống chữa chái enspir an toàn
+  steps:
+  - intent: he_thong_chua_chai_enspir_an_toan
+  - action: utter_he_thong_chua_chai_enspir_an_toan
+
+- story: tôi quan sát giảng dại tiếng anh trung tâm kết hợp hoạt động vui chơi , làm ảnh hưởng đến chất lượng học tập cháu
+  steps:
+  - intent: toi_quan_sat_giang_dai_tieng_anh_trung_tam_ket_hop_hoat_đong_vui_choi_,_lam_anh_huong_đen_chat_luong_hoc_tap_chau
+  - action: utter_toi_quan_sat_giang_dai_tieng_anh_trung_tam_ket_hop_hoat_đong_vui_choi_,_lam_anh_huong_đen_chat_luong_hoc_tap_chau
+
+- story: ngoài giờ học lớp , cháu muốn tham gia clb tiếng anh luyện thêm nghe nói chi nhánh mình tổ chức hay ngài , giờ cụ thể thế nào
+  steps:
+  - intent: ngoai_gio_hoc_lop_,_chau_muon_tham_gia_clb_tieng_anh_luyen_them_nghe_noi_chi_nhanh_minh_to_chuc_hay_ngai_,_gio_cu_the_the_nao
+  - action: utter_ngoai_gio_hoc_lop_,_chau_muon_tham_gia_clb_tieng_anh_luyen_them_nghe_noi_chi_nhanh_minh_to_chuc_hay_ngai_,_gio_cu_the_the_nao
+
+- story: tôi một bé học lớp 7 , học tiếng anh nhỏ bên vu , về ngữ pháp bé vững chắc , ngoài giờ học bên vu tôi mời thầi về dại thêm bé nhà khả năng nói tiếng anh bé tự nhiên.cho tôi hỏi lớp học nào chuyên luyện nghe nói
+  steps:
+  - intent: toi_mot_be_hoc_lop_7_,_hoc_tieng_anh_nho_ben_vu_,_ve_ngu_phap_be_vung_chac_,_ngoai_gio_hoc_ben_vu_toi_moi_thai_ve_dai_them_be_nha_kha_nang_noi_tieng_anh_be_tu_nhien.cho_toi_hoi_lop_hoc_nao_chuyen_luyen_nghe_noi
+  - action: utter_toi_mot_be_hoc_lop_7_,_hoc_tieng_anh_nho_ben_vu_,_ve_ngu_phap_be_vung_chac_,_ngoai_gio_hoc_ben_vu_toi_moi_thai_ve_dai_them_be_nha_kha_nang_noi_tieng_anh_be_tu_nhien.cho_toi_hoi_lop_hoc_nao_chuyen_luyen_nghe_noi
+
+- story: con tôi 5 tuổi học tiếng anh ở đâu . tôi muốn con tôi học tiếng anh , sợ bé học sớm tiếng anh tiếng việt lẫn lộn .
+  steps:
+  - intent: con_toi_5_tuoi_hoc_tieng_anh_o_đau_._toi_muon_con_toi_hoc_tieng_anh_,_so_be_hoc_som_tieng_anh_tieng_viet_lan_lon_.
+  - action: utter_con_toi_5_tuoi_hoc_tieng_anh_o_đau_._toi_muon_con_toi_hoc_tieng_anh_,_so_be_hoc_som_tieng_anh_tieng_viet_lan_lon_.
+
+- story: học giáo viên bản ngữ ngữ pháp đảm bảo em , chị biết học giáo viên bản ngữ giúp mình luyện nghe nói tốt thôi , ngữ pháp chắc lắm
+  steps:
+  - intent: hoc_giao_vien_ban_ngu_ngu_phap_đam_bao_em_,_chi_biet_hoc_giao_vien_ban_ngu_giup_minh_luyen_nghe_noi_tot_thoi_,_ngu_phap_chac_lam
+  - action: utter_hoc_giao_vien_ban_ngu_ngu_phap_đam_bao_em_,_chi_biet_hoc_giao_vien_ban_ngu_giup_minh_luyen_nghe_noi_tot_thoi_,_ngu_phap_chac_lam
+
+- story: con tôi phản ánh học lớp dễ quá cháu muốn vượt cấp .
+  steps:
+  - intent: con_toi_phan_anh_hoc_lop_de_qua_chau_muon_vuot_cap_.
+  - action: utter_con_toi_phan_anh_hoc_lop_de_qua_chau_muon_vuot_cap_.
+
+- story: giáo viên chỉnh sửa tất lỗi con tôi
+  steps:
+  - intent: giao_vien_chinh_sua_tat_loi_con_toi
+  - action: utter_giao_vien_chinh_sua_tat_loi_con_toi
+
+- story: liệu tôi thể yêu cầu thay đổi giáo viên con tôi thích
+  steps:
+  - intent: lieu_toi_the_yeu_cau_thay_đoi_giao_vien_con_toi_thich
+  - action: utter_lieu_toi_the_yeu_cau_thay_đoi_giao_vien_con_toi_thich
+
+- story: sao ngữ pháp con tôi cải thiện sao điểm tiếng anh con tôi ở trường thay đổi
+  steps:
+  - intent: sao_ngu_phap_con_toi_cai_thien_sao_điem_tieng_anh_con_toi_o_truong_thay_đoi
+  - action: utter_sao_ngu_phap_con_toi_cai_thien_sao_điem_tieng_anh_con_toi_o_truong_thay_đoi
+
+- story: trong quá trình học con tôi thích giao viên giảng dại cháu hiện , bạn thường e ngại tương tác giáo viên . enspir phương án hỗ trợ cháu gia đình
+  steps:
+  - intent: trong_qua_trinh_hoc_con_toi_thich_giao_vien_giang_dai_chau_hien_,_ban_thuong_e_ngai_tuong_tac_giao_vien_._enspir_phuong_an_ho_tro_chau_gia_đinh
+  - action: utter_trong_qua_trinh_hoc_con_toi_thich_giao_vien_giang_dai_chau_hien_,_ban_thuong_e_ngai_tuong_tac_giao_vien_._enspir_phuong_an_ho_tro_chau_gia_đinh
+
+- story: tôi thẻ ưu đãi 60 % . hiện tôi đóng cọc 1 triệu đồng chương trình ưu đãi 50 % học phí tặng 01 năm sách miễn phí . tôi chuyển chương trình 60 %
+  steps:
+  - intent: toi_the_uu_đai_60_%_._hien_toi_đong_coc_1_trieu_đong_chuong_trinh_uu_đai_50_%_hoc_phi_tang_01_nam_sach_mien_phi_._toi_chuyen_chuong_trinh_60_%
+  - action: utter_toi_the_uu_đai_60_%_._hien_toi_đong_coc_1_trieu_đong_chuong_trinh_uu_đai_50_%_hoc_phi_tang_01_nam_sach_mien_phi_._toi_chuyen_chuong_trinh_60_%
+
+- story: sao con tôi học mấi khóa thấi tiến bộ
+  steps:
+  - intent: sao_con_toi_hoc_mai_khoa_thai_tien_bo
+  - action: utter_sao_con_toi_hoc_mai_khoa_thai_tien_bo
+
+- story: học viên một khóa học đạt điểm đủ lớp tiếp enspir cách thức thế nào hỗ trợ học viên
+  steps:
+  - intent: hoc_vien_mot_khoa_hoc_đat_điem_đu_lop_tiep_enspir_cach_thuc_the_nao_ho_tro_hoc_vien
+  - action: utter_hoc_vien_mot_khoa_hoc_đat_điem_đu_lop_tiep_enspir_cach_thuc_the_nao_ho_tro_hoc_vien
+
+- story: scot cam kết đầu chương trình học
+  steps:
+  - intent: scot_cam_ket_đau_chuong_trinh_hoc
+  - action: utter_scot_cam_ket_đau_chuong_trinh_hoc
+
+- story: tôi đặt cọc con lý con tôi học . tôi phép rút tiền cọc đóng
+  steps:
+  - intent: toi_đat_coc_con_ly_con_toi_hoc_._toi_phep_rut_tien_coc_đong
+  - action: utter_toi_đat_coc_con_ly_con_toi_hoc_._toi_phep_rut_tien_coc_đong
+
+- story: cách thức đóng học phí enspir
+  steps:
+  - intent: cach_thuc_đong_hoc_phi_enspir
+  - action: utter_cach_thuc_đong_hoc_phi_enspir
+
+- story: tư vấn khóa học
+  steps: 
+  - intent: tu_van_khoa_học
+  - action: utter_tu_van_khoa_học
+
+- story: A conversation about Enspire
+  steps:
+  - intent: ask_about_history
+  - action: utter_history
+  - intent: ask_about_courses
+  - action: utter_courses
+  - intent: ask_about_age_group
+  - action: utter_age_group
+  - intent: ask_about_teachers
+  - action: utter_teachers
+  - intent: ask_about_contact
+  - action: utter_contact
+
+- story: Ask about communication focused courses
+  steps:
+  - intent: ask_about_communication_courses
+  - action: utter_communication_courses
+
+- story: Asking about Enspire English courses for parents - new_v2
+  steps:
+  - intent: ask_about_teachers_new_v2
+  - action: utter_teachers_new_v2
+  - intent: ask_about_age_group_new_v2
+  - action: utter_age_group_new_v2
+  - intent: ask_about_campus_new_v2
+  - action: utter_campus_new_v2
+  - intent: ask_about_class_size_new_v2
+  - action: utter_class_size_new_v2
+  - intent: ask_about_fee_new_v2
+  - action: utter_fee_new_v2
+  
+- story: Hỏi về khóa học Happy Kids tại Enspire - new_v2
+  steps:
+  - intent: hoi_ve_khoa_hoc_happy_kids_new_v2
+  - action: utter_hoi_ve_khoa_hoc_happy_kids_new_v2
+  - intent: hoi_ve_tai_lieu_hoc_happy_kids_new_v2
+  - action: utter_hoi_ve_tai_lieu_hoc_happy_kids_new_v2
+  - intent: hoi_ve_giao_vien_khoa_hoc_happy_kids_new_v2
+  - action: utter_hoi_ve_giao_vien_khoa_hoc_happy_kids_new_v2
+  - intent: hoi_ve_phi_khoa_hoc_happy_kids_new_v2
+  - action: utter_hoi_ve_phi_khoa_hoc_happy_kids_new_v2

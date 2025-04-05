@@ -1,0 +1,76 @@
+stories:
+- story: utter_ket_qua_đau_ra_happy_kids_cam2a
+  steps:
+  - intent: ket_qua_đau_ra_happy_kids_cam2a
+  - action: utter_ket_qua_đau_ra_happy_kids_cam2a
+
+- story: utter_ky_nang_nghe_happy_kids_cam2a
+  steps:
+  - intent: ky_nang_nghe_happy_kids_cam2a
+  - action: utter_ky_nang_nghe_happy_kids_cam2a
+
+- story: utter_ky_nang_noi_happy_kids_cam2a
+  steps:
+  - intent: ky_nang_noi_happy_kids_cam2a
+  - action: utter_ky_nang_noi_happy_kids_cam2a
+
+- story: utter_ky_nang_viet_happy_kids_cam2a
+  steps:
+  - intent: ky_nang_viet_happy_kids_cam2a
+  - action: utter_ky_nang_viet_happy_kids_cam2a
+
+- story: utter_ky_nang_đoc_happy_kids_cam2a
+  steps:
+  - intent: ky_nang_đoc_happy_kids_cam2a
+  - action: utter_ky_nang_đoc_happy_kids_cam2a
+
+- story: utter_lo_trinh_hoc_tap_happy_kids_cam2a
+  steps:
+  - intent: lo_trinh_hoc_tap_happy_kids_cam2a
+  - action: utter_lo_trinh_hoc_tap_happy_kids_cam2a
+
+- story: utter_unit:_unit_1:_pop_stars_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_1:_pop_stars_happy_kids_cam2a
+  - action: utter_unit:_unit_1:_pop_stars_happy_kids_cam2a
+
+- story: utter_unit:_unit_2:_sports_day_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_2:_sports_day_happy_kids_cam2a
+  - action: utter_unit:_unit_2:_sports_day_happy_kids_cam2a
+
+- story: utter_unit:_unit_3:_lift-off_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_3:_lift-off_happy_kids_cam2a
+  - action: utter_unit:_unit_3:_lift-off_happy_kids_cam2a
+
+- story: utter_unit:_unit_4:_animal_fun_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_4:_animal_fun_happy_kids_cam2a
+  - action: utter_unit:_unit_4:_animal_fun_happy_kids_cam2a
+
+- story: utter_unit:_unit_5:_light,_camera,_action_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_5:_light,_camera,_action_happy_kids_cam2a
+  - action: utter_unit:_unit_5:_light,_camera,_action_happy_kids_cam2a
+
+- story: utter_unit:_unit_6:_superheroes_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_6:_superheroes_happy_kids_cam2a
+  - action: utter_unit:_unit_6:_superheroes_happy_kids_cam2a
+
+- story: utter_unit:_unit_7:_fun_transportation_day_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_7:_fun_transportation_day_happy_kids_cam2a
+  - action: utter_unit:_unit_7:_fun_transportation_day_happy_kids_cam2a
+
+- story: utter_unit:_unit_8:_around_town_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_8:_around_town_happy_kids_cam2a
+  - action: utter_unit:_unit_8:_around_town_happy_kids_cam2a
+
+- story: utter_unit:_unit_starter:_back_to_school_happy_kids_cam2a
+  steps:
+  - intent: unit:_unit_starter:_back_to_school_happy_kids_cam2a
+  - action: utter_unit:_unit_starter:_back_to_school_happy_kids_cam2a
+

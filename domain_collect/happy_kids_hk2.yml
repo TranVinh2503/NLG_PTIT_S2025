@@ -1,0 +1,232 @@
+actions:
+- utter_unit:_unit_7:_what_do_farm_animals_do?_happy_kids_hk2
+- utter_ky_nang_nghe_happy_kids_hk2
+- utter_ket_qua_đau_ra_happy_kids_hk2
+- utter_ky_nang_đoc_va_viet_happy_kids_hk2
+- utter_khung_chuong_trinh_hoc_happy_kids_hk2
+- utter_unit:_unit_2:_what_can_you_do_in_the_park?_happy_kids_hk2
+- utter_unit:_unit_3:_who_makes_you_happy?_happy_kids_hk2
+- utter_unit:_unit_5:_what's_in_your_house?_happy_kids_hk2
+- utter_unit:_unit_8:_what_do_you_wear_when_it's_hot?_happy_kids_hk2
+- utter_unit:_unit_6:_what_happens_in_the_garden?_happy_kids_hk2
+- utter_unit:_unit_9:_what_do_our_senses_tell_us?_happy_kids_hk2
+- utter_lo_trinh_hoc_tap_happy_kids_hk2
+- utter_unit:_uni_4:_what_happens_when_it's_windy?_happy_kids_hk2
+- utter_unit:_starter:_hello._what_can_you_say?_happy_kids_hk2
+- utter_unit:_unit_1:_how_do_we_make_pictures?_happy_kids_hk2
+intents:
+- inform_khung_chuong_trinh_hoc_happy_kids_hk2
+- inform_unit_unit_7_what_do_farm_animals_do_happy_kids_hk2
+- inform_unit_unit_starter_hello_what_can_you_say_happy_kids_hk2
+- inform_ky_nang_đoc_va_viet_happy_kids_hk2
+- inform_unit_unit_5_what's_in_your_house_happy_kids_hk2
+- inform_lo_trinh_hoc_tap_happy_kids_hk2
+- inform_ket_qua_đau_ra_happy_kids_hk2
+- inform_unit_unit_3_who_makes_you_happy_happy_kids_hk2
+- inform_unit_unit_9_what_do_our_senses_tell_us_happy_kids_hk2
+- inform_ky_nang_nghe_happy_kids_hk2
+- inform_unit_unit_8_what_do_you_wear_when_it's_hot_happy_kids_hk2
+- inform_unit_unit_6_what_happens_in_the_garden_happy_kids_hk2
+- inform_unit_uni_4_what_happens_when_it's_windy_happy_kids_hk2
+- inform_unit_unit_1_how_do_we_make_pictures_happy_kids_hk2
+- inform_unit_unit_2_what_can_you_do_in_the_park_happy_kids_hk2
+responses:
+  utter_ket_qua_đau_ra_happy_kids_hk2:
+  - text: Pre Starter
+  utter_khung_chuong_trinh_hoc_happy_kids_hk2:
+  - text: Sẽ có 10 unit chính và sau mỗi unit sẽ có review và test cho mỗi bài. Bạn
+      có thể hỏi chi tiết hơn về các unit
+  utter_ky_nang_nghe_happy_kids_hk2:
+  - text: "Kỹ năng nghe: Học viên có thể nghe và hiểu các câu giao tiếp đơn giản về\
+      \ các chủ đề quen thuộc như: gia đình, học tập, đồ ăn, động vật,… Có thể nhận\
+      \ biết cảm xúc của người nói để hiểu được đại ý của câu\n\t\nKỹ năng nói\nKỹ\
+      \ năng nói: Con có thể nói chuyện và giao tiếp với giáo viên bản ngữ và các\
+      \ bạn bằng tiếng anh để trao đổi về các chủ đề quen thuộc ở dạng câu đơn giản.\
+      \ Có khả chỉ ra, miêu tả và nhận xét về đồ vật và sự việc. Học viên có khả năng\
+      \ phát âm chuân hầu hết các từ thuộc nhiều chủ đề với mức độ chính xác cao,\
+      \ đôi lúc gặp khó khăn nhận biết các từ đồng âm"
+  utter_ky_nang_đoc_va_viet_happy_kids_hk2:
+  - text: "Kỹ năng đọc và viết: Học viên có thể dễ dàng nhận biết mặt chữ hoặc cụm\
+      \ từ quen thuộc giới hạn ở 1 đến 2 âm tiết. Học viên có thể kết nối hình ảnh\
+      \ và phát âm của chữ và từ nếu chỉ được nhìn thấy chữ viết\n\t\nTừ vựng và ngữ\
+      \ pháp\nTừ vựng và ngữ pháp: Học viên có thể nhớ và sử dụng kết hợp từ vựng\
+      \ và ngữ pháp chuẩn trong tiếp với độ chính xác 80% trong tất cả tình huống\
+      \ giao tiếp (lưu ý: trong các tình huống giao tiếp hội thoại học viên có thể\
+      \ mắc lỗi nhỏ trong phát âm và các mẫu câu 3 tính chất"
+  utter_lo_trinh_hoc_tap_happy_kids_hk2:
+  - text: 'TRÌNH HỌC TẬP : hướng tới học sinh đủ điều kiện tham gia học chứng chỉ
+      Starter tiêu chuẩn Cambridge'
+  utter_unit:_uni_4:_what_happens_when_it's_windy?_happy_kids_hk2:
+  - text: 'UNIT: Uni 4: What happens when it''s windy?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Danh từ và tính từ về thời
+      tiết: sunny, windy, snowy, hot, cold, boots, cloudy, wet, warm, dry, pool, weather.
+      - Thứ trong tuần: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday.
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: - What''s the weather like
+      today? It''s (sunny).
+
+      I''m not (wet). - What day is it? It''s (Tuesday). - Good job! We can go outside
+      now.
+
+      NGỮ ÂM: Con biết phát âm các chữ cái ghép âm với l (sl, fl) và các từ chứa âm
+      của chữ cái đó như: sled, slide, slip, flip, fly
+
+      MỤC TIÊU: Con học cách nói về thời tiết và thứ trong tuần. Con học cách thể
+      hiện sự tôn trọng với người lớn.'
+  utter_unit:_unit_1:_how_do_we_make_pictures?_happy_kids_hk2:
+  - text: 'UNIT: Unit 1: How do we make pictures?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Đồ vật để vẽ tranh: pen, brush,
+      eraser, paper, glitter, paint, feathers - Màu sắc: black, white, brown, gray
+      - Danh từ: idea, team, next, turn
+
+      NGỮ PHÁP: Con có thể sử dụng các mẫu câu sau: - What''s this? - It''s a (blue)
+      (pen).\/ It''s (an) (eraser) - It''s his\/her (turn). - It''s my\/ your (idea).
+      - This picture uses (red) (paint). - Please pass the (yellow) (pen). Here you
+      are. Thank you.
+
+      NGỮ ÂM: Con biết phát âm chữ ghép ck và các từ chứa âm của chữ cái đó như: rock
+
+      MỤC TIÊU: Con học cách giao tiếp lịch sự với bạn bè để mượn đồ dùng. Con sử
+      dụng được Tiếng Anh để miêu tả đồ vật với màu sắc.'
+  utter_unit:_unit_2:_what_can_you_do_in_the_park?_happy_kids_hk2:
+  - text: 'TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Động từ: climb, catch,
+      build, walk, run, kick. - Giới từ, trạng từ: under, slowly, quickly - Khen ngợi:
+      great job - Hình khối: rectangle - Danh từ: monkey bars, sandbox
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: - I can\/ can''t (climb). -
+      Can you (climb)? - Can he\/she (kick)? - Yes, he\/she can. No, he\/she can''t.
+      - He\/she can''t (kick). - Line up. Wait your turn. That''s better.
+
+      NGỮ ÂM: Con biết phát âm các chữ cái ghép âm với s (sk, sp, st, sw) và các từ
+      chứa âm của chữ cái đó như: skip, spin, stop, swim
+
+      MỤC TIÊU: Con học cách giao tiếp để chia sẻ về khả năng của mình như con có
+      thể làm gì hoặc không thể làm gì. Con sử dụng Tiếng Anh để miêu tả các hành
+      động và dùng các câu lệnh khi xếp hàng.'
+  utter_unit:_unit_3:_who_makes_you_happy?_happy_kids_hk2:
+  - text: 'UNIT: Unit 3: Who makes you happy?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Tính từ chỉ trạng thái cơ
+      thể: happy, sad, tired, hungry, thirsty, lively - Danh từ chỉ người và con vật:
+      grandma, grandpa, tiger, penguin, dolphin, egg - Danh từ về chủ đề sinh nhật:
+      surprise, honey cake, Happy birthday
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: - I''m\/ He''s\/ She''s (tired).
+      - How do you feel today? We''re (hungry). - They''re (here). - These are (tigers).
+      - (The mom) looks after (the baby). - I love my (mom). (She) looks after me.
+      - Be careful. - I''m really sorry. - It''s alright. - It''s an accident.
+
+      NGỮ ÂM: Con biết phát âm các chữ cái ghép âm với r (tr, fr, dr) và các từ chứa
+      âm của chữ cái đó như: truck, frog, drum
+
+      MỤC TIÊU: Con học cách giao tiếp, hỏi thăm trạng thái của mọi người. Con có
+      thể khuyên nhủ và giao tiếp với bạn về việc chú ý cẩn thận.'
+  utter_unit:_unit_5:_what's_in_your_house?_happy_kids_hk2:
+  - text: 'UNIT: Unit 5: What''s in your house?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Đồ vật và các phòng trong
+      nhà: kitchen, living room, bedroom, bathroom, yard, balcony, bath, bed, sofa,
+      drawers, garbage can - Đồ chơi, quần áo, con vật: toys, clothes, duck - Tính
+      từ miêu tả sự gọn gàng: neat, clean - Số đếm từ 11 đến 15
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: - Who''s in (kitchen)? (Sara)''s
+      in the (kitchen). - Where''s (my duck)? in, on, under - It''s next to\/behind
+      the (sofa). - Numer fourteen is (above) the door. - Let''s out the (clothes)
+      in the (drawers) - Now it''s clean and neat. Good job!
+
+      NGỮ ÂM: Con biết phát âm chữ ghép sh và các từ chứa âm của chữ cái đó như: ship,
+      shell, shelf, fish.
+
+      MỤC TIÊU: Con học cách chỉ ra được vị trí của người, đồ vật và các phòng trong
+      nhà. Con biết cách giao tiếp để giúp đỡ làm việc nhà.'
+  utter_unit:_unit_6:_what_happens_in_the_garden?_happy_kids_hk2:
+  - text: 'UNIT: Unit 6: What happens in the garden?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Danh từ chỉ rau, củ quả, thức
+      ăn: soup, potatoes, beans, lettuce, pumpkins, peas, food, taste, fruits, vegetables.
+      - Động từ làm vườn và nấu ăn: dig, plant, water, pick, wash, eat, grow, cook,
+      make, stir, live, get. - Danh từ về động vật, vườn, trò chơi: bee, queen, worker,
+      hole, hopscotch.
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: - I like (potatoes). Do you
+      like (honey)? - What are you doing? -  I''m (digging). We''re (making soup).
+      - There is (1 queen bee). There are lots of (worker bees). - Try one. Vegetables\/
+      fruit are good for you.
+
+      NGỮ ÂM: Con biết phát âm chữ ghép ch và các từ chứa âm của chữ cái đó như: lunch,
+      bunch, chop.
+
+      MỤC TIÊU: Con biết cách nói về loại đồ ăn mình thích, nói về các hoạt động làm
+      vườn, nấu ăn. Con có thể giao tiếp hỏi người khác đang làm gì, khuyên bạn bè
+      nên ăn uống tốt cho sức khỏe.'
+  utter_unit:_unit_7:_what_do_farm_animals_do?_happy_kids_hk2:
+  - text: 'UNIT: Unit 7: What do farm animals do?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Các từ chỉ con vật và danh
+      từ chủ đề nông trại: cow, horse, sheep, goat, donkey, chicken, farm, grass,
+      water. - Tính từ miêu tả con vật và động từ: cute, funny, fat, eat, drink, say.
+      - Số đếm từ 16 đến 20
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: -They''re (cow). There are
+      (white) (rabbits). - I have a chicken. - He\/she has (a) chicken(s). They have
+      (15 cows). - What does a (goat) do? It (drinks) (water). - What do the animals
+      do? - The horses (eat) (grass). One more cow. - Don''t litter. It''s bad for
+      (the ducks). - Oh! I''m really sorry.
+
+      NGỮ ÂM: Con biết phát âm th và các từ chứa âm của chữ cái đó như: thin, thick.
+
+      MỤC TIÊU: Con chỉ ra số lượng con vật, hỏi và trả lời về hoạt động của các con
+      vật nuôi. Con biết khuyên bạn bè không nên vứt rác bừa bãi và biết xin lỗi khi
+      làm sai.'
+  utter_unit:_unit_8:_what_do_you_wear_when_it's_hot?_happy_kids_hk2:
+  - text: 'UNIT: Unit 8: What do you wear when ít''s hot?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Danh từ chỉ quần áo, đồ uống:
+      T-shirt, skirt, pants, shorts, sandals, jacket, sweater, shirt, socks, scarf,
+      washing machine, milkshake. - Danh từ chỉ mùa: spring, summer, fall, winter.
+      - Tính từ: dirty
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: - I''m wearing a (green) (jacket)
+      - my\/your - He''s\/ she''s wearing a (scarf) - What do you wear in the spring?
+      - Push the button. - You need to wear an apron. - You need to keep clean
+
+      NGỮ ÂM: Con biết phát âm th và các từ chứa âm của chữ cái đó như: this, these,
+      that, clothes.
+
+      MỤC TIÊU: Con biết miêu tả về quần áo của mình và của bạn. Con nhận biết mùa
+      nào mặc loại quần áo gì. Con học cách giao tiếp để khuyên bạn bè mặc đúng loại
+      quần áo và giữ vệ sinh.'
+  utter_unit:_unit_9:_what_do_our_senses_tell_us?_happy_kids_hk2:
+  - text: 'UNIT: Unit 9: What do our senses tell us?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Động từ về giác quan: see,
+      feel, smell, taste, hear - Tính từ: loud, beautiful, delicious, hot, great,
+      soft, hard, quiet, smelly, sweet, bad - Danh từ: music, clock, shaker, coconuts
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các câu sau: - How does it feel\/look\/smell\/sound?
+      - It (feels) soft. It''s hard. - This music sounds like (a train). - What does
+      it sound like? - I can''t hear you. - We need to listen to others.
+
+      NGỮ ÂM: Con biết phát âm ng và các từ chứa âm của chữ cái đó như: bang, gong,
+      sing, song, strong, along.
+
+      MỤC TIÊU: Con biết cách hỏi và trả lời cảm giác về thế giới xung quanh. Con
+      biết khuyên bạn bè nên lắng nghe nhau.'
+  utter_unit:_unit_starter:_hello._what_can_you_say?_happy_kids_hk2:
+  - text: 'UNIT: Unit Starter: Hello. What can you say?
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc các chủ đề: - Tên nhân vật: May, Sam, Anna,
+      Mom, Dad, Bird - Danh từ chỉ người: teacher, friend, kid - Màu sắc và đồ vật:
+      colors, toys - Động vật, thiên nhiên, hình khối, cơ thể người, hành động, các
+      số từ 1 đến 10
+
+      NGỮ PHÁP: Con có thể sử dụng các mẫu câu sau: - Hello.\/ Bye. - Who is he\/she?
+      He''s (Sam)\/ She''s (May)  I''m (Mom). This is (Dad) - How many (balls) do
+      you see? I see (4) (balls)  - What''s this? It''s a (crayon) - (Birds) can (fly).  -
+      The (eyes) are (circles). The (mouth) is (a triangel)
+
+      NGỮ ÂM: Con thuộc được bảng chữ cái.
+
+      MỤC TIÊU: Con học được cách chào và hỏi tên, đồ vật, hình khối bằng Tiếng Anh'

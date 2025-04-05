@@ -1,0 +1,91 @@
+nlu:
+- intent: ket_qua_dau_ra_happy_kids_hk1
+  examples: |
+    - "Kết quả của học viên ra sao?"
+    - "Học viên đạt được kết quả như thế nào?"
+    - "Học viên hoàn thành khóa học như thế nào?"
+
+- intent: khung_chuong_trinh_hoc_happy_kids_hk1
+  examples: |
+    - "Chương trình học có bao nhiêu unit?"
+    - "Sau mỗi unit, có điều gì xảy ra?"
+    - "Chi tiết về khung chương trình học?"
+
+- intent: ky_nang_nghe_happy_kids_hk1
+  examples: |
+    - "Học viên có khả năng nghe được những gì?"
+    - "Nội dung của kỹ năng nghe là gì?"
+    - "Có thể nghe và hiểu được những gì trong khóa học?"
+
+- intent: ky_nang_doc_va_viet_happy_kids_hk1
+  examples: |
+    - "Kỹ năng đọc và viết như thế nào?"
+    - "Học viên có thể nhận biết được những gì khi đọc và viết?"
+    - "Có phải học viên cần học cách đọc và viết không?"
+
+- intent: lo_trinh_hoc_tap_happy_kids_hk1
+  examples: |
+    - "Lộ trình học tập như thế nào?"
+    - "Điểm cuối cùng của khóa học là gì?"
+    - "Lộ trình học gồm những bước nào?"
+
+- intent: unit_1_who's_in_your_family_happy_kids_hk1
+  examples: |
+    - "Unit 1: Ai trong gia đình của bạn?"
+    - "Trong gia đình có những ai?"
+    - "Giới thiệu về unit 1."
+
+- intent: unit_2_what's_this_happy_kids_hk1
+  examples: |
+    - "Unit 2: Đây là cái gì?"
+    - "Mô tả về unit 2."
+    - "Có thể cho tôi biết về nội dung của unit 2 không?"
+
+- intent: unit_3_how_many_eyes_happy_kids_hk1
+  examples: |
+    - "Unit 3: Bạn có bao nhiêu cái mắt?"
+    - "Số lượng mắt trong unit 3?"
+    - "Unit 3 là về việc gì?"
+
+- intent: unit_4_what_do_you_ride_happy_kids_hk1
+  examples: |
+    - "Unit 4: Bạn đi phương tiện gì?"
+    - "Phương tiện giao thông trong unit 4 là gì?"
+    - "Điều gì được thảo luận trong unit 4?"
+
+- intent: unit_5_what_can_you_find_outside_happy_kids_hk1
+  examples: |
+    - "Unit 5: Bạn có thể tìm thấy gì ngoài trời?"
+    - "Có gì bên ngoài?"
+    - "Unit 5 tập trung vào điều gì?"
+
+- intent: unit_6_what's_in_the_toy_box_happy_kids_hk1
+  examples: |
+    - "Unit 6: Trong hộp đồ chơi có gì?"
+    - "Mô tả về nội dung của unit 6."
+    - "Unit 6 là gì?"
+
+- intent: unit_7_what_pets_do_you_like_happy_kids_hk1
+  examples: |
+    - "Unit 7: Bạn thích con vật nào?"
+    - "Những con vật nào được thảo luận trong unit 7?"
+    - "Đề cập đến unit 7."
+
+- intent: unit_8_what_can_you_do_happy_kids_hk1
+  examples: |
+    - "Unit 8: Bạn có thể làm gì?"
+    - "Những hoạt động nào trong unit 8?"
+    - "Mục tiêu của unit 8 là gì?"
+
+- intent: unit_9_what_snack_do_you_like_happy_kids_hk1
+  examples: |
+    - "Unit 9: Bạn thích đồ ăn gì?"
+    - "Những loại đồ ăn nào trong unit 9?"
+    - "Nói về unit 9."
+
+- intent: unit_starter_hello_do_you_want_to_play_happy_kids_hk1
+  examples: |
+    - "Unit Starter: Xin chào. Bạn muốn chơi không?"
+    - "Đề cập đến unit starter."
+    - "Unit starter là gì?"
+

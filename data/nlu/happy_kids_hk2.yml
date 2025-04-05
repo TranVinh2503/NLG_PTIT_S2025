@@ -1,0 +1,76 @@
+nlu:
+- intent: inform_ket_qua_đau_ra_happy_kids_hk2
+  examples: |
+    - Kết quả đầu ra của khóa Happy Kids học kỳ 2 là gì?
+    - Cho biết kết quả của khóa học Happy Kids học kỳ 2?
+    - Happy Kids học kỳ 2 đạt được những thành tựu gì?
+- intent: inform_khung_chuong_trinh_hoc_happy_kids_hk2
+  examples: |
+    - Khung chương trình học của Happy Kids học kỳ 2 như thế nào?
+    - Chương trình học kỳ 2 của Happy Kids bao gồm những gì?
+    - Happy Kids học kỳ 2 có bao nhiêu unit và các phần nội dung nào?
+- intent: inform_ky_nang_nghe_happy_kids_hk2
+  examples: |
+    - Kỹ năng nghe trong khóa Happy Kids học kỳ 2 được đánh giá như thế nào?
+    - Học viên có thể phát triển kỹ năng nghe như thế nào trong khóa học Happy Kids học kỳ 2?
+    - Happy Kids học kỳ 2 tập trung vào việc cải thiện kỹ năng nghe như thế nào?
+- intent: inform_ky_nang_đoc_va_viet_happy_kids_hk2
+  examples: |
+    - Trong Happy Kids học kỳ 2, học viên được đánh giá như thế nào về kỹ năng đọc và viết?
+    - Kỹ năng đọc và viết được phát triển như thế nào trong khóa học Happy Kids học kỳ 2?
+    - Happy Kids học kỳ 2 giúp học viên nâng cao kỹ năng đọc và viết như thế nào?
+- intent: inform_lo_trinh_hoc_tap_happy_kids_hk2
+  examples: |
+    - Trình học tập của khóa Happy Kids học kỳ 2 như thế nào?
+    - Happy Kids học kỳ 2 hướng dẫn học viên qua các giai đoạn nào trong quá trình học?
+    - Lo trình học tập chi tiết của Happy Kids học kỳ 2 bao gồm những gì?
+- intent: inform_unit_uni_4_what_happens_when_it's_windy_happy_kids_hk2
+  examples: |
+    - Unit 4 trong Happy Kids học kỳ 2 tập trung vào những gì khi trời có gió?
+    - Trong Unit 4 của Happy Kids học kỳ 2, học viên học về những chủ đề nào liên quan đến thời tiết?
+    - Uni 4 của Happy Kids học kỳ 2 bao gồm những nội dung nào?
+- intent: inform_unit_unit_1_how_do_we_make_pictures_happy_kids_hk2
+  examples: |
+    - Unit 1 trong Happy Kids học kỳ 2 tập trung vào việc làm hình như thế nào?
+    - Trong Unit 1 của Happy Kids học kỳ 2, học viên tham gia vào những hoạt động nào liên quan đến việc tạo hình?
+    - Unit 1 của Happy Kids học kỳ 2 bao gồm những chủ đề và hoạt động gì?
+- intent: inform_unit_unit_2_what_can_you_do_in_the_park_happy_kids_hk2
+  examples: |
+    - Unit 2 trong Happy Kids học kỳ 2 tập trung vào những hoạt động gì trong công viên?
+    - Trong Unit 2 của Happy Kids học kỳ 2, học viên được tham gia vào những hoạt động nào khi ra công viên?
+    - Unit 2 của Happy Kids học kỳ 2 bao gồm những nội dung gì?
+- intent: inform_unit_unit_3_who_makes_you_happy_happy_kids_hk2
+  examples: |
+    - Trong Unit 3 của Happy Kids học kỳ 2, ai làm cho học viên cảm thấy vui?
+    - Unit 3 của Happy Kids học kỳ 2 tập trung vào việc nói về những người hoặc điều gì khiến bạn hạnh phúc?
+    - Unit 3 của Happy Kids học kỳ 2 bao gồm những chủ đề gì?
+- intent: inform_unit_unit_5_what's_in_your_house_happy_kids_hk2
+  examples: |
+    - Unit 5 của Happy Kids học kỳ 2 tập trung vào những vật dụng gì trong nhà?
+    - Trong Unit 5 của Happy Kids học kỳ 2, học viên học về những phòng và vật dụng gì trong nhà?
+    - Unit 5 của Happy Kids học kỳ 2 bao gồm những nội dung gì?
+- intent: inform_unit_unit_6_what_happens_in_the_garden_happy_kids_hk2
+  examples: |
+    - Trong Unit 6 của Happy Kids học kỳ 2, những gì xảy ra trong vườn?
+    - Unit 6 của Happy Kids học kỳ 2 tập trung vào việc nói về những hoạt động gì trong vườn?
+    - Unit 6 của Happy Kids học kỳ 2 bao gồm những chủ đề gì?
+- intent: inform_unit_unit_7_what_do_farm_animals_do_happy_kids_hk2
+  examples: |
+    - Trong Unit 7 của Happy Kids học kỳ 2, các con vật trang trại thường làm gì?
+    - Unit 7 của Happy Kids học kỳ 2 tập trung vào việc nói về những hoạt động gì của các con vật trang trại?
+    - Unit 7 của Happy Kids học kỳ 2 bao gồm những nội dung gì?
+- intent: inform_unit_unit_8_what_do_you_wear_when_it's_hot_happy_kids_hk2
+  examples: |
+    - Trong Unit 8 của Happy Kids học kỳ 2, khi nóng bạn mặc gì?
+    - Unit 8 của Happy Kids học kỳ 2 tập trung vào việc nói về việc mặc gì khi thời tiết nóng?
+    - Unit 8 của Happy Kids học kỳ 2 bao gồm những nội dung gì?
+- intent: inform_unit_unit_9_what_do_our_senses_tell_us_happy_kids_hk2
+  examples: |
+    - Trong Unit 9 của Happy Kids học kỳ 2, giác quan của chúng ta nói cho chúng ta điều gì?
+    - Unit 9 của Happy Kids học kỳ 2 tập trung vào việc nói về những gì mà giác quan của chúng ta cung cấp?
+    - Unit 9 của Happy Kids học kỳ 2 bao gồm những nội dung gì?
+- intent: inform_unit_unit_starter_hello_what_can_you_say_happy_kids_hk2
+  examples: |
+    - Trong Unit Starter của Happy Kids học kỳ 2, khi chào hỏi chúng ta nói gì?
+    - Unit Starter của Happy Kids học kỳ 2 bắt đầu với những câu chào nào?
+    - Unit Starter của Happy Kids học kỳ 2 chứa những nội dung gì?

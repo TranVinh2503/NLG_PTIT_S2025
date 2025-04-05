@@ -1,0 +1,75 @@
+nlu:
+- intent: ket_qua_đau_ra_happy_kids_cam2a
+  examples: |
+    - "Kết quả đầu ra Happy Kids Cam 2a là gì?"
+    - "Cho tôi biết kết quả đầu ra của Happy Kids Cam 2a."
+
+- intent: ky_nang_nghe_happy_kids_cam2a
+  examples: |
+    - "Những kỹ năng nghe trong Happy Kids Cam 2a là gì?"
+    - "Có thể cho tôi biết về kỹ năng nghe trong Happy Kids Cam 2a được không?"
+
+- intent: ky_nang_noi_happy_kids_cam2a
+  examples: |
+    - "Những kỹ năng nói trong Happy Kids Cam 2a bao gồm gì?"
+    - "Cho tôi biết về kỹ năng nói trong Happy Kids Cam 2a."
+
+- intent: ky_nang_viet_happy_kids_cam2a
+  examples: |
+    - "Có gì về kỹ năng viết trong Happy Kids Cam 2a?"
+    - "Tôi muốn biết về kỹ năng viết trong Happy Kids Cam 2a."
+
+- intent: ky_nang_đoc_happy_kids_cam2a
+  examples: |
+    - "Kỹ năng đọc trong khóa học Happy Kids Cam 2a bao gồm gì?"
+    - "Có gì về kỹ năng đọc trong Happy Kids Cam 2a?"
+
+- intent: lo_trinh_hoc_tap_happy_kids_cam2a
+  examples: |
+    - "Hãy mô tả về lộ trình học tập của Happy Kids Cam 2a."
+    - "Tôi muốn biết về lộ trình học tập trong Happy Kids Cam 2a."
+
+- intent: unit:_unit_1:_pop_stars_happy_kids_cam2a
+  examples: |
+    - "Hãy giới thiệu về Unit 1: Pop Stars trong Happy Kids Cam 2a."
+    - "Có thể cho tôi biết về nội dung của Unit 1: Pop Stars trong Happy Kids Cam 2a không?"
+
+- intent: unit:_unit_2:_sports_day_happy_kids_cam2a
+  examples: |
+    - "Tôi muốn biết về Unit 2: Sports Day trong Happy Kids Cam 2a."
+    - "Có thể giới thiệu về nội dung của Unit 2: Sports Day trong Happy Kids Cam 2a không?"
+
+- intent: unit:_unit_3:_lift-off_happy_kids_cam2a
+  examples: |
+    - "Cho tôi biết về Unit 3: Lift-off trong Happy Kids Cam 2a."
+    - "Tôi muốn biết nội dung của Unit 3: Lift-off trong Happy Kids Cam 2a."
+
+- intent: unit:_unit_4:_animal_fun_happy_kids_cam2a
+  examples: |
+    - "Tôi muốn biết về Unit 4: Animal Fun trong Happy Kids Cam 2a."
+    - "Có thể giới thiệu về nội dung của Unit 4: Animal Fun trong Happy Kids Cam 2a không?"
+
+- intent: unit:_unit_5:_light,_camera,_action_happy_kids_cam2a
+  examples: |
+    - "Hãy mô tả về Unit 5: Light, Camera, Action trong Happy Kids Cam 2a."
+    - "Tôi muốn biết về Unit 5: Light, Camera, Action trong Happy Kids Cam 2a."
+
+- intent: unit:_unit_6:_superheroes_happy_kids_cam2a
+  examples: |
+    - "Có thể giới thiệu về Unit 6: Superheroes trong Happy Kids Cam 2a không?"
+    - "Tôi muốn biết về nội dung của Unit 6: Superheroes trong Happy Kids Cam 2a."
+
+- intent: unit:_unit_7:_fun_transportation_day_happy_kids_cam2a
+  examples: |
+    - "Tôi muốn biết về Unit 7: Fun Transportation Day trong Happy Kids Cam 2a."
+    - "Hãy mô tả về nội dung của Unit 7: Fun Transportation Day trong Happy Kids Cam 2a."
+
+- intent: unit:_unit_8:_around_town_happy_kids_cam2a
+  examples: |
+    - "Có thể cho tôi biết về Unit 8: Around Town trong Happy Kids Cam 2a không?"
+    - "Tôi muốn biết về nội dung của Unit 8: Around Town trong Happy Kids Cam 2a."
+
+- intent: unit:_unit_starter:_back_to_school_happy_kids_cam2a
+  examples: |
+    - "Tôi muốn biết về Unit Starter: Back to school trong Happy Kids Cam 2a."
+    - "Hãy giới thiệu về Unit Starter: Back to school trong Happy Kids Cam 2a."

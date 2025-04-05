@@ -1,0 +1,82 @@
+nlu:
+- intent: ket_qua_đau_ra_happy_kids_cam3b
+  examples: |
+    - Kết quả đầu ra Happy Kids CAM 3B
+    - Kết quả đầu ra của chương trình Happy Kids CAM 3B là gì?
+    - Chương trình Happy Kids CAM 3B có kết quả gì sau khi hoàn thành?
+- intent: ky_nang_nghe_happy_kids_cam3b
+  examples: |
+    - Kỹ năng nghe Happy Kids CAM 3B
+    - Con học được những gì về kỹ năng nghe trong chương trình Happy Kids CAM 3B?
+    - Các khả năng nghe nào được phát triển trong Happy Kids CAM 3B?
+- intent: ky_nang_noi_happy_kids_cam3b
+  examples: |
+    - Kỹ năng nói Happy Kids CAM 3B
+    - Trẻ em phát triển kỹ năng nói như thế nào trong chương trình Happy Kids CAM 3B?
+    - Cách trẻ em trau dồi kỹ năng nói trong Happy Kids CAM 3B là gì?
+- intent: ky_nang_viet_happy_kids_cam3b
+  examples: |
+    - Kỹ năng viết Happy Kids CAM 3B
+    - Trẻ em học về kỹ năng viết gì trong chương trình Happy Kids CAM 3B?
+    - Các khả năng viết được cải thiện như thế nào trong Happy Kids CAM 3B?
+- intent: ky_nang_đoc_happy_kids_cam3b
+  examples: |
+    - Kỹ năng đọc Happy Kids CAM 3B
+    - Kỹ năng đọc nào được tập trung trong chương trình Happy Kids CAM 3B?
+    - Trẻ em phát triển kỹ năng đọc như thế nào trong Happy Kids CAM 3B?
+- intent: lo_trinh_hoc_tap_happy_kids_cam3b
+  examples: |
+    - Lộ trình học tập Happy Kids CAM 3B
+    - Chương trình học tập của Happy Kids CAM 3B như thế nào?
+    - Con học được gì qua lộ trình học tập trong Happy Kids CAM 3B?
+- intent: unit:_uni_4:_human_history_happy_kids_cam3b
+  examples: |
+    - Unit 4 Human History Happy Kids CAM 3B
+    - Unit 4 Human History trong chương trình Happy Kids CAM 3B
+    - Trẻ em học về gì trong Unit 4 Human History của Happy Kids CAM 3B?
+- intent: unit:_unit_1:_delightful_drama_happy_kids_cam3b
+  examples: |
+    - Unit 1 Delightful Drama Happy Kids CAM 3B
+    - Unit 1 Delightful Drama trong chương trình Happy Kids CAM 3B
+    - Trẻ em phát triển những kỹ năng gì trong Unit 1 Delightful Drama của Happy Kids CAM 3B?
+- intent: unit:_unit_2:_global_geography_happy_kids_cam3b
+  examples: |
+    - Unit 2 Global Geography Happy Kids CAM 3B
+    - Unit 2 Global Geography trong chương trình Happy Kids CAM 3B
+    - Con học về những gì trong Unit 2 Global Geography của Happy Kids CAM 3B?
+- intent: unit:_unit_3:_lively_literature_happy_kids_cam3b
+  examples: |
+    - Unit 3 Lively Literature Happy Kids CAM 3B
+    - Unit 3 Lively Literature trong chương trình Happy Kids CAM 3B
+    - Trẻ em phát triển những kỹ năng gì trong Unit 3 Lively Literature của Happy Kids CAM 3B?
+- intent: unit:_unit_5:_smart_citizenship_happy_kids_cam3b
+  examples: |
+    - Unit 5 Smart Citizenship Happy Kids CAM 3B
+    - Unit 5 Smart Citizenship trong chương trình Happy Kids CAM 3B
+    - Con học về những gì trong Unit 5 Smart Citizenship của Happy Kids CAM 3B?
+- intent: unit:_unit_6:_survival_skills_happy_kids_cam3b
+  examples: |
+    - Unit 6 Survival Skills Happy Kids CAM 3B
+    - Unit 6 Survival Skills trong chương trình Happy Kids CAM 3B
+    - Trẻ em phát triển những kỹ năng gì trong Unit 6 Survival Skills của Happy Kids CAM 3B?
+- intent: unit:_unit_7:_daring_designs_happy_kids_cam3b
+  examples: |
+    - Unit 7 Daring Designs Happy Kids CAM 3B
+    - Unit 7 Daring Designs trong chương trình Happy Kids CAM 3B
+    - Con học về những gì trong Unit 7 Daring Designs của Happy Kids CAM 3B?
+- intent: unit:_unit_8:_interesting_it_happy_kids_cam3b
+  examples: |
+    - Unit 8 Interesting IT Happy Kids CAM 3B
+    - Unit 8 Interesting IT trong chương trình Happy Kids CAM 3B
+    - Trẻ em phát triển những kỹ năng gì trong Unit 8 Interesting IT của Happy Kids CAM 3B?
+- intent: unit:_unit_9:_spectacular_science_happy_kids_cam3b
+  examples: |
+    - Unit 9 Spectacular Science Happy Kids CAM 3B
+    - Unit 9 Spectacular Science trong chương trình Happy Kids CAM 3B
+    - Con học về những gì trong Unit 9 Spectacular Science của Happy Kids CAM 3B?
+- intent: unit:_unit_starter:_new_semester_happy_kids_cam3b
+  examples: |
+    - Unit Starter New Semester Happy Kids CAM 3B
+    - Unit Starter New Semester trong chương trình Happy Kids CAM 3B
+    - Trẻ em học về những gì trong Unit Starter New Semester của Happy Kids CAM 3B?
+

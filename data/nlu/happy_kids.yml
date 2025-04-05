@@ -1,0 +1,66 @@
+nlu:
+- intent: cam_ket_dau_ra
+  examples: |
+    - Cho biết cam kết đầu ra của khóa học là gì?
+    - Cam kết đầu ra của khóa học là gì?
+    - Khóa học cam kết đầu ra gì?
+- intent: chuong_trinh_happy_kids
+  examples: |
+    - Khóa học Happy Kids là gì?
+    - Thông tin về chương trình Happy Kids?
+    - Happy Kids có điều gì đặc biệt?
+- intent: giao_trinh
+  examples: |
+    - Giáo trình của trung tâm là gì?
+    - Trung tâm sử dụng giáo trình nào?
+    - Giáo trình của trung tâm áp dụng cho độ tuổi nào?
+- intent: happy_kids_1
+  examples: |
+    - Happy Kids 1 là gì?
+    - Thông tin về Happy Kids 1?
+    - Khóa học Happy Kids 1 kéo dài bao lâu?
+- intent: happy_kids_2
+  examples: |
+    - Happy Kids 2 là gì?
+    - Thông tin về Happy Kids 2?
+    - Khóa học Happy Kids 2 kéo dài bao lâu?
+- intent: happy_kids_3
+  examples: |
+    - Happy Kids 3 là gì?
+    - Thông tin về Happy Kids 3?
+    - Khóa học Happy Kids 3 kéo dài bao lâu?
+- intent: ky_nang_nghe
+  examples: |
+    - Học viên có khả năng nghe và hiểu những gì?
+    - Trẻ em có thể nghe được những gì trong khóa học?
+    - Khả năng nghe của học viên như thế nào?
+- intent: ky_nang_noi
+  examples: |
+    - Học viên có khả năng nói những gì?
+    - Trẻ em có thể nói được những gì trong khóa học?
+    - Khả năng nói của học viên như thế nào?
+- intent: ky_nang_doc_va_viet
+  examples: |
+    - Học viên có khả năng đọc và viết những gì?
+    - Trẻ em có thể đọc và viết được những gì trong khóa học?
+    - Khả năng đọc và viết của học viên như thế nào?
+- intent: lo_trinh_hoc
+  examples: |
+    - Lo trình học của khóa học là gì?
+    - Học viên sẽ trải qua các bước nào trong quá trình học?
+    - Điều kiện để học viên được chứng chỉ là gì?
+- intent: muc_tieu_khoa_hoc
+  examples: |
+    - Mục tiêu của khóa học là gì?
+    - Mục tiêu giáo dục của trung tâm là gì?
+    - Học viên sẽ đạt được điều gì sau khi hoàn thành khóa học?
+- intent: phuong_phap_hoc
+  examples: |
+    - Phương pháp học của khóa học là gì?
+    - Trung tâm áp dụng phương pháp học nào?
+    - Học viên sẽ học như thế nào trong khóa học?
+- intent: tu_vung_va_ngu_phap
+  examples: |
+    - Trong khóa học, học viên sẽ học về từ vựng và ngữ pháp như thế nào?
+    - Các bài học về từ vựng và ngữ pháp được tổ chức như thế nào?
+    - Khả năng sử dụng từ vựng và ngữ pháp của học viên sẽ được đánh giá như thế nào?

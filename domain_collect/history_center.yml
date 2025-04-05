@@ -1,0 +1,26 @@
+version: "3.1"
+
+intents:
+- introduce_company
+- founding_year
+- location
+- achievements
+
+actions:
+- action_introduce_company
+- action_provide_founding_year
+- action_provide_location
+- action_provide_achievements
+
+responses:
+  utter_action_introduce_company:
+    - text: "Học viện Anh ngữ Enspire (Enspire Academy) – tiền thân là Trung tâm ngoại ngữ Vietedutech – tự hào là đơn vị giảng dạy tiếng Anh trẻ em hàng đầu tại Hà Nội. Enspire Academy được thành lập vào năm 2006, và được dẫn dắt bởi đội ngũ chuyên gia đầu ngành về giảng dạy tiếng Anh của trường Đại học Ngoại ngữ Hà Nội. Với vị thế là đơn vị tiên phong tại Việt Nam về nghiên cứu và giảng dạy tiếng Anh cho trẻ em, trong suốt hơn 17 năm qua, Enspire Academy đã và đang truyền cảm hứng học tiếng Anh cho hàng nghìn trẻ em, khơi dậy tình yêu ngoại ngữ và không ngừng đồng hành để nâng cao sự tự tin khi giao tiếp tiếng Anh cho các bạn nhỏ."
+
+  utter_action_provide_founding_year:
+    - text: "Enspire Academy được thành lập vào năm 2006."
+
+  utter_action_provide_location:
+    - text: "Enspire Academy hiện có văn phòng tại Hà Nội, Hải Phòng, và Bắc Ninh."
+
+  utter_action_provide_achievements:
+    - text: "Enspire Academy đã và đang truyền cảm hứng học tiếng Anh cho hàng nghìn trẻ em, khơi dậy tình yêu ngoại ngữ và không ngừng đồng hành để nâng cao sự tự tin khi giao tiếp tiếng Anh cho các bạn nhỏ. Enspire Academy cũng đã chắp cánh ước mơ chinh phục Anh ngữ và vươn ra thế giới của thế hệ trẻ Việt Nam."

@@ -1,0 +1,224 @@
+actions:
+- utter_unit:_unit_8:_interesting_it_happy_kids_cam3b
+- utter_unit:_unit_3:_lively_literature_happy_kids_cam3b
+- utter_unit:_unit_1:_delightful_drama_happy_kids_cam3b
+- utter_unit:_unit_7:_daring_designs_happy_kids_cam3b
+- utter_unit:_unit_5:_smart_citizenship_happy_kids_cam3b
+- utter_unit:_unit_2:_global_geography_happy_kids_cam3b
+- utter_ky_nang_noi_happy_kids_cam3b
+- utter_unit:_unit_starter:_new_semester_happy_kids_cam3b
+- utter_unit:_unit_9:_spectacular_science_happy_kids_cam3b
+- utter_ky_nang_viet_happy_kids_cam3b
+- utter_unit:_unit_6:_survival_skills_happy_kids_cam3b
+- utter_lo_trinh_hoc_tap_happy_kids_cam3b
+- utter_ket_qua_đau_ra_happy_kids_cam3b
+- utter_unit:_uni_4:_human_history_happy_kids_cam3b
+- utter_ky_nang_đoc_happy_kids_cam3b
+- utter_ky_nang_nghe_happy_kids_cam3b
+intents:
+- ky_nang_nghe_happy_kids_cam3b
+- unit:_unit_starter:_new_semester_happy_kids_cam3b
+- unit:_unit_3:_lively_literature_happy_kids_cam3b
+- unit:_unit_2:_global_geography_happy_kids_cam3b
+- unit:_unit_7:_daring_designs_happy_kids_cam3b
+- ky_nang_noi_happy_kids_cam3b
+- unit:_unit_9:_spectacular_science_happy_kids_cam3b
+- unit:_unit_5:_smart_citizenship_happy_kids_cam3b
+- unit:_unit_1:_delightful_drama_happy_kids_cam3b
+- lo_trinh_hoc_tap_happy_kids_cam3b
+- ket_qua_đau_ra_happy_kids_cam3b
+- ky_nang_đoc_happy_kids_cam3b
+- ky_nang_viet_happy_kids_cam3b
+- unit:_unit_8:_interesting_it_happy_kids_cam3b
+- unit:_unit_6:_survival_skills_happy_kids_cam3b
+- unit:_uni_4:_human_history_happy_kids_cam3b
+responses:
+  utter_ket_qua_đau_ra_happy_kids_cam3b:
+  - text: Kết quả đầu ra:Nền tảng lên trình TEEN , về khả năng ngoại ngữ tương đương
+      2.5 IELTS
+  utter_ky_nang_nghe_happy_kids_cam3b:
+  - text: 'Kỹ năng nghe: Con có thể nghe và nhận biết các từ vựng và cấu trúc quen
+      thuộc liên quan đến các chủ đề về môn học, diễn xuất, du lịch, truyện, xã hội,
+      thám hiểm, công nghệ và khoa học vũ trụ'
+  utter_ky_nang_noi_happy_kids_cam3b:
+  - text: 'Kỹ năng nói: Con có thể nói và giao tiếp về môn học, diễn xuất, du lịch,
+      truyện, xã hội, thám hiểm, công nghệ và khoa học vũ trụ sử dụng câu bị động,
+      câu điều kiện loại 1&2, câu hỏi đuôi và cách nhấn luyến trong câu nói để lột
+      tả rõ ý của mình. Trong khi giao tiếp, đối tượng giao tiếp có khả năng nói rõ
+      ràng, tốc độ vừa phải và sẵn sàng nhắc lại hoặc giải thích ý bản thân nếu được
+      hỏi'
+  utter_ky_nang_viet_happy_kids_cam3b:
+  - text: 'Kỹ năng viết: Con có thể các từ nối, giới từ, động từ khiếm khuyết... để
+      đặt câu, viết truyện, viết tin nhắn ngắn, mails ngắn về chủ đề diễn xuất, quần
+      áo, môi trường, xã hội, thực vật, khoa học...'
+  utter_ky_nang_đoc_happy_kids_cam3b:
+  - text: 'Kỹ năng đọc: Con có thể đọc hiểu các tên gọi các bộ môn học, diễn xuất,
+      du lịch, truyện, xã hội, thám hiểm, công nghệ và khoa học vũ trụ...'
+  utter_lo_trinh_hoc_tap_happy_kids_cam3b:
+  - text: 'LỘ TRÌNH HỌC TẬP : Chứng chỉ Flyer theo tiêu chuẩn Cambridge'
+  utter_unit:_uni_4:_human_history_happy_kids_cam3b:
+  - text: 'UNIT: Uni 4: Human History
+
+      TỪ VỰNG: Con nắm được các động từ dùng trong các sự kiện của đời người và các
+      từ liên quan đến xã hội, gia đình
+
+      NGỮ PHÁP: Con được học về thì hiện tại hoàn thành sử dụng /just, already, yet/
+      và các động từ khiếm khuyết
+
+      NGỮ ÂM: Con biết cách phát âm từ đuôi /i:/ và các từ dùng để liên kết các câu
+      trong văn viết, nói
+
+      KỸ NĂNG: Đọc: học cách đọc, nhận biết từ mới và âm đuôi  /i:/ thông qua việc
+      đọc văn bản trong sách Nghe: học cách phát âm, đọc từ mới thông qua việc nghe
+      và chọn đáp án đúng  Nói: luyện từ mới và âm /i:/ bằng cách làm việc nhóm, theo
+      cặp Viết: viết truyện sử dụng thỉ hiện tại hoàn thành và từ mới'
+  utter_unit:_unit_1:_delightful_drama_happy_kids_cam3b:
+  - text: 'UNIT: Unit 1: Delightful Drama
+
+      TỪ VỰNG: Con nắm được các động từ liên quan đến diễn xuất, biểu diễn trên sân
+      khấu
+
+      NGỮ PHÁP: Con có thể sử dụng thì hiện tại đơn và thì hiện tại tiếp diễn. Con
+      biết cách phân biệt và sử dụng /so/ và /such/
+
+      NGỮ ÂM: Con biết cách dùng /can/ và /can''t/ và những từ đồng âm mà khác nghĩa
+
+      KỸ NĂNG: Đọc: học các từ mới thông qua việc đọc văn bản và chọn/ khoanh từ/
+      câu đúng Nghe: học từ mới thông qua việc nghe đoạn ghi âm và khoan, nối từ vào
+      nghĩa thích hợp Nói: học cách đọc và phát âm từ mới đúng. Miêu tả tranh được
+      vẽ trong sách dùng từ mới của Unit Viết: viết lời thoại cho một buổi biểu diễn
+      sử dụng từ mới và cấu trúc thì hiện tại đơn/ tiếp diễn. Biết cách viết từ mới  của
+      Unit'
+  utter_unit:_unit_2:_global_geography_happy_kids_cam3b:
+  - text: 'UNIT: Unit 2: Global Geography
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc chủ đề về du lịch và phổ biến trong sân
+      bay
+
+      NGỮ PHÁP: Con có thể sử dụng cấu trúc: 1. Verbs patterns 2. Verb + infinitive
+      with to 3. Verb + gerund 4. V-ing/ to+V
+
+      NGỮ ÂM: Con biết phát âm chuẩn âm /ɑɪ/ và đọc số có đuôi –teen và–ty
+
+      KỸ NĂNG: Đọc: học cách đọc từ mới và số đếm có đuôi –teen và –ty  thông qua
+      việc đọc văn bản  Nghe: biết cách nhận biết từ mới thông qua việc nghe, chọn
+      đáp án đúng qua việc nghe đoạn ghi âm Nói: học cách đọc và phát âm từ mới. Luyện
+      tập miêu tả câu truyện và đàm thoại trong nhóm, cặp bằng từ mới và cấu trúc
+      của Unit Viết: học cách viết số đếm có đuôi –teen và –ty và đặt tiêu đề, viết
+      câu miêu tả cho truyện sau khi đọc và nắm bắt rõ nội dung của chuyện'
+  utter_unit:_unit_3:_lively_literature_happy_kids_cam3b:
+  - text: 'UNIT: Unit 3: Lively Literature
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc chủ đề về tên của các loại hình nhân vật,
+      vật dụng thấy trong truyện
+
+      NGỮ PHÁP: Con học được về thì quá khứ đơn và quá khứ tiếp diễn. Biết cách dùng
+      /since/ /for/ trong thì hiện tại hoàn thành
+
+      NGỮ ÂM: Con biết cách đọc từ có âm /u/ và sử dụng âm điệu trong câu hỏi và trả
+      lời để lột tả ý chính của người nói
+
+      KỸ NĂNG: Đọc: đọc văn bản và nhớ cách viết từ mới và cách chuyển đổi từ sang
+      thì quá khứ Nghe: học cách nhận biết ý của người nói thông qua âm điệu dùng
+      trong câu nói. Học từ mới thông qua việc nghe đoạn băng ghi âm để biết cách
+      đọc Nói: biết cách phát âm và nói từ mới, từ có âm /u/ thông qua việc luyện
+      nói theo cặp hoặc trong nhóm. Hỏi và trả lời về 2 sự vật hiện tượng để trao
+      đổi thông tin và ôn tập từ mới  Viết: học cách viết từ mới và tập đặt câu với
+      /since/ /for/ dùng trong thì hiện tại hoàn thành'
+  utter_unit:_unit_5:_smart_citizenship_happy_kids_cam3b:
+  - text: 'UNIT: Unit 5: Smart Citizenship
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc chủ về bảo vệ môi trường, sinh thái  và
+      tên của một số loài động vật
+
+      NGỮ PHÁP: Con có thể giao tiếp bằng các mẫu câu sau: 1. will for instant decisions
+      and  going to for plans 2. less and fewer with count and  noncount nouns
+
+      NGỮ ÂM: Con biết phát âm chuẩn âm /ɚʊ/ và câu hỏi láy đuôi
+
+      KỸ NĂNG: Đọc: học từ mới, cấu trúc thông qua việc đọc emails ngắn, đoạn chú
+      ý, tín hiệu và tin nhắn ngắn để nối nghĩa thích hợp của chúng Nghe: nghe đoạn
+      hội thoại điền vào chỗ trống để học từ mới về bảo tồn và môi trường. Nghe, hiểu
+      và xác định được thông tin chính của đoạn hội thoại ngắn. Học về chuỗi thức
+      ăn và sinh tồn của động vật và thức vật để nhận thức được sự quan trọng của
+      bảo tồn môi trường, động/thực vật Nói: học cách dùng cầu trúc câu hỏi láy đuôi,
+      câu với will/less để dùng trong giao tiếp. Học cách phát âm và đọc từ mới. Viết:
+      con biết cách đặt câu với cấu trúc /less/will và câu hỏi láy đuôi'
+  utter_unit:_unit_6:_survival_skills_happy_kids_cam3b:
+  - text: 'UNIT: Unit 6: Survival Skills
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc chủ đề về thám hiểm và sinh tồn
+
+      NGỮ PHÁP: Con học được cách sử dụng đại từ bất định và will/going to để nói
+      về tương lai gần
+
+      NGỮ ÂM: Con biết cách dùng âm điệu trong câu với giới từ và học cách đọc từ
+      có chữ cái im lặng
+
+      KỸ NĂNG: Đọc: đọc câu hỏi, đoạn văn bản ngắn, emails ngắn, tin nhắn và dấu hiệu
+      để hiểu thêm về cách đọc các từ vựng Nghe: nghe đoạn hội thoại và làm bài tập
+      để hiểu thêm về thám hiểm và từ vựng liên quan Nói: học cách phát âm và đọc
+      từ mới. Học từ có chữ cái im lặng và nhấn mạnh với giới từ  Viết: tập đặt câu,
+      viết emails, đoạn tin nhắn ngắn dưới 25 chữ để biết cách dùng từ mới, cấu trúc
+      trong văn viết'
+  utter_unit:_unit_7:_daring_designs_happy_kids_cam3b:
+  - text: 'UNIT: Unit 7: Daring Designs
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc chủ đề về quần áo, phụ kiện và các tính
+      từ về may mặc
+
+      NGỮ PHÁP: Con được học về câu bị động hiện tại hoàn thành và câu tường thuật
+
+      NGỮ ÂM: Con biết phát âm chuẩn âm /ɚ/ và /ʃ/
+
+      KỸ NĂNG: Đọc: học cách đọc từ mới dưới dạng văn viết (văn bản, tạp chí và bài
+      báo) Nghe: học cách nhận biết và đọc từ mới về phụ kiện, quần áo và may mặc
+      thông qua việc nghe băng ghi âm Nói: học cách phát âm và đọc từ mới, từ có âm
+      /ɚ/ và /ʃ/ thông qua làm việc nhóm/ cặp trên lớp Viết: biết cách viết tin nhắn,
+      email ngắn dưới 25 từ sử dụng từ mới và cấu trúc của Unit'
+  utter_unit:_unit_8:_interesting_it_happy_kids_cam3b:
+  - text: 'UNIT: Unit 8: Interesting IT
+
+      TỪ VỰNG: Con nắm được từ vựng về thao tác máy tính, phát minh và công nghệ
+
+      NGỮ PHÁP: Con học được câu điều kiện loại 1 và câu với thì quá khư đơn bị động
+
+      NGỮ ÂM: Con biết cách phát âm /eɪ/ và đọc tên địa chỉ websites
+
+      KỸ NĂNG: Đọc: học từ mới về IT, công nghệ và máy tính thông qua việc đọc các
+      văn bản thông dụng  Nghe: học cách phát âm và đọc từ mới thông qua file ghi
+      âm sẵn, đoạn hội thoại để điền vào chỗ trống thích hợp  Nói: học cách phát âm
+      và đọc tên từ mới, cấu trúc câu điều kiện loại 1, câu bị động thì quá khứ đơn
+      thông qua làm việc nhóm/ cặp và trò chơi Viết: học cách viết truyện ngắn dưới
+      35 từ dựa trên tranh gơi tư duy để thực hành từ mới và cấu trúc câu của Unit'
+  utter_unit:_unit_9:_spectacular_science_happy_kids_cam3b:
+  - text: 'UNIT: Unit 9: Spectacular Science
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc chủ đề về khoa học, không gian và hệ thống
+      các hành tinh trong hệ mặt trời
+
+      NGỮ PHÁP: Con học thêm về câu điều kiện loại 2 và câu hỏi bị động thì quá khứ
+      đơn
+
+      NGỮ ÂM: Con biết phát âm chuẩn âm /e/ và cách nhấn mạnh trong câu
+
+      KỸ NĂNG: Đọc: học từ mới về hệ mặt trời, khoa học không qian thông qua bài tập
+      đọc và chữa câu Nghe: học cách nhận biết ý chính trong đoạn đối thoại, tin nhắn
+      ghi âm.  Nói: Học cách phát âm, đọc từ mới của Unit thông qua đối thoại về phát
+      biểu ý kiến của bản thân và cho lí do (theo nhóm/cặp ở trên lớp) Viết: học cách
+      viết truyện ngắn dưới 35 từ dựa trên các bức tranh gợi ý. Học cách viết từ mới
+      và tập đặt câu với cấu trúc câu điều kiện loại 2 thể bị động. Viết đoạn văn
+      về một hành tinh để hiểu thêm về khoa học, không gian'
+  utter_unit:_unit_starter:_new_semester_happy_kids_cam3b:
+  - text: 'UNIT: Unit Starter: New Semester
+
+      TỪ VỰNG: Con nắm được từ vựng thuộc chủ đề về các môn học và các từ dùng trong
+      phạm vi trường học
+
+      NGỮ PHÁP: Con có thể sử dụng mẫu câu hỏi đuôi
+
+      KỸ NĂNG: Đọc: đọc văn bản, đối thoại và truyện để học từ mới có trong Unit Nghe:
+      học cách đọc và đánh vần từ mới về trường học và học thuật bằng cách nghe và
+      chọn câu trả lời đúng Nói: tập từ mới và câu hỏi đuôi với cặp và nhóm được phân
+      công trong lớp Viết: học từ mới và cấu trúc bằng cách điền từ thích hợp vào
+      chỗ trống'

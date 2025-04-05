@@ -1,0 +1,401 @@
+nlu:
+- intent: tu_van_khoa_học
+  examples: |
+    - Tôi muốn tư vấn khóa học? 
+    - Trung Tâm có các khóa học như nào?
+    - Các Khóa học của trung tâm ra sao ? 
+    - Con tôi muốn học tiếng anh?
+    - Muốn học tiếng anh?
+- intent: bai_tap_ve_nha_hoc_vien_enspir_gom_hoc_vien_phu_huynh_the_tim_o_đau_biet_noi_dung_bai_tap_lam_buoi_hoc
+  examples: |
+    - Bài tập về nhà của các học viên Enspire gồm những gì? 
+    - Học viên và phụ huynh có thể tìm ở đâu để biết nội dung bài tập cần làm sau mỗi buổi học?
+- intent: buoi_hoc_enspir_con_anh_chi_cham_lam_bai_tap_ve_nha_hoc_phan_kien_thuc_lop_,_cach_giup_hoc_vien_enspir_cham_hon
+  examples: |
+    - Sau buổi học tại Enspire con anh/chị chưa chăm chỉ làm bài tập về nhà và học lại phần kiến thức tại lớp, có cách gì để giúp các học viên Enspire chăm chỉ hơn không?
+    - Sau buổi học tại Enspire con anh/chị chưa chăm chỉ làm bài tập về nhà và học lại phần kiến thức tại lớp, có cách gì để giúp các học viên Enspire chăm chỉ hơn không?
+- intent: phu_huynh_enspir_muon_ho_tro_con_hoc_them_o_nha
+  examples: |
+    - Phụ huynh Enspire muốn hỗ trợ con học thêm ở nhà có được không? 
+    - Phụ huynh Enspire  hỗ trợ con học thêm ở nhà có  không? 
+- intent: buoi_hoc_con_toi_nhan_email_thong_bao_gvcn_lop
+  examples: |
+    - Sau mỗi buổi học của con tôi không nhận được email thông báo của GVCN lớp?
+    - Sau mỗi buổi học của con tôi không email thông báo của GVCN lớp?
+- intent: chuong_trinh_hoc_enspir_gom
+  examples: |
+    - Chương trình học của Enspire gồm những gì?
+    - Chương trình học gồm những gì?
+- intent: thoi_luong_hoc_moi_khoa_hoc_enspir_bao_lau
+  examples: |
+    - Thời lượng học của mối khóa học tại Enspire là bao lâu?
+    - Thời lượng học bao lâu?
+- intent: phu_huynh_enspir_lam_kiem_soat_hoc_tieng_anh_con_trung_tam
+  examples: |
+    - Phụ huynh Enspire làm gì để kiểm soát được việc học tiếng anh của con tại trung tâm?
+    Phụ huynh Enspire làm gì để kiểm soát được việc học tiếng anh của con tại trung tâm?
+- intent: giao_vien_enspir_giao_vien_ban_ngu
+  examples: |
+    - Giáo viên Enspire có phải là giáo viên bản ngữ không?
+- intent: khoa_hoc_dien_trong_bao_lau
+  examples: |
+    - Mỗi khóa học diễn ra trong bao lâu?
+- intent: đo_tuoi_hoc_sinh_hoc_chuong_trinh_enspir_the_nao
+  examples: |
+    - Độ tuổi học sinh theo học các chương trình Enspire như thế nào?
+- intent: he_thong_enspir_chinh_sach_uu_đai_khach_hang_nguoi_gioi_thieu_khach_hang_enspir
+  examples: |
+    - Hệ thống Enspire có chính sách ưu đãi gì cho khách hàng người mà đã giới thiệu khách hàng cho Enspire?
+- intent: giao_vien_enspir_kinh_nghiem_giang_dai_lam_enspir
+  examples: |
+    - Các giáo viên Enspire đã có kinh nghiệm giảng dạy trước khi làm việc cho Enspire?
+- intent: hoc_vien_tham_gia_hoc_tap_lop_enspir_xep_nang_luc_tieng_anh_hay_đo_tuoi
+  examples: |
+    - Học viên tham gia học tập các lớp tại Enspire được xếp theo năng lực tiếng anh hay độ tuổi?
+- intent: chau_hoc_sinh_nang_luc_tieng_anh_tot_hon_o_đo_tuoi_enspir_xep_hoc_sinh_hoc_lop_vuot_đo_tuoi
+  examples: |
+    - Nếu các cháu học sinh có năng lực tiếng anh tốt hơn ở độ tuổi thì Enspire có xếp học sinh học lớp vượt độ tuổi không?
+- intent: anh__chi_toi_tham_khao_muc_gia_hoc_phi_tinh_mot_gio_hoc_enspir_trung_tam_tieng_anh_cap
+  examples: |
+    - Anh/ chị cho tôi tham khảo mức giá học phí tính trên một giờ học của Enspire với các trung tâm tiếng anh cùng cấp được không? 
+- intent: hoc_sinh_đen_enspir_the_tham_gia_hoc_thu_bao_nhieu_buoi
+  examples: |
+    - Mỗi học sinh đến Enspire có thể tham gia học thử bao nhiêu buổi?
+- intent: chi_nhanh_enspir_cam_ket_giu_muc_gia_nhau_nam_lo_trinh_tang_gia_the_nao
+  examples: |
+    - Các chi nhánh Enspire có cam kết giữ mức giá như nhau cho các năm sau không? Lộ trình tăng giá như thế nào?
+- intent: hoc_sinh_muon_tham_gia_lop_hoc_enspir_tham_gia_kiem_tra_đau
+  examples: |
+    - Học sinh khi muốn tham gia các lớp học tại Enspire có phải tham gia kiểm tra đầu vào không? 
+- intent: hoc_sinh_6_tuoi_muon_tham_gia_hoc_enspir_tham_gia_kiem_tra_tieng_anh_đau
+  examples: |
+    - Học sinh dưới 6 tuổi muốn tham gia học tại Enspire có phải tham gia kiểm tra tiếng anh đầu vào không?
+- intent: hoc_sinh_hoc_enspir_ly_chinh_đang_tam_ngung_hoc_4_buoi_tro_hoc_bu_hay_bao_luu_so_buoi
+  examples: |
+    - Học sinh đang theo học tại Enspire do có những lý do chính đáng phải tạm ngừng học từ 4 buổi trở lên có được học bù hay bảo lưu số buổi đó không?
+- intent: hoc_vien_hoc_enspir_ly_chinh_đang_tham_gia_đanh_gia_ket_qua_hoc_tap_(_tham_gia_kiem_tra_giua_ky_cuoi_ky_)_tham_gia_kiem_tra_đanh_gia
+  examples: |
+    - Học viên đang theo học Enspire vì những lý do chính đáng không tham gia đánh giá kết quả học tập( không tham gia kiểm tra giữa kỳ và cuối kỳ) thì có được tham gia kiểm tra đánh giá lại không?
+- intent: noi_dung_kiem_tra_đau_hoc_sinh_hoc_muon_tham_gia_hoc_enspir
+  examples: |
+    - Nội dung kiểm tra đầu vào khi học sinh học muốn tham gia học tại Enspire là gì?
+- intent: thoi_gian_kiem_tra_đau_trinh_đo_enspir_bao_lau
+  examples: |
+    - Thời gian kiểm tra đầu vào cho các trình độ tại Enspire là bao lâu?
+- intent: hoc_sinh_the_mot_lop_chai_enspir_o_trinh_đo_tuong_đuong
+  examples: |
+    - Học sinh có thể vào một lớp đang chạy của Enspire ở trình độ tương đương được không?
+- intent: hoc_sinh_kiem_tra_đau_o_mot_trinh_đo_con_hoc_thai_phu_hop_cach_giai_quyet_the_nao
+  examples: |
+    - Nếu học sinh kiểm tra đầu vào ở một trình độ nhưng con học thấy không phù hợp thì cách giải quyết như thế nào?
+- intent: con_test_o_mot_trinh_đo_bo_me_mong_muon_con_hoc_mot_trinh_đo
+  examples: |
+    - Nếu con test ở một trình độ nhưng bố mẹ mong muốn con học trên một trình độ có được không?
+- intent: con_toi_hoc_sk2a_,_ban_than_hoc_lop_sk1b_,_toi_muon_con_hoc_sk1b_tien_đua_đon_2_con_.
+  examples: |
+    - Con tôi học SK2A, bạn thân học lớp SK1b, tôi muốn cho con học cùng SK1b để tiện đưa đón 2 con.
+- intent: ca_hoc_he_thong_anh_ngu_enspir_thong_thuong_the_nao
+  examples: |
+    - Ca học tại hệ thống anh ngữ Enspire thông thường như thế nào?
+- intent: lop_hoc_enspir_the_chuc_01_buoi_tuan
+  examples: |
+    - Lớp học Enspire có thể chức chỉ 01 buổi/tuần không?
+- intent: toi_thai_giao_vien_dai_qua_nhanh_trinh_đo_con_toi_(_lop_demo_)
+  examples: |
+    - Tôi thấy giáo viên dạy quá nhanh so với trình độ con tôi (lớp Demo)
+- intent: con_tham_gia_giua_khoa_hoc_the_anh_huong_đen_hoc_con
+  examples: |
+    - Các con tham gia vào giữa khóa học như thế có ảnh hưởng gì đến việc học của con không?
+- intent: hoc_o_trinh_đo_hkthi_con_biet_viet_viet_the_nao_đung_cach
+  examples: |
+    - Học ở trình độ HKthì các con có cần biết viết không? Viết như thế nào cho đúng cách?
+- intent: sao_buoc_vang_hoc_be_lop_phu_đao_30_phut
+  examples: |
+    - Tại sao mỗi buộc vắng học của bé trên lớp chỉ được phụ đạo 30 phút?
+- intent: trong_lop_demo_,_toi_thai_giao_vien_tuong_tac_hoc_sinh_,_hoc_sinh_phat_am_sai_giao_vien_sua_.
+  examples: |
+    - Trong lớp Demo, tôi thấy giáo viên không tương tác nhiều với học sinh, học sinh phát âm sai không được giáo viên sửa.
+- intent: ngoai_hoc_tieng_anh_lop_hoc_sinh_enspir_hoc_them_tieng_anh_o_nha_phuong_phap_hoc_tieng_anh_nha_the_nao_hieu_qua
+  examples: |
+    - Ngoài việc học tiếng anh trên lớp thì học sinh Enspire có cần cần học thêm tiếng anh ở nhà không? Phương pháp học tiếng anh tại nhà như thế nào là hiệu quả?
+- intent: 6_thang_hoc_enspir_toi_thai_con_toi_phat_am_chuan_mong_muon_._cach_nao_giup_con_toi_phat_am_tot_hon_ngai
+  examples: |
+    - Sau 6 tháng học tại Enspire tôi thấy con tôi vẫn chưa phát âm chuẩn như mong muốn. Có cách nào giúp con tôi phát âm tốt hơn mỗi ngày không?
+- intent: sao_con_anh_chi_(_trinhđo_kindy1_,_hk2_)_hoc_xong_ve_nha_anh_chi_hoi_bai_(_nghia_sang_tieng_viet_,_hoac_nguoc_)_be_tra_loi
+  examples: |
+    - Tại sao con anh/chị (trìnhđộ Kindy1, HK2) học xong về nhà anh/chị hỏi lại bài (nghĩa của từ sang Tiếng Việt, hoặc ngược lại) thì bé không trả lời được?
+- intent: noi_dung_hoc_lop_hoc_vien_enspir_gom
+  examples: |
+    - Nội dung học trên lớp của các học viên Enspire gồm những gì?
+- intent: ban_the_gioi_thieu_ngan_gon_ve_he_thong_anh_ngu_enspir
+  examples: |
+    - Bạn có thể giới thiệu ngắn gọn về Hệ thống anh ngữ Enspire được không?
+- intent: toi_đen_enspir_trai_nghiem_nhan_vien_phu_vu_o_thai_đo_van_minh_toi_thich_quay_.
+  examples: |
+    - Tôi đến Enspire để trải nghiệm những nhân viên phụ vụ ở đây không có thái độ văn minh nên tôi không thích quay lại nữa.
+- intent: chi_nhanh_bat_ngo_dung_hoat_đong_hoac_chuyen_đi_khac_thuan_tien_hoc_con_tien_toi_đat_coc_đong_tien_xu_ly_the_nao
+  examples: |
+    - Nếu chi nhánh bất ngờ dừng hoạt động hoặc chuyển đi nơi khác không thuận tiện cho việc học của con thì tiền tôi đã đặt cọc và đóng tiền thì xử lý như thế nào?
+- intent: cong_cu_su_dung_trong_giang_dai_he_thong_anh_ngu_enspir
+  examples: |
+    - Có những công cụ gì được sử dụng trong giảng dạy tại Hệ thống anh ngữ Enspire
+- intent: con_toi_2_thang_hoc_enspir_english_ket_qua_mon_tieng_anh_kha_mon_hoc_khac_kem_đi_toi_lo_lang_ve_tinh_trang_.
+  examples: |
+    - Con tôi sau 2 tháng học tại Enspire English kết quả môn Tiếng Anh có khá lên nhưng các môn học khác lại kém đi tôi rất lo lắng về tình trạng này.
+- intent: con_toi_hoc_enspir_gan_het_mot_khoa_3_thang_chau_chua_tu_tin_giao_tiep_tieng_anh_ban_nguoi_nuoc_ngoai_.
+  examples: |
+    - Con tôi đã học tại Enspire gần hết một khóa 3 tháng mà cháu vẫn chữa tự tin giao tiếp tiếng anh với bạn và người nước ngoài.
+- intent: hien_nay_chau_tap_trung_on_tap_thi_hoc_ky_o_lop_chau_tam_ngung_hoc_tieng_anh_trung_tam
+  examples: |
+    - Hiện nay cháu đang tập trung cho việc ôn tập thi học kỳ ở lớp nên cháu tạm ngừng việc học tiếng anh tại trung tâm 
+- intent: toi_nghe_nhan_vien_tu_van_enspir_trinh_bai_trong_bai_hoc_giao_trinh_enspir_long_nghep_kien_thuc_khoa_hoc_tu_nhien_khoa_hoc_xa_hoi_,_noi_dung_hoc
+  examples: |
+    - Tôi nghe nhân viên tư vấn Enspire trình bày trong các bài học của giáo trình Enspire có lồng nghép các kiến thức khoa học tự nhiên và khoa học xã hội, vậy nội dung học là gì?
+- intent: toi_muon_con_hoc_thu_mot_thang_thai_tot_moi_đang_ky_01_nam_.
+  examples: |
+    - Tôi muốn cho con học thử một tháng rồi nếu thấy tốt mới đăng ký 01 năm sau.
+- intent: cong_cu_tu_duy_giao_vien_nuoc_ngoai_giang_dai_enspir_dung_truyen_đat_kien_thuc_hoc_vien_bao_gom
+  examples: |
+    - Các công cụ tư duy mà giáo viên nước ngoài giảng dạy tại Enspire dùng để truyền đạt kiến thức cho các học viên bao gồm những gì?
+- intent: hoc_vien_hoc_enspir_đam_bao_hoc_ngu_phap_chuong_trinh_hoc_truong_hoc_chau
+  examples: |
+    - Học viên học tại Enspire có đảm bảo việc học ngữ pháp theo chương trình học tại trường học của các cháu không?
+- intent: giao_vien_nuoc_ngoai_than_thien_hoc_vien_lieu_hien_tuong_lam_duc_tinh_duc_tre_em_enspir
+  examples: |
+    - Giáo viên nước ngoài rất thân thiện với các học viên liệu có hiện tượng lạm dục tình dục trẻ em tại Enspire không?
+- intent: he_thong_anh_ngu_enspir_cong_khai_bang_cap_kinh_nghiem_giao_vien_nuoc_ngoai_tham_gia_giang_dai_chi_nhanh
+  examples: |
+    - Hệ thống anh ngữ Enspire có công khai bằng cấp và kinh nghiệm của giáo viên nước ngoài tham gia giảng dạy tại Chi nhánh không?
+- intent: trong_truong_hop_lop_bat_đau_lau_,_hoc_sinh_moi_lam_sao_kip
+  examples: |
+    - Trong trường hợp lớp đã bắt đầu từ lâu, học sinh mới vào làm sao theo kịp được?
+- intent: con_toi_hoc_lop_demo_xong_thich_.
+  examples: |
+    - Con tôi học lớp Demo xong nhưng không thích.
+- intent: chi_nhanh_khoa_trai_nghiem_thuc_te_hay_da_ngoai_be
+  examples: |
+    - chi nhánh có các khóa trải nghiệm thực tế hay dã ngoại cho các bé không?
+- intent: mot_lop_hoc_enspir_bao_nhieu_giao_vien_nuoc_ngoai_giang_dai
+  examples: |
+    - Một lớp học Enspire sẽ có bao nhiêu giáo viên nước ngoài giảng dạy? 
+- intent: chuong_trinh_hkhoc_ve_noi_dung
+  examples: |
+    - Chương trình HKhọc về nội dung gì?
+- intent: hoc_sinh_enspir_english_bo_tro_ngu_phap
+  examples: |
+    - Học sinh tại Enspire English có được bổ trợ Ngữ pháp không?
+- intent: hoc_sinh_enspir_english_hoc_lam_bai_kiem_tra
+  examples: |
+    - Học sinh tại Enspire English khi học có làm bài kiểm tra gì không?
+- intent: giao_vien_enspir_english_dai_full-tim_hay_part-tim
+  examples: |
+    - Giáo viên tại Enspire English dạy full-time hay part-time?
+- intent: giao_vien_enspir_đen_nuoc_nao
+  examples: |
+    - Giáo viên của Enspire đến từ những nước nào?
+- intent: chenh_lech_ve_đo_tuoi_hoc_vien_trong_mot_lop_hoc_enspir
+  examples: |
+    - Có sự chênh lệch về độ tuổi của các học viên trong một lớp học Enspire không?
+- intent: ket_qua_bai_kiem_tra_đau_bao_luu_trong_thoi_gian_bao_lau
+  examples: |
+    - Kết quả bài kiểm tra đầu vào được bảo lưu trong thời gian bao lâu?
+- intent: chinh_sach_uu_đai_gia_đinh_hay_nhom_hon_1_nguoi_đang_ky_hoc_enspir
+  examples: |
+    - Có chính sách ưu đãi cho gia đình hay nhóm nhiều hơn 1 người khi đăng ký học tại Enspire không?
+- intent: chuan_đau_chuong_trinh_hoc_enspir
+  examples: |
+    - Chuẩn đầu ra của các chương trình học tại Enspire là gì?
+- intent: con_toi_nang_khieu_hoc_,_so_bai_._giai_phap_nao_con
+  examples: |
+    - Con tôi không có năng khiếu học, sợ không theo được bài. Vậy có giải pháp nào cho con không?
+- intent: khach_hang_muon_tap_trung_dai_ngu_phap_,_ngoai_ngu_con_hoc_gioi_lop_(_điem_cao_)
+  examples: |
+    - Khách hàng muốn tập trung vào dạy ngữ pháp, ngoại ngữ để con học giỏi trên lớp (điểm cao)
+- intent: trong_buoi_hoc_demo_,_khach_hang_tro_phan_nan_giao_vien_dai_the_,_the_kia_.
+  examples: |
+    - Trong buổi học Demo, khách hàng lên chỉ trỏ và phàn nàn giáo viên phải dạy như thế này, thế kia.
+- intent: con_toi_hoc_lop_3_hoc_tieng_anh_,_đung_lo_trinh_khoa_hoc_chi_nhanh_lop_12_moi_ket_thuc_._cach_nao_đai_nhanh_qua_trinh
+  examples: |
+    - Con tôi học lớp 3 nhưng chưa được học Tiếng Anh, nếu theo đúng lộ trình các khóa học của chi nhánh thì phải lớp 12 mới kết thúc. Vậy có cách nào để đẩy nhanh quá trình?
+- intent: giao_vien_co_đinh
+  examples: |
+    - Giáo viên có cố định không?
+- intent: lop_demo_,_khach_hang_noi_con_toi_hoc_tieng_anh_,_đinh_huong_con_lam_cong_an_,_…
+  examples: |
+    - Sau lớp Demo, khách hàng nói rằng con tôi không cần học Tiếng Anh, vì định hướng cho con làm công an, …
+- intent: khach_hang_phan_nan_hoc_sinh_chi_nhanh_on_ao_cho
+  examples: |
+    - Khách hàng phàn nàn học sinh chi nhánh ồn ào như cái chợ
+- intent: tu_van_vien_lam_ph_mang_tien_đu_tin_tuong_chot_phi_.
+  examples: |
+    - Tư vấn viên phải làm gì khi PH có mang theo tiền nhưng chưa đủ tin tưởng để chốt phí.
+- intent: chi_nhanh_đam_bao_con_toi_hoc_tien_bo_tien_bo_xu_ly_the_nao
+  examples: |
+    - chi nhánh có đảm bảo con tôi học sẽ tiến bộ không? Nếu không tiến bộ thì xử lý như thế nào?
+- intent: ke_ban_ghe_lop_hoc_khac
+  examples: |
+    - Có kê bàn ghế lớp học khác được không?
+- intent: toi_kiem_tra_thai_tai_lieu_hoc_tap_kho_hon_trinh_đo_con_hoc_toi_lam
+  examples: |
+    - Nếu tôi kiểm tra thấy tài liệu học tập khó hơn với trình độ con học thì tôi phải làm gì?
+- intent: nha_toi_xa_đua_đon_con_.
+  examples: |
+    - Nhà tôi xa không đưa đón con được.
+- intent: khach_hang_phan_van_,_muon_ve_nha_tham_khao_y_kien_vo_chong_.
+  examples: |
+    - Khách hàng phân vân, muốn về nhà tham khảo ý kiến của vợ/chồng.
+- intent: khach_hang_nop_tien_,_muon_ve_can_đoi_thu_chi_.
+  examples: |
+    - Khách hàng chưa nộp tiền, muốn về cân đối thu chi.
+- intent: con_toi_hoc_o_apollo_yen_tam_,_muon_chuyen_chi_nhanh_khac_.
+  examples: |
+    - Con tôi đang học ở Apollo yên tâm rồi, không muốn chuyển chi nhánh khác.
+- intent: lop_hoc_demo_,_phu_huynh_lo_lang_hoc_that_giong_hoc_demo_,_con_hoc_lop_trial_dam_đong_tien_.
+  examples: |
+    - Sau lớp học Demo, phụ huynh lo lắng học thật không giống học Demo, chưa cho con học lớp trial nên chưa dám đóng tiền.
+- intent: toi_thu_tien_con_thich
+  examples: |
+    - Tôi có được thu lại tiền nếu con không thích không?
+- intent: đang_ky_hoc_goi_uu_đai_khai_truong_khoa_hoc_uu_đai
+  examples: |
+    - Sau khi đăng ký học theo gói ưu đãi khai trương thì các khóa học sau có được ưu đãi gì không?
+- intent: toi_the_đong_hoc_phi_thang
+  examples: |
+    - Tôi có thể đóng học phí từng tháng không?
+- intent: toi_hai_con_hoc_o_hai_trinh_đo_khac_nhau.tai_sao_hoc_phi_nhau_toi_nghi_lop_be_hon_hoc_phi_thap_hon
+  examples: |
+    - Tôi có hai con học ở hai trình độ khác nhau.Tại sao học phí lại như nhau? Theo tôi nghĩ lớp bé hơn thì học phí phải thấp hơn chứ?
+- intent: đong_hoc_phi_dai_khoa_mot_khoa_khac_nhau_ve_muc_đong
+  examples: |
+    - Việc đóng học phí dài khóa và một khóa có sự khác nhau về mức đóng không?
+- intent: gvnn_giang_dai_enspir_ho_am_hieu_van_hoa_phong_tuc_tap_quan_viet_nam_anh_huong_đen_hoc_tap_hoc_vien
+  examples: |
+    - GVNN khi giảng dạy tại Enspire họ có am hiểu văn hóa và phong tục tập quán của Việt Nam không? Và điều này có ảnh hưởng đến việc học tập của các học viên không?
+- intent: anh_chi_lua_tuoi_nao_hoc_tieng_anh_nguoi_nuoc_ngoai_hieu_qua_nhat_em_hoc_sinh_ca_tinh_nhut_nhat_,_ngai_giao_tiep_hoc_nguoi_nuoc_ngoai_hieu_qua
+  examples: |
+    - Theo anh/chị thì lứa tuổi nào học tiếng anh với người nước ngoài là hiệu quả nhất? Các em học sinh có cá tính nhút nhát, ngại giao tiếp học người nước ngoài có hiệu quả không?
+- intent: enspir_english_ngai_chi_nhanh_,_lam_sao_đam_bao_chat_luong_giang_dai
+  examples: |
+    - Enspire English ngày càng có nhiều chi nhánh, làm sao đảm bảo được chất lượng giảng dạy?
+- intent: he_thong_giao_trinh_enspir_the_nao
+  examples: |
+    - Hệ thống giáo trình của Enspire như thế nào?
+- intent: co_so_vat_chat_enspir_english_khac_biet_chi_nhanh_khac_phong_hoc_trang_thiet
+  examples: |
+    - Cơ sở vật chất của Enspire English có khác biệt gì so với các chi nhánh khác? Phòng học có những trang thiết bị gì?
+- intent: he_thong_chua_chai_enspir_an_toan
+  examples: |
+    - Hệ thống chữa cháy tại Enspire có an toàn không?
+- intent: toi_quan_sat_giang_dai_tieng_anh_trung_tam_ket_hop_hoat_đong_vui_choi_,_lam_anh_huong_đen_chat_luong_hoc_tap_chau
+  examples: |
+    - Tôi quan sát việc giảng dạy tiếng anh tại trung tâm có kết hợp nhiều các hoạt động vui chơi, điều này có làm ảnh hưởng đến chất lượng học tập của các cháu?
+- intent: ngoai_gio_hoc_lop_,_chau_muon_tham_gia_clb_tieng_anh_luyen_them_nghe_noi_chi_nhanh_minh_to_chuc_hay_ngai_,_gio_cu_the_the_nao
+  examples: |
+    - Ngoài giờ học trên lớp, các cháu muốn tham gia CLB Tiếng Anh để luyện thêm nghe nói thì chi nhánh  mình có tổ chức hay không? Nếu có thì ngày, giờ cụ thể như thế nào? 
+- intent: toi_mot_be_hoc_lop_7_,_hoc_tieng_anh_nho_ben_vu_,_ve_ngu_phap_be_vung_chac_,_ngoai_gio_hoc_ben_vu_toi_moi_thai_ve_dai_them_be_nha_kha_nang_noi_tieng_anh_be_tu_nhien.cho_toi_hoi_lop_hoc_nao_chuyen_luyen_nghe_noi
+  examples: |
+    - Tôi có một bé đang học lớp 7, đã được học tiếng Anh ngay từ nhỏ bên VUS,về ngữ pháp bé rất vững chắc,vì ngoài giờ học bên VUS tôi có mời thầy về dạy thêm cho bé tại nhà nhưng khả năng nói tiếng Anh của bé  chưa tự nhiên.Cho tôi hỏi có lớp học nào chuyên luyện nghe nói không?
+- intent: con_toi_5_tuoi_hoc_tieng_anh_o_đau_._toi_muon_con_toi_hoc_tieng_anh_,_so_be_hoc_som_tieng_anh_tieng_viet_lan_lon_.
+  examples: |
+    - Con tôi được 5 tuổi chưa học Tiếng Anh ở đâu cả. Tôi cũng muốn cho con tôi học tiếng Anh, nhưng sợ bé học sớm thì Tiếng Anh và Tiếng Việt sẽ bị lẫn lộn.
+- intent: hoc_giao_vien_ban_ngu_ngu_phap_đam_bao_em_,_chi_biet_hoc_giao_vien_ban_ngu_giup_minh_luyen_nghe_noi_tot_thoi_,_ngu_phap_chac_lam
+  examples: |
+    - Học với Giáo viên bản ngữ thì ngữ pháp có đảm bảo không em, vì theo chị biết học với Giáo viên bản ngữ chỉ giúp mình luyện nghe nói tốt thôi, chứ ngữ pháp thì không chắc lắm?
+- intent: con_toi_phan_anh_hoc_lop_de_qua_chau_muon_vuot_cap_.
+  examples: |
+    - Con tôi phản ánh là học lớp này dễ quá nên cháu muốn vượt cấp. Như vậy có được không?
+- intent: giao_vien_chinh_sua_tat_loi_con_toi
+  examples: |
+    - Giáo viên sẽ chỉnh sửa tất cả các lỗi của con tôi chứ?
+- intent: lieu_toi_the_yeu_cau_thay_đoi_giao_vien_con_toi_thich
+  examples: |
+    - Liệu tôi có thể yêu cầu thay đổi giáo viên nếu con tôi không thích ?
+- intent: sao_ngu_phap_con_toi_cai_thien_sao_điem_tieng_anh_con_toi_o_truong_thay_đoi
+  examples: |
+    - Tại sao ngữ pháp của con tôi vẫn không cải thiện? Tại sao điểm Tiếng Anh của con tôi ở trường vẫn không thay đổi?
+- intent: trong_qua_trinh_hoc_con_toi_thich_giao_vien_giang_dai_chau_hien_,_ban_thuong_e_ngai_tuong_tac_giao_vien_._enspir_phuong_an_ho_tro_chau_gia_đinh
+  examples: |
+    - Nếu trong quá trình học con tôi không thích giao viên giảng dạy cháu hiện tại, bạn thường e ngại và không tương tác với giáo viên đó. Vậy Enspire có phương án gì hỗ trợ cháu và gia đình?
+- intent: toi_the_uu_đai_60_%_._hien_toi_đong_coc_1_trieu_đong_chuong_trinh_uu_đai_50_%_hoc_phi_tang_01_nam_sach_mien_phi_._toi_chuyen_chuong_trinh_60_%
+  examples: |
+    - Tôi có thẻ ưu đãi 60%. Nhưng hiện tại tôi đã đóng cọc 1 triệu đồng theo Chương trình ưu đãi 50% học phí được tặng 01 năm sách miễn phí. Vậy tôi có được chuyển qua chương trình 60%?
+- intent: sao_con_toi_hoc_mai_khoa_thai_tien_bo
+  examples: |
+    -  Tại sao con tôi học mấy khóa rồi mà không thấy tiến bộ?
+- intent: hoc_vien_mot_khoa_hoc_đat_điem_đu_lop_tiep_enspir_cach_thuc_the_nao_ho_tro_hoc_vien
+  examples: |
+    - Nếu học viên sau một khóa học không đạt được điểm đủ lên lớp tiếp theo thì Enspire có cách thức như thế nào để hỗ trợ cho các học viên?
+- intent: scot_cam_ket_đau_chuong_trinh_hoc
+  examples: |
+    - Scot có cam kết đầu ra với các chương trình học không?
+- intent: toi_đat_coc_con_ly_con_toi_hoc_._toi_phep_rut_tien_coc_đong
+  examples: |
+    - Tôi đặt cọc cho con nhưng sau đó vì các lý do con tôi không theo học được. Vậy tôi có được phép rút tiền cọc đã đóng không?
+- intent: cach_thuc_đong_hoc_phi_enspir
+  examples: |
+    - Cách thức đóng học phí của Enspire?
+- intent: ask_about_history_new
+  examples: |
+    - Hãy kể về lịch sử của Enspire
+    - Enspire được thành lập năm bao nhiêu
+- intent: ask_about_courses_new
+  examples: |
+    - Cho tôi biết về các khóa học tại Enspire
+    - Enspire dạy những khóa học nào
+- intent: ask_about_age_group_new
+  examples: |
+    - Các khóa học tại Enspire dành cho độ tuổi nào
+    - Trung tâm có khóa học nào dành cho trẻ 5 tuổi không
+- intent: ask_about_teachers_new
+  examples: |
+    - Chuyên gia dẫn dắt khóa học tại Enspire có bằng cấp như thế nào
+    - Chất lượng giáo viên tại Enspire ra sao
+- intent: ask_about_contact_new
+  examples: |
+    - Làm thế nào tôi có thể liên hệ với trung tâm
+    - Số điện thoại của trung tâm là gì
+- intent: ask_about_communication_courses
+  examples: |
+    - Enspire có cung cấp các chương trình học phát triển kỹ năng giao tiếp không?
+    - Trung tâm có khóa học nào tập trung vào kỹ năng giao tiếp không?
+    - Tôi có thể học kỹ năng giao tiếp ở đâu trong các khóa học của Enspire?
+- intent: ask_about_courses_new_v2
+  examples: |
+    - What English programs do you offer at Enspire?
+    - Do you provide English communication courses?
+- intent: ask_about_teachers_new_v2
+  examples: |
+    - What qualifications do the English teachers have at Enspire?
+    - What is the teacher-student ratio?
+- intent: ask_about_age_group_new_v2
+  examples: |
+    - What are the appropriate ages for your courses?
+    - What courses do you provide for 7-year-old children?
+- intent: ask_about_campus_new_v2
+  examples: |
+    - What facilities do the campuses have at Enspire?
+    - Are there good safety measures at the campus?
+- intent: ask_about_class_size_new_v2
+  examples: |
+    - What is the maximum number of students per English class?
+    - What is the average class size at Enspire?
+- intent: ask_about_fee_new_v2
+  examples: |
+    - What is the fee structure for English programs?
+    - How much does it cost for an English course?
+- intent: hoi_ve_khoa_hoc_happy_kids_new_v2
+  examples: |
+    - Bạn có thể cho tôi biết thêm về khóa học Happy Kids không?
+    - Khóa học Happy Kids có phù hợp với con tôi, 6 tuổi không?
+- intent: hoi_ve_tai_lieu_hoc_happy_kids_new_v2
+  examples: |
+    - Loại tài liệu học nào được sử dụng trong khóa học Happy Kids?
+    - Bạn có sử dụng trò chơi và hoạt động trong khóa học Happy Kids không?
+- intent: hoi_ve_giao_vien_khoa_hoc_happy_kids_new_v2
+  examples: |
+    - Giáo viên của khóa Happy Kids có bằng cấp và kinh nghiệm như thế nào?
+    - Các giáo viên có kinh nghiệm giảng dạy trẻ em không?
+- intent: hoi_ve_phi_khoa_hoc_happy_kids_new_v2
+  examples: |
+    - Khóa học Happy Kids có mức học phí là bao nhiêu?
+    - Tôi có thể biết chi tiết về học phí của khóa học Happy Kids không?

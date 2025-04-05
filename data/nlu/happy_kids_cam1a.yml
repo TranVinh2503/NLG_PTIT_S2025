@@ -1,0 +1,96 @@
+nlu:
+- intent: ket_qua_đau_ra_happy_kids_cam1a
+  examples: |
+    - Kết quả đau ra happy kids cam 1a
+    - Đau ra kết quả happy kids cam 1a
+    - Kết quả của đau ra happy kids cam 1a
+
+- intent: ky_nang_nghe_happy_kids_cam1a
+  examples: |
+    - Kỹ năng nghe happy kids cam 1a
+    - Nghe kỹ năng happy kids cam 1a
+    - Nghe nhận biết happy kids cam 1a
+
+- intent: ky_nang_noi_happy_kids_cam1a
+  examples: |
+    - Kỹ năng nói happy kids cam 1a
+    - Nói kỹ năng happy kids cam 1a
+    - Nói và giao tiếp happy kids cam 1a
+
+- intent: ky_nang_viet_happy_kids_cam1a
+  examples: |
+    - Kỹ năng viết happy kids cam 1a
+    - Viết kỹ năng happy kids cam 1a
+    - Viết và trình bày happy kids cam 1a
+
+- intent: ky_nang_đoc_happy_kids_cam1a
+  examples: |
+    - Kỹ năng đọc happy kids cam 1a
+    - Đọc kỹ năng happy kids cam 1a
+    - Đọc hiểu và tìm hiểu happy kids cam 1a
+
+- intent: lo_trinh_hoc_tap_happy_kids_cam1a
+  examples: |
+    - Lộ trình học tập happy kids cam 1a
+    - Học tập lộ trình happy kids cam 1a
+    - Kế hoạch học tập happy kids cam 1a
+
+- intent: unit:_uni_4:_lola_the_pilot_happy_kids_cam1a
+  examples: |
+    - Unit 4: Lola the Pilot happy kids cam 1a
+    - Unit bốn: Lola phi công happy kids cam 1a
+    - Lola phi công unit 4 happy kids cam 1a
+
+- intent: unit:_unit_1:_monty_the_artist_happy_kids_cam1a
+  examples: |
+    - Unit 1: Monty the Artist happy kids cam 1a
+    - Unit một: Monty nghệ sĩ happy kids cam 1a
+    - Monty nghệ sĩ unit 1 happy kids cam 1a
+
+- intent: unit:_unit_2:_lola_the_doctor_happy_kids_cam1a
+  examples: |
+    - Unit 2: Lola the Doctor happy kids cam 1a
+    - Unit hai: Lola bác sĩ happy kids cam 1a
+    - Lola bác sĩ unit 2 happy kids cam 1a
+
+- intent: unit:_unit_3:_mony_the_clown_happy_kids_cam1a
+  examples: |
+    - Unit 3: Mony the Clown happy kids cam 1a
+    - Unit ba: Mony hề xiếc happy kids cam 1a
+    - Mony hề xiếc unit 3 happy kids cam 1a
+
+- intent: unit:_unit_5:_monty_the_farmer_happy_kids_cam1a
+  examples: |
+    - Unit 5: Monty the Farmer happy kids cam 1a
+    - Unit năm: Monty nông dân happy kids cam 1a
+    - Monty nông dân unit 5 happy kids cam 1a
+
+- intent: unit:_unit_6:_lola_the_pirate_happy_kids_cam1a
+  examples: |
+    - Unit 6: Lola the Pirate happy kids cam 1a
+    - Unit sáu: Lola hải tặc happy kids cam 1a
+    - Lola hải tặc unit 6 happy kids cam 1a
+
+- intent: unit:_unit_7:_monty_the_magician_happy_kids_cam1a
+  examples: |
+    - Unit 7: Monty the Magician happy kids cam 1a
+    - Unit bảy: Monty phù thủy happy kids cam 1a
+    - Monty phù thủy unit 7 happy kids cam 1a
+
+- intent: unit:_unit_8:_monty_the_clown_happy_kids_cam1a
+  examples: |
+    - Unit 8: Monty the Clown happy kids cam 1a
+    - Unit tám: Monty hề xiếc happy kids cam 1a
+    - Monty hề xiếc unit 8 happy kids cam 1a
+
+- intent: unit:_unit_9:_monty_the_driver_happy_kids_cam1a
+  examples: |
+    - Unit 9: Monty the Driver happy kids cam 1a
+    - Unit chín: Monty tài xế happy kids cam 1a
+    - Monty tài xế unit 9 happy kids cam 1a
+
+- intent: unit:_unit_starter:_monty_and_lola_happy_kids_cam1a
+  examples: |
+    - Unit Starter: Monty and Lola happy kids cam 1a
+    - Unit khởi đầu: Monty và Lola happy kids cam 1a
+    - Monty và Lola unit starter happy kids cam 1a

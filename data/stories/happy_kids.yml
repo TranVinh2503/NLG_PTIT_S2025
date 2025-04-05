@@ -1,0 +1,65 @@
+stories:
+- story: Cam kết đầu ra
+  steps:
+  - intent: cam_ket_dau_ra
+  - action: utter_cam_ket_đau_ra
+
+- story: Thông tin về chương trình Happy Kids
+  steps:
+  - intent: chuong_trinh_happy_kids
+  - action: utter_chuong_trinh_happy_kids
+
+- story: Thông tin về giáo trình
+  steps:
+  - intent: giao_trinh
+  - action: utter_giao_trinh_
+
+- story: Thông tin về Happy Kids 1
+  steps:
+  - intent: happy_kids_1
+  - action: utter_happy_kids_1
+
+- story: Thông tin về Happy Kids 2
+  steps:
+  - intent: happy_kids_2
+  - action: utter_happy_kids_2
+
+- story: Thông tin về Happy Kids 3
+  steps:
+  - intent: happy_kids_3
+  - action: utter_happy_kids_3
+
+- story: Khả năng nghe của học viên
+  steps:
+  - intent: ky_nang_nghe
+  - action: utter_ky_nang_nghe
+
+- story: Khả năng nói của học viên
+  steps:
+  - intent: ky_nang_noi
+  - action: utter_ky_nang_noi_
+
+- story: Khả năng đọc và viết của học viên
+  steps:
+  - intent: ky_nang_doc_va_viet
+  - action: utter_ky_nang_đoc_va_viet
+
+- story: Lo trình học của khóa học
+  steps:
+  - intent: lo_trinh_hoc
+  - action: utter_lo_trinh_hoc
+
+- story: Mục tiêu của khóa học
+  steps:
+  - intent: muc_tieu_khoa_hoc
+  - action: utter_muc_tieu_khoa_hoc
+
+- story: Phương pháp học của khóa học
+  steps:
+  - intent: phuong_phap_hoc
+  - action: utter_phuong_phap_hoc
+
+- story: Học về từ vựng và ngữ pháp
+  steps:
+  - intent: tu_vung_va_ngu_phap
+  - action: utter_tu_vung_va_ngu_phap

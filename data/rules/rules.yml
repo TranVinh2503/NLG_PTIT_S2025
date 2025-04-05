@@ -1,0 +1,52 @@
+version: "3.1"
+
+rules:
+- rule: Enroll course
+  steps:
+  - intent: enroll_course
+  - action: utter_ask_enroll
+
+- rule: Respond to schedule query
+  steps:
+  - intent: ask_schedule
+  - action: utter_ask_schedule
+
+- rule: Respond to materials query
+  steps:
+  - intent: ask_materials
+  - action: utter_ask_materials
+
+- rule: Respond to fee query
+  steps:
+  - intent: ask_fee
+  - action: utter_ask_fee
+
+- rule: Respond to location query
+  steps:
+  - intent: ask_location
+  - action: utter_ask_location
+
+- rule: Respond to teacher query
+  steps:
+  - intent: ask_teacher
+  - action: utter_ask_teacher
+
+- rule: Inform about course
+  steps:
+  - intent: inform_course
+  - action: utter_ask_enroll
+
+- rule: Say goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Provide contact information
+  steps:
+  - intent: ask_contact
+  - action: utter_ask_contact
+  
+- rule: Custom fallback rule
+  steps:
+  - intent: nlu_fallback
+  - action: action_default_fallback

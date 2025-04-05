@@ -1,0 +1,25 @@
+version: "3.1"
+
+nlu:
+- intent: introduce_company
+  examples: |
+    - LỊCH SỬ HÌNH THÀNH
+    - Về Enspire Academy
+    - Enspire Academy là gì?
+    - Thông tin về Enspire Academy
+
+- intent: founding_year
+  examples: |
+    - Enspire Academy thành lập năm nào?
+    - Enspire Academy bắt đầu hoạt động từ năm nào?
+
+- intent: location
+  examples: |
+    - Enspire Academy có văn phòng ở đâu?
+    - Nơi Enspire Academy đặt trụ sở là ở đâu?
+    - Enspire Academy có chi nhánh ở đâu?
+
+- intent: achievements
+  examples: |
+    - Enspire Academy đã đạt được những thành tựu gì?
+    - Những thành công nổi bật của Enspire Academy là gì?

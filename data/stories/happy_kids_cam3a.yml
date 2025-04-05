@@ -1,0 +1,81 @@
+stories:
+- story: utter_ket_qua_đau_ra_happy_kids_cam3a
+  steps:
+  - intent: ket_qua_đau_ra_happy_kids_cam3a
+  - action: utter_ket_qua_đau_ra_happy_kids_cam3a
+
+- story: utter_ky_nang_nghe_happy_kids_cam3a
+  steps:
+  - intent: ky_nang_nghe_happy_kids_cam3a
+  - action: utter_ky_nang_nghe_happy_kids_cam3a
+
+- story: utter_ky_nang_noi_happy_kids_cam3a
+  steps:
+  - intent: ky_nang_noi_happy_kids_cam3a
+  - action: utter_ky_nang_noi_happy_kids_cam3a
+
+- story: utter_ky_nang_viet_happy_kids_cam3a
+  steps:
+  - intent: ky_nang_viet_happy_kids_cam3a
+  - action: utter_ky_nang_viet_happy_kids_cam3a
+
+- story: utter_ky_nang_đoc_happy_kids_cam3a
+  steps:
+  - intent: ky_nang_đoc_happy_kids_cam3a
+  - action: utter_ky_nang_đoc_happy_kids_cam3a
+
+- story: utter_lo_trinh_hoc_tap_happy_kids_cam3a
+  steps:
+  - intent: lo_trinh_hoc_tap_happy_kids_cam3a
+  - action: utter_lo_trinh_hoc_tap_happy_kids_cam3a
+
+- story: utter_unit:_uni_4:_great_literature_happy_kids_cam3a
+  steps:
+  - intent: unit:_uni_4:_great_literature_happy_kids_cam3a
+  - action: utter_unit:_uni_4:_great_literature_happy_kids_cam3a
+
+- story: utter_unit:_unit_1:_super_science_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_1:_super_science_happy_kids_cam3a
+  - action: utter_unit:_unit_1:_super_science_happy_kids_cam3a
+
+- story: utter_unit:_unit_2:_awesome__math_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_2:_awesome__math_happy_kids_cam3a
+  - action: utter_unit:_unit_2:_awesome__math_happy_kids_cam3a
+
+- story: utter_unit:_unit_3:heroic_history_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_3:heroic_history_happy_kids_cam3a
+  - action: utter_unit:_unit_3:heroic_history_happy_kids_cam3a
+
+- story: utter_unit:_unit_5:_skillful_sports_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_5:_skillful_sports_happy_kids_cam3a
+  - action: utter_unit:_unit_5:_skillful_sports_happy_kids_cam3a
+
+- story: utter_unit:_unit_6:_amazing_art_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_6:_amazing_art_happy_kids_cam3a
+  - action: utter_unit:_unit_6:_amazing_art_happy_kids_cam3a
+
+- story: utter_unit:_unit_7:_fun_geography_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_7:_fun_geography_happy_kids_cam3a
+  - action: utter_unit:_unit_7:_fun_geography_happy_kids_cam3a
+
+- story: utter_unit:_unit_8:_cool_cooking_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_8:_cool_cooking_happy_kids_cam3a
+  - action: utter_unit:_unit_8:_cool_cooking_happy_kids_cam3a
+
+- story: utter_unit:_unit_9:_dazzling_drama_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_9:_dazzling_drama_happy_kids_cam3a
+  - action: utter_unit:_unit_9:_dazzling_drama_happy_kids_cam3a
+
+- story: utter_unit:_unit_starter:_welcome_back!_happy_kids_cam3a
+  steps:
+  - intent: unit:_unit_starter:_welcome_back!_happy_kids_cam3a
+  - action: utter_unit:_unit_starter:_welcome_back!_happy_kids_cam3a
+

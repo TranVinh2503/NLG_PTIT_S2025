@@ -1,0 +1,94 @@
+nlu:
+- intent: ket_qua_dau_ra_happy_kids_hk3
+  examples: |
+    - "Kết quả đầu ra của chương trình Happy Kids HK3 là gì?"
+    - "Cho tôi biết về kết quả đầu ra của Happy Kids HK3."
+    - "Học viên Happy Kids HK3 đạt được những gì sau khi hoàn thành chương trình?"
+
+- intent: ky_nang_nghe_happy_kids_hk3
+  examples: |
+    - "Kỹ năng nghe của học viên Happy Kids HK3 như thế nào?"
+    - "Học viên Happy Kids HK3 có thể nghe và hiểu những gì?"
+    - "Mức độ nghe tiếng Anh của học viên Happy Kids HK3 đạt được đến đâu?"
+
+- intent: ky_nang_noi_happy_kids_hk3
+  examples: |
+    - "Kỹ năng nói của học viên Happy Kids HK3 như thế nào?"
+    - "Học viên Happy Kids HK3 có thể giao tiếp bằng tiếng Anh như thế nào?"
+    - "Học viên Happy Kids HK3 có thể tự tin giao tiếp tiếng Anh trong các tình huống nào?"
+
+- intent: ky_nang_doc_va_viet_happy_kids_hk3
+  examples: |
+    - "Kỹ năng đọc và viết của học viên Happy Kids HK3 như thế nào?"
+    - "Học viên Happy Kids HK3 có thể đọc và viết tiếng Anh như thế nào?"
+    - "Học viên Happy Kids HK3 có thể đọc hiểu các bài văn tiếng Anh đơn giản hay không?"
+
+- intent: lo_trinh_hoc_tap_happy_kids_hk3
+  examples: |
+    - "Lộ trình học tập của chương trình Happy Kids HK3 như thế nào?"
+    - "Học viên Happy Kids HK3 học những gì?"
+    - "Chương trình Happy Kids HK3 có chia thành các cấp độ nào không?"
+
+- intent: tu_vung_va_ngu_phap_happy_kids_hk3
+  examples: |
+    - "Từ vựng và ngữ pháp của học viên Happy Kids HK3 như thế nào?"
+    - "Học viên Happy Kids HK3 học những từ vựng và ngữ pháp nào?"
+    - "Học viên Happy Kids HK3 có thể sử dụng tiếng Anh chính xác hay không?"
+
+- intent: unit:_uni_4:_what's_in_your_neighborhood?_happy_kids_hk3
+  examples: |
+    - "Unit 4: What's in your neighborhood? học gì?"
+    - "Cho tôi biết về nội dung của Unit 4: What's in your neighborhood?"
+    - "Unit 4: What's in your neighborhood? giúp học viên học được những gì?"
+
+- intent: unit:_unit_1:_what's_your_school_like?_happy_kids_hk3
+  examples: |
+    - "Unit 1: What's your school like? học gì?"
+    - "Cho tôi biết về nội dung của Unit 1: What's your school like?"
+    - "Unit 1: What's your school like? giúp học viên học được những gì?"
+
+- intent: unit:_unit_2:what_do_you_like_to_eat?_happy_kids_hk3
+  examples: |
+    - "Unit 2: What do you like to eat? học gì?"
+    - "Cho tôi biết về nội dung của Unit 2: What do you like to eat?"
+    - "Unit 2: What do you like to eat? giúp học viên học được những gì?"
+
+- intent: unit:_unit_3:_what_happens_on_your_birthday?_happy_kids_hk3
+  examples: |
+    - "Unit 3: What happens on your birthday? học gì?"
+    - "Cho tôi biết về nội dung của Unit 3: What happens on your birthday?"
+    - "Unit 3: What happens on your birthday? giúp học viên học được những gì?"
+
+- intent: unit:_unit_5:_how_do_you_have_fun?_happy_kids_hk3
+  examples: |
+    - "Unit 5: How do you have fun? học gì?"
+    - "Cho tôi biết về nội dung của Unit 5: How do you have fun?"
+    - "Unit 5: How do you have fun? giúp học viên học được những gì?"
+
+- intent: unit:_unit_6:_which_animals_live_in_the_wild?_happy_kids_hk3
+  examples: |
+    - "Unit 6: Which animals live in the wild? học gì?"
+    - "Cho tôi biết về nội dung của Unit 6: Which animals live in the wild?"
+    - "Unit 6: Which animals live in the wild? giúp học viên học được những gì?"
+
+- intent: unit:_unit_7:_what_jobs_do_people_prefer?_happy_kids_hk3
+  examples: |
+    - "Unit 7: What jobs do people prefer? học gì?"
+    - "Cho tôi biết về nội dung của Unit 7: What jobs do people prefer?"
+    - "Unit 7: What jobs do people prefer? giúp học viên học được những gì?"
+
+- intent: unit:_unit_8:_how_do_we_make_music?_happy_kids_hk3
+  examples: |
+    - "Unit 8: How do we make music? học gì?"
+    - "Cho tôi biết về nội dung của Unit 8: How do we make music?"
+    - "Unit 8: How do we make music? giúp học viên học được những gì?"
+
+- intent: unit:_unit_9:_when_do_we_change_our_clothes?_happy_kids_hk3
+  examples: |
+    - "Unit 9: When do we change our clothes? học gì?"
+    - "Cho tôi biết về nội dung của Unit 9: When do we change our clothes?"
+    - "Unit 9: When do we change our clothes? giúp học viên học được những gì?"
+
+- intent: unit:_unit_starter:_hello._can_you_remember?_happy_kids_hk3
+  examples: |
+    - "Các chủ đề nào được bao gồm trong Unit Starter: Hello. Can you remember? của chương trình Happy Kids HK3?"

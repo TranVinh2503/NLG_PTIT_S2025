@@ -1,0 +1,32 @@
+{
+  "lookup": {
+    "rules": {
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_course\"}}]": "utter_ask_enroll",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"inform_course\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_enroll\"}, \"user\": {\"intent\": \"inform_course\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_teacher\"}}]": "utter_ask_teacher",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_teacher\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_teacher\"}, \"user\": {\"intent\": \"ask_teacher\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"enroll_course\"}}]": "utter_ask_enroll",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"enroll_course\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_enroll\"}, \"user\": {\"intent\": \"enroll_course\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_materials\"}}]": "utter_ask_materials",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_materials\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_materials\"}, \"user\": {\"intent\": \"ask_materials\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_location\"}}]": "utter_ask_location",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_location\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_location\"}, \"user\": {\"intent\": \"ask_location\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_schedule\"}}]": "utter_ask_schedule",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_schedule\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_schedule\"}, \"user\": {\"intent\": \"ask_schedule\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"goodbye\"}}]": "utter_goodbye",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"goodbye\"}}, {\"prev_action\": {\"action_name\": \"utter_goodbye\"}, \"user\": {\"intent\": \"goodbye\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_contact\"}}]": "utter_ask_contact",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_contact\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_contact\"}, \"user\": {\"intent\": \"ask_contact\"}}]": "action_listen",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_fee\"}}]": "utter_ask_fee",
+      "[{\"prev_action\": {\"action_name\": \"action_listen\"}, \"user\": {\"intent\": \"ask_fee\"}}, {\"prev_action\": {\"action_name\": \"utter_ask_fee\"}, \"user\": {\"intent\": \"ask_fee\"}}]": "action_listen"
+    },
+    "rule_only_slots": [],
+    "rule_only_loops": [],
+    "rules_for_loop_unhappy_path": {},
+    "rules_not_in_stories": [
+      "predicting default action with intent session_start",
+      "predicting default action with intent restart",
+      "predicting default action with intent back"
+    ]
+  }
+}

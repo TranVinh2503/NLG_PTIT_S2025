@@ -1,0 +1,76 @@
+stories:
+- story: utter_ket_qua_đau_ra_happy_kids_cam2b
+  steps:
+  - intent: ket_qua_đau_ra_happy_kids_cam2b
+  - action: utter_ket_qua_đau_ra_happy_kids_cam2b
+
+- story: utter_ky_nang_nghe_happy_kids_cam2b
+  steps:
+  - intent: ky_nang_nghe_happy_kids_cam2b
+  - action: utter_ky_nang_nghe_happy_kids_cam2b
+
+- story: utter_ky_nang_noi_happy_kids_cam2b
+  steps:
+  - intent: ky_nang_noi_happy_kids_cam2b
+  - action: utter_ky_nang_noi_happy_kids_cam2b
+
+- story: utter_ky_nang_đoc_happy_kids_cam2b
+  steps:
+  - intent: ky_nang_đoc_happy_kids_cam2b
+  - action: utter_ky_nang_đoc_happy_kids_cam2b
+
+- story: utter_lo_trinh_hoc_tap_happy_kids_cam2b
+  steps:
+  - intent: lo_trinh_hoc_tap_happy_kids_cam2b
+  - action: utter_lo_trinh_hoc_tap_happy_kids_cam2b
+
+- story: utter_unit:_unit_1:_the_sports_complex_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_1:_the_sports_complex_happy_kids_cam2b
+  - action: utter_unit:_unit_1:_the_sports_complex_happy_kids_cam2b
+
+- story: utter_unit:_unit_2:_super_sea_animals_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_2:_super_sea_animals_happy_kids_cam2b
+  - action: utter_unit:_unit_2:_super_sea_animals_happy_kids_cam2b
+
+- story: utter_unit:_unit_3:_the_cool_school_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_3:_the_cool_school_happy_kids_cam2b
+  - action: utter_unit:_unit_3:_the_cool_school_happy_kids_cam2b
+
+- story: utter_unit:_unit_4:_the_miniature_city_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_4:_the_miniature_city_happy_kids_cam2b
+  - action: utter_unit:_unit_4:_the_miniature_city_happy_kids_cam2b
+
+- story: utter_unit:_unit_5:_monty_the_conductor_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_5:_monty_the_conductor_happy_kids_cam2b
+  - action: utter_unit:_unit_5:_monty_the_conductor_happy_kids_cam2b
+
+- story: utter_unit:_unit_6:_lola_the_giant_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_6:_lola_the_giant_happy_kids_cam2b
+  - action: utter_unit:_unit_6:_lola_the_giant_happy_kids_cam2b
+
+- story: utter_unit:_unit_7:_monty_the_photographer_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_7:_monty_the_photographer_happy_kids_cam2b
+  - action: utter_unit:_unit_7:_monty_the_photographer_happy_kids_cam2b
+
+- story: utter_unit:_unit_8:_lola_the_animal_helper_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_8:_lola_the_animal_helper_happy_kids_cam2b
+  - action: utter_unit:_unit_8:_lola_the_animal_helper_happy_kids_cam2b
+
+- story: utter_unit:_unit_9:_monty_the_cook_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_9:_monty_the_cook_happy_kids_cam2b
+  - action: utter_unit:_unit_9:_monty_the_cook_happy_kids_cam2b
+
+- story: utter_unit:_unit_starter:_it's_fall!_happy_kids_cam2b
+  steps:
+  - intent: unit:_unit_starter:_it's_fall!_happy_kids_cam2b
+  - action: utter_unit:_unit_starter:_it's_fall!_happy_kids_cam2b
+

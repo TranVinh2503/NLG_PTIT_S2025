@@ -1,0 +1,97 @@
+nlu:
+- intent: ket_qua_đau_ra_happy_kids_cam3a
+  examples: |
+    - Kết quả đầu ra Happy Kids CAM 3A
+    - Cho biết kết quả đầu ra của Happy Kids CAM 3A
+    - Điểm mạnh của chương trình Happy Kids CAM 3A là gì?
+    - Kết quả học tập mà Happy Kids CAM 3A đem lại là gì?
+- intent: ky_nang_nghe_happy_kids_cam3a
+  examples: |
+    - Kỹ năng nghe Happy Kids CAM 3A
+    - Làm thế nào để cải thiện kỹ năng nghe trong chương trình Happy Kids CAM 3A?
+    - Con cần phải làm gì để phát triển kỹ năng nghe theo chương trình Happy Kids CAM 3A?
+    - Đặc điểm nào của kỹ năng nghe được tập trung nhiều trong Happy Kids CAM 3A?
+- intent: ky_nang_noi_happy_kids_cam3a
+  examples: |
+    - Kỹ năng nói Happy Kids CAM 3A
+    - Cách thức huấn luyện kỹ năng nói trong Happy Kids CAM 3A như thế nào?
+    - Làm sao để trẻ phát triển kỹ năng nói tốt hơn theo chương trình Happy Kids CAM 3A?
+    - Chương trình Happy Kids CAM 3A giúp trẻ phát triển kỹ năng nói như thế nào?
+- intent: ky_nang_viet_happy_kids_cam3a
+  examples: |
+    - Kỹ năng viết Happy Kids CAM 3A
+    - Làm thế nào để trẻ cải thiện kỹ năng viết trong Happy Kids CAM 3A?
+    - Phương pháp giáo dục kỹ năng viết trong chương trình Happy Kids CAM 3A là gì?
+    - Kỹ năng viết được tập trung như thế nào trong Happy Kids CAM 3A?
+- intent: ky_nang_đoc_happy_kids_cam3a
+  examples: |
+    - Kỹ năng đọc Happy Kids CAM 3A
+    - Làm thế nào để trẻ phát triển kỹ năng đọc theo chương trình Happy Kids CAM 3A?
+    - Chương trình Happy Kids CAM 3A hỗ trợ như thế nào trong việc rèn kỹ năng đọc cho trẻ?
+    - Đặc điểm nào của kỹ năng đọc được tập trung trong Happy Kids CAM 3A?
+- intent: lo_trinh_hoc_tap_happy_kids_cam3a
+  examples: |
+    - Lộ trình học tập Happy Kids CAM 3A
+    - Lộ trình học tập của Happy Kids CAM 3A như thế nào?
+    - Các bước trong lộ trình học tập của chương trình Happy Kids CAM 3A là gì?
+    - Chương trình Happy Kids CAM 3A cung cấp lộ trình học tập như thế nào cho trẻ?
+- intent: unit:_uni_4:_great_literature_happy_kids_cam3a
+  examples: |
+    - UNIT Uni 4 Great Literature Happy Kids CAM 3A
+    - Unit 4 trong chương trình Happy Kids CAM 3A nói về gì?
+    - Các nội dung chính của Unit Uni 4 trong Happy Kids CAM 3A là gì?
+    - Điều gì đặc biệt về Unit Uni 4 Great Literature trong chương trình Happy Kids CAM 3A?
+- intent: unit:_unit_1:_super_science_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 1 Super Science Happy Kids CAM 3A
+    - Unit 1 Super Science trong chương trình Happy Kids CAM 3A học về những gì?
+    - Những kiến thức cơ bản nào được trẻ học qua Unit Unit 1 Super Science trong Happy Kids CAM 3A?
+    - Chương trình Happy Kids CAM 3A giúp trẻ hiểu về những gì trong Unit 1 Super Science?
+- intent: unit:_unit_2:_awesome__math_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 2 Awesome Math Happy Kids CAM 3A
+    - Unit 2 Awesome Math trong chương trình Happy Kids CAM 3A giúp trẻ phát triển những kỹ năng gì?
+    - Các khái niệm cơ bản nào được học qua Unit Unit 2 Awesome Math trong Happy Kids CAM 3A?
+    - Unit 2 Awesome Math của Happy Kids CAM 3A học về những gì?
+- intent: unit:_unit_3:heroic_history_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 3 Heroic History Happy Kids CAM 3A
+    - Unit 3 Heroic History trong chương trình Happy Kids CAM 3A học về những gì?
+    - Những kiến thức cơ bản nào được trẻ học qua Unit Unit 3 Heroic History trong Happy Kids CAM 3A?
+    - Chương trình Happy Kids CAM 3A giúp trẻ hiểu về những gì trong Unit 3 Heroic History?
+- intent: unit:_unit_5:_skillful_sports_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 5 Skillful Sports Happy Kids CAM 3A
+    - Unit 5 Skillful Sports trong chương trình Happy Kids CAM 3A giúp trẻ phát triển những kỹ năng gì?
+    - Các khái niệm cơ bản nào được học qua Unit Unit 5 Skillful Sports trong Happy Kids CAM 3A?
+    - Unit 5 Skillful Sports của Happy Kids CAM 3A học về những gì?
+- intent: unit:_unit_6:_amazing_art_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 6 Amazing Art Happy Kids CAM 3A
+    - Unit 6 Amazing Art trong chương trình Happy Kids CAM 3A giúp trẻ phát triển những kỹ năng gì?
+    - Các khái niệm cơ bản nào được học qua Unit Unit 6 Amazing Art trong Happy Kids CAM 3A?
+    - Unit 6 Amazing Art của Happy Kids CAM 3A học về những gì?
+- intent: unit:_unit_7:_fun_geography_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 7 Fun Geography Happy Kids CAM 3A
+    - Unit 7 Fun Geography trong chương trình Happy Kids CAM 3A học về những gì?
+    - Những kiến thức cơ bản nào được trẻ học qua Unit Unit 7 Fun Geography trong Happy Kids CAM 3A?
+    - Chương trình Happy Kids CAM 3A giúp trẻ hiểu về những gì trong Unit 7 Fun Geography?
+- intent: unit:_unit_8:_cool_cooking_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 8 Cool Cooking Happy Kids CAM 3A
+    - Unit 8 Cool Cooking trong chương trình Happy Kids CAM 3A giúp trẻ phát triển những kỹ năng gì?
+    - Các khái niệm cơ bản nào được học qua Unit Unit 8 Cool Cooking trong Happy Kids CAM 3A?
+    - Unit 8 Cool Cooking của Happy Kids CAM 3A học về những gì?
+- intent: unit:_unit_9:_dazzling_drama_happy_kids_cam3a
+  examples: |
+    - UNIT Unit 9 Dazzling Drama Happy Kids CAM 3A
+    - Unit 9 Dazzling Drama trong chương trình Happy Kids CAM 3A giúp trẻ phát triển những kỹ năng gì?
+    - Các khái niệm cơ bản nào được học qua Unit Unit 9 Dazzling Drama trong Happy Kids CAM 3A?
+    - Unit 9 Dazzling Drama của Happy Kids CAM 3A học về những gì?
+- intent: unit:_unit_starter:_welcome_back!_happy_kids_cam3a
+  examples: |
+    - UNIT Unit Starter Welcome Back! Happy Kids CAM 3A
+    - Unit Starter Welcome Back! trong chương trình Happy Kids CAM 3A giúp trẻ phát triển những kỹ năng gì?
+    - Các khái niệm cơ bản nào được học qua Unit Starter Welcome Back! trong Happy Kids CAM 3A?
+    - Unit Starter Welcome Back! của Happy Kids CAM 3A học về những gì?

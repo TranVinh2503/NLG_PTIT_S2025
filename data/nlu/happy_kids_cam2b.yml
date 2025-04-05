@@ -1,0 +1,91 @@
+nlu:
+- intent: ket_qua_đau_ra_happy_kids_cam2b
+  examples: |
+    - Kết quả đầu ra của khóa học Happy Kids CAM 2B như thế nào?
+    - Trẻ em có những thành tựu gì sau khi hoàn thành Happy Kids CAM 2B?
+    - Các bậc phụ huynh nên mong đợi gì từ khóa học Happy Kids CAM 2B?
+
+- intent: ky_nang_nghe_happy_kids_cam2b
+  examples: |
+    - Ky năng nghe là một phần quan trọng trong chương trình Happy Kids CAM 2B như thế nào?
+    - Làm thế nào để cải thiện ky năng nghe của trẻ em với Happy Kids CAM 2B?
+    - Trẻ em được huấn luyện ky năng nghe như thế nào trong Happy Kids CAM 2B?
+
+- intent: ky_nang_noi_happy_kids_cam2b
+  examples: |
+    - Trong Happy Kids CAM 2B, trẻ em được huấn luyện ky nang nói như thế nào?
+    - Làm thế nào để trẻ em phát triển ky nang noi thông qua Happy Kids CAM 2B?
+    - Ky nang noi được trau dồi như thế nào trong chương trình Happy Kids CAM 2B?
+
+- intent: ky_nang_đoc_happy_kids_cam2b
+  examples: |
+    - Ky nang đọc đóng vai trò quan trọng như thế nào trong chương trình Happy Kids CAM 2B?
+    - Làm thế nào để trẻ em phát triển ky nang đọc với Happy Kids CAM 2B?
+    - Trong Happy Kids CAM 2B, có những hoạt động nào giúp trẻ em cải thiện ky nang đọc?
+
+- intent: lo_trinh_hoc_tap_happy_kids_cam2b
+  examples: |
+    - Lo trinh hoc tap của Happy Kids CAM 2B bao gồm những nội dung nào?
+    - Trẻ em sẽ trải qua những giai đoạn nào trong lo trinh hoc tap của Happy Kids CAM 2B?
+    - Có bao nhiêu cấp độ trong lo trinh hoc tap của Happy Kids CAM 2B?
+
+- intent: unit:_unit_1:_the_sports_complex_happy_kids_cam2b
+  examples: |
+    - Trong khóa học Happy Kids CAM 2B, đơn vị 1 về "the sports complex" nói về điều gì?
+    - Có những hoạt động gì trong đơn vị đầu tiên của Happy Kids CAM 2B?
+    - Trẻ em được giáo dục về gì trong unit 1 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_2:_super_sea_animals_happy_kids_cam2b
+  examples: |
+    - Unit 2 "super sea animals" trong Happy Kids CAM 2B nói về những sinh vật biển gì?
+    - Các hoạt động giáo dục về động vật biển nào có trong unit 2 của Happy Kids CAM 2B?
+    - Trẻ em sẽ học về những gì trong unit 2 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_3:_the_cool_school_happy_kids_cam2b
+  examples: |
+    - Unit 3 "the cool school" trong Happy Kids CAM 2B nói về trường học gì?
+    - Các hoạt động giáo dục liên quan đến trường học có trong unit 3 của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ được dạy về những gì trong unit 3 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_4:_the_miniature_city_happy_kids_cam2b
+  examples: |
+    - Unit 4 "the miniature city" trong Happy Kids CAM 2B nói về thành phố nhỏ nào?
+    - Các hoạt động giáo dục về thành phố nhỏ trong unit 4 của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ học về những gì trong unit 4 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_5:_monty_the_conductor_happy_kids_cam2b
+  examples: |
+    - Trong Happy Kids CAM 2B, unit 5 "monty the conductor" nói về ai?
+    - Các hoạt động giáo dục về nghệ sĩ dàn nhạc có trong unit 5 của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ học về ai trong unit 5 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_6:_lola_the_giant_happy_kids_cam2b
+  examples: |
+    - Unit 6 "lola the giant" trong Happy Kids CAM 2B nói về người khổng lồ nào?
+    - Các hoạt động giáo dục về người khổng lồ có trong unit 6 của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ học về ai trong unit 6 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_7:_monty_the_photographer_happy_kids_cam2b
+  examples: |
+    - Trong Happy Kids CAM 2B, unit 7 "monty the photographer" nói về nghề nhiếp ảnh gia nào?
+    - Các hoạt động giáo dục về nghề nhiếp ảnh gia có trong unit 7 của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ học về ai trong unit 7 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_8:_lola_the_animal_helper_happy_kids_cam2b
+  examples: |
+    - Unit 8 "lola the animal helper" trong Happy Kids CAM 2B nói về việc giúp đỡ động vật của ai?
+    - Các hoạt động giáo dục về việc giúp đỡ động vật có trong unit 8 của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ học về ai trong unit 8 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_9:_monty_the_cook_happy_kids_cam2b
+  examples: |
+    - Trong Happy Kids CAM 2B, unit 9 "monty the cook" nói về đầu bếp nào?
+    - Các hoạt động giáo dục về nghề đầu bếp có trong unit 9 của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ học về ai trong unit 9 của Happy Kids CAM 2B?
+
+- intent: unit:_unit_starter:_it's_fall!_happy_kids_cam2b
+  examples: |
+    - Trong Happy Kids CAM 2B, unit starter "it's fall!" nói về mùa thu như thế nào?
+    - Các hoạt động giáo dục về mùa thu có trong unit starter của Happy Kids CAM 2B là gì?
+    - Trẻ em sẽ học về mùa thu như thế nào trong unit starter của Happy Kids CAM 2B?
+

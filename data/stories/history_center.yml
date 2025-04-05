@@ -1,0 +1,22 @@
+version: "3.1"
+
+stories:
+- story: introduce company
+  steps:
+  - intent: introduce_company
+  - action: utter_action_introduce_company
+
+- story: inquire founding year
+  steps:
+  - intent: founding_year
+  - action: utter_action_provide_founding_year
+
+- story: inquire location
+  steps:
+  - intent: location
+  - action: utter_action_provide_location
+
+- story: inquire achievements
+  steps:
+  - intent: achievements
+  - action: utter_action_provide_achievements

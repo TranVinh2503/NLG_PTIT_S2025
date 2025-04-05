@@ -1,0 +1,80 @@
+stories:
+- story: ket_qua_dau_ra_happy_kids_hk3
+  steps:
+  - intent: ket_qua_dau_ra_happy_kids_hk3
+  - action: utter_ket_qua_đau_ra_happy_kids_hk3
+
+- story: ky_nang_nghe_happy_kids_hk3
+  steps:
+  - intent: ky_nang_nghe_happy_kids_hk3
+  - action: utter_ky_nang_nghe_happy_kids_hk3
+
+- story: ky_nang_noi_happy_kids_hk3
+  steps:
+  - intent: ky_nang_noi_happy_kids_hk3
+  - action: utter_ky_nang_noi_happy_kids_hk3
+
+- story: ky_nang_doc_va_viet_happy_kids_hk3
+  steps:
+  - intent: ky_nang_doc_va_viet_happy_kids_hk3
+  - action: utter_ky_nang_đoc_va_viet_happy_kids_hk3
+
+- story: lo_trinh_hoc_tap_happy_kids_hk3
+  steps:
+  - intent: lo_trinh_hoc_tap_happy_kids_hk3
+  - action: utter_lo_trinh_hoc_tap_happy_kids_hk3
+
+- story: tu_vung_va_ngu_phap_happy_kids_hk3
+  steps:
+  - intent: tu_vung_va_ngu_phap_happy_kids_hk3
+  - action: utter_tu_vung_va_ngu_phap_happy_kids_hk3
+
+- story: unit:_uni_4:_what's_in_your_neighborhood?_happy_kids_hk3
+  steps:
+  - intent: unit:_uni_4:_what's_in_your_neighborhood?_happy_kids_hk3
+  - action: utter_unit:_uni_4:_what's_in_your_neighborhood?_happy_kids_hk3
+
+- story: unit:_unit_1:_what's_your_school_like?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_1:_what's_your_school_like?_happy_kids_hk3
+  - action: utter_unit:_unit_1:_what's_your_school_like?_happy_kids_hk3
+
+- story: unit:_unit_2:what_do_you_like_to_eat?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_2:what_do_you_like_to_eat?_happy_kids_hk3
+  - action: utter_unit:_unit_2:what_do_you_like_to_eat?_happy_kids_hk3
+
+- story: unit:_unit_3:_what_happens_on_your_birthday?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_3:_what_happens_on_your_birthday?_happy_kids_hk3
+  - action: utter_unit:_unit_3:_what_happens_on_your_birthday?_happy_kids_hk3
+
+- story: unit:_unit_5:_how_do_you_have_fun?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_5:_how_do_you_have_fun?_happy_kids_hk3
+  - action: utter_unit:_unit_5:_how_do_you_have_fun?_happy_kids_hk3
+
+- story: unit:_unit_6:_which_animals_live_in_the_wild?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_6:_which_animals_live_in_the_wild?_happy_kids_hk3
+  - action: utter_unit:_unit_6:_which_animals_live_in_the_wild?_happy_kids_hk3
+
+- story: unit:_unit_7:_what_jobs_do_people_prefer?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_7:_what_jobs_do_people_prefer?_happy_kids_hk3
+  - action: utter_unit:_unit_7:_what_jobs_do_people_prefer?_happy_kids_hk3
+
+- story: unit:_unit_8:_how_do_we_make_music?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_8:_how_do_we_make_music?_happy_kids_hk3
+  - action: utter_unit:_unit_8:_how_do_we_make_music?_happy_kids_hk3
+
+- story: unit:_unit_9:_when_do_we_change_our_clothes?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_9:_when_do_we_change_our_clothes?_happy_kids_hk3
+  - action: utter_unit:_unit_9:_when_do_we_change_our_clothes?_happy_kids_hk3
+
+- story: unit:_unit_starter:_hello._can_you_remember?_happy_kids_hk3
+  steps:
+  - intent: unit:_unit_starter:_hello._can_you_remember?_happy_kids_hk3
+  - action: utter_unit:_unit_starter:_hello._can_you_remember?_happy_kids_hk3

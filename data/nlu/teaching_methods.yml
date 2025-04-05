@@ -1,0 +1,38 @@
+version: "3.1"
+
+nlu:
+- intent: method_teaching
+  examples: |
+    - Phương pháp giảng dạy nào được sử dụng tại trường?
+    - Các phương pháp dạy học nào được áp dụng ở đây?
+    - Chương trình giảng dạy được xây dựng dựa trên những phương pháp nào?
+
+- intent: tpr_method
+  examples: |
+    - Phương pháp TPR là gì?
+    - TPR được tạo ra bởi ai?
+    - TPR có ứng dụng như thế nào trong giảng dạy?
+
+- intent: play_based_learning
+  examples: |
+    - Học thông qua vui chơi là gì?
+    - Phương pháp học thông qua trò chơi được áp dụng như thế nào?
+    - Trẻ em được học gì thông qua phương pháp này?
+
+- intent: co_teaching_method
+  examples: |
+    - Phương pháp Co-teaching là gì?
+    - Ai tham gia trong phương pháp này?
+    - Lợi ích của việc phối hợp giảng dạy giữa giáo viên nước ngoài và giáo viên Việt Nam là gì?
+
+- intent: inquiry_based_learning
+  examples: |
+    - Học truy vấn là gì?
+    - Trẻ em được khuyến khích làm gì trong phương pháp này?
+    - Tại sao phương pháp này được coi là hiệu quả?
+
+- intent: thematic_based_learning
+  examples: |
+    - Học tích hợp liên môn là gì?
+    - Ý nghĩa của việc áp dụng phương pháp này?
+    - Lợi ích của việc kết nối các môn học với nhau là gì?
