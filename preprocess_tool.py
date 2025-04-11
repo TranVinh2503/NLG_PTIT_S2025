@@ -349,7 +349,6 @@ def convert_json_to_txt(json_file_path, txt_file_path):
 
 
 def main():
-
     """If u have excel file which contains set of questions. You can run this function here to auto create file domain particular, stories, and nlu file. Function has 3 parameters. there is  path of excel file, number of column,which contains question and answer."""
     # get_question_excel('domain_collect/common-question_v2.xlsx',1,2)
     

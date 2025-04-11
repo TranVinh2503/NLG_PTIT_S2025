@@ -1,0 +1,44 @@
+version: "3.1"
+
+nlu:
+- intent: tu_van_khoa_học
+  examples: |
+    - Tôi muốn tư vấn khóa học? 
+    - Trung Tâm có các khóa học như nào?
+
+- intent: bai_tap_ve_nha_hoc_vien_enspir_gom_hoc_vien_phu_huynh_the_tim_o_đau_biet_noi_dung_bai_tap_lam_buoi_hoc
+  examples: |
+    - Bài tập về nhà của các học viên Enspire gồm những gì? 
+    - Học viên và phụ huynh có thể tìm ở đâu để biết nội dung bài tập cần làm sau mỗi buổi học?
+
+- intent: buoi_hoc_enspir_con_anh_chi_cham_lam_bai_tap_ve_nha_hoc_phan_kien_thuc_lop_,_cach_giup_hoc_vien_enspir_cham_hon
+  examples: |
+    - Sau buổi học tại Enspire con anh/chị chưa chăm chỉ làm bài tập về nhà và học lại phần kiến thức tại lớp, có cách gì để giúp các học viên Enspire chăm chỉ hơn không?
+
+- intent: phu_huynh_enspir_muon_ho_tro_con_hoc_them_o_nha
+  examples: |
+    - Phụ huynh Enspire muốn hỗ trợ con học thêm ở nhà có được không?
+
+- intent: buoi_hoc_con_toi_nhan_email_thong_bao_gvcn_lop
+  examples: |
+    - Sau mỗi buổi học của con tôi không nhận được email thông báo của GVCN lớp?
+
+- intent: chuong_trinh_hoc_enspir_gom
+  examples: |
+    - Chương trình học của Enspire gồm những gì?
+
+- intent: thoi_luong_hoc_moi_khoa_hoc_enspir_bao_lau
+  examples: |
+    - Thời lượng học của mối khóa học tại Enspire là bao lâu?
+
+- intent: phu_huynh_enspir_lam_kiem_soat_hoc_tieng_anh_con_trung_tam
+  examples: |
+    - Phụ huynh Enspire làm gì để kiểm soát được việc học tiếng anh của con tại trung tâm?
+
+- intent: giao_vien_enspir_giao_vien_ban_ngu
+  examples: |
+    - Giáo viên Enspire có phải là giáo viên bản ngữ không?
+
+- intent: khoa_hoc_dien_trong_bao_lau
+  examples: |
+    - Mỗi khóa học diễn ra trong bao lâu?
